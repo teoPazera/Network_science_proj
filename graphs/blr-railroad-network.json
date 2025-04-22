@@ -1,0 +1,5193 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1951469,
+          53.137659
+        ]
+      },
+      "id": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9036698,
+          52.4302009
+        ]
+      },
+      "id": "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u0456\u0442"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0762058,
+          53.0159519
+        ]
+      },
+      "id": "\u0421\u0432\u0456\u0441\u043b\u0430\u0447"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7501638,
+          52.064378
+        ]
+      },
+      "id": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9171666,
+          51.9449227
+        ]
+      },
+      "id": "\u0417\u0430\u043a\u0440\u0443\u0446\u0456\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1740141,
+          51.7047768
+        ]
+      },
+      "id": "\u0425\u0430\u0446\u0456\u0441\u043b\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8216837,
+          52.0062321
+        ]
+      },
+      "id": "\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1747494,
+          55.2570705
+        ]
+      },
+      "id": "\u0417\u044f\u0431\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6710266,
+          52.1396443
+        ]
+      },
+      "id": "\u041a\u0430\u043d\u0434\u0437\u0456\u0431\u043e\u0440"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4873098,
+          53.428305
+        ]
+      },
+      "id": "\u041b\u0430\u043f\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8184389,
+          52.185646
+        ]
+      },
+      "id": "\u041f\u0446\u0456\u0447"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2521286,
+          52.1755366
+        ]
+      },
+      "id": "\u042f\u0441\u0435\u043b\u044c\u0434\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4018903,
+          54.5063136
+        ]
+      },
+      "id": "\u041e\u0440\u0448\u0430-\u0423\u0441\u0445\u043e\u0434\u043d\u044f\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.354512,
+          52.4598697
+        ]
+      },
+      "id": "\u0413\u043e\u043b\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0784828,
+          52.3071217
+        ]
+      },
+      "id": "\u0423\u0446\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4239852,
+          53.2936201
+        ]
+      },
+      "id": "\u0420\u043e\u0441\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9407777,
+          52.5241699
+        ]
+      },
+      "id": "\u041a\u0430\u0441\u0446\u044e\u043a\u043e\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0048825,
+          55.4708831
+        ]
+      },
+      "id": "\u0413\u0430\u0440\u0430\u0434\u043e\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9779673,
+          55.6764955
+        ]
+      },
+      "id": "\u0411\u044b\u0447\u044b\u0445\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1123772,
+          55.2553399
+        ]
+      },
+      "id": "\u041b\u0443\u0436\u0430\u0441\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5964339,
+          55.5845805
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0430\u0432\u0443\u0445\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3530628,
+          54.2455245
+        ]
+      },
+      "id": "\u0411\u0435\u043d\u044f\u043a\u043e\u043d\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4359041,
+          53.9069094
+        ]
+      },
+      "id": "\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u0413\u043e\u0440\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4795368,
+          53.9084273
+        ]
+      },
+      "id": "\u0421\u043f\u0430\u0440\u0442\u044b\u045e\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4977357,
+          53.909671
+        ]
+      },
+      "id": "\u041f\u0443\u0448\u043a\u0456\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9965566,
+          52.4643739
+        ]
+      },
+      "id": "\u041f\u0440\u0443\u0434\u043e\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5490868,
+          53.8905701
+        ]
+      },
+      "id": "\u041c\u0456\u043d\u0441\u043a-\u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0882566,
+          55.3288609
+        ]
+      },
+      "id": "\u041b\u043e\u0441\u0432\u0456\u0434\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9436801,
+          55.449785
+        ]
+      },
+      "id": "\u0424\u0430\u043c\u0456\u043d\u043e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.041305,
+          55.6037838
+        ]
+      },
+      "id": "\u041f\u0430\u043b\u0430\u0442\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4539802,
+          53.9062312
+        ]
+      },
+      "id": "\u041a\u0443\u043d\u0446\u0430\u045e\u0448\u0447\u044b\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5709184,
+          53.8938442
+        ]
+      },
+      "id": "\u041f\u0435\u0440\u0448\u0430\u043c\u0430\u0439\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5864709,
+          53.8902509
+        ]
+      },
+      "id": "\u041f\u0440\u0430\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6479536,
+          53.8692203
+        ]
+      },
+      "id": "\u0410\u045e\u0442\u0430\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6288809,
+          53.8762966
+        ]
+      },
+      "id": "\u041f\u0430\u0440\u0442\u044b\u0437\u0430\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5229027,
+          53.9066349
+        ]
+      },
+      "id": "\u041c\u0430\u043b\u0430\u0434\u0437\u0451\u0436\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3471236,
+          53.9407828
+        ]
+      },
+      "id": "\u0420\u0430\u0442\u0430\u043c\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.040852,
+          53.4497691
+        ]
+      },
+      "id": "\u0412\u0430\u043b\u0430\u0441\u043a\u043e\u045e\u043d\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5540258,
+          53.9058375
+        ]
+      },
+      "id": "\u041d\u044f\u043c\u0456\u0433\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6145005,
+          53.8899194
+        ]
+      },
+      "id": "\u0422\u0440\u0430\u043a\u0442\u0430\u0440\u043d\u044b \u0437\u0430\u0432\u043e\u0434"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6742453,
+          53.861991
+        ]
+      },
+      "id": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0013029,
+          52.2530004
+        ]
+      },
+      "id": "\u0411\u0440\u044b\u043d\u0451\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3413823,
+          53.3740626
+        ]
+      },
+      "id": "\u0422\u0430\u043b\u044c\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9304721,
+          54.8742944
+        ]
+      },
+      "id": "\u0417\u0430\u0441\u043b\u043e\u043d\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9559827,
+          52.7749669
+        ]
+      },
+      "id": "\u0420\u0430\u0442\u043c\u0456\u0440\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6290894,
+          52.5485851
+        ]
+      },
+      "id": "\u0416\u044d\u0440\u0434\u0437\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4490588,
+          53.1542492
+        ]
+      },
+      "id": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a-\u0413\u043e\u0440\u0430\u0434"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3349492,
+          53.7446674
+        ]
+      },
+      "id": "\u0424\u0430\u043d\u0456\u043f\u0430\u043b\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6910378,
+          54.8754568
+        ]
+      },
+      "id": "\u041b\u0435\u043f\u0435\u043b\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4534849,
+          53.8154926
+        ]
+      },
+      "id": "\u041f\u0430\u043c\u044b\u0441\u043b\u0456\u0448\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5618112,
+          53.9009334
+        ]
+      },
+      "id": "\u041a\u0443\u043f\u0430\u043b\u0430\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5393148,
+          53.9053364
+        ]
+      },
+      "id": "\u0424\u0440\u0443\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7560125,
+          53.4824032
+        ]
+      },
+      "id": "\u0421\u0442\u043e\u045e\u0431\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6633113,
+          53.9146131
+        ]
+      },
+      "id": "\u0421\u0446\u044f\u043f\u044f\u043d\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7166407,
+          53.9325829
+        ]
+      },
+      "id": "\u0410\u0437\u044f\u0440\u044b\u0448\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5797714,
+          53.8080972
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u044f\u0434\u0437\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8469774,
+          53.9867208
+        ]
+      },
+      "id": "\u0413\u0430\u0440\u0430\u0434\u0437\u0456\u0448\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3261022,
+          53.1205096
+        ]
+      },
+      "id": "\u0424\u0430\u043b\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000732,
+          52.2912163
+        ]
+      },
+      "id": "\u0411\u0430\u0431\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8281995,
+          52.2551559
+        ]
+      },
+      "id": "\u0412\u0430\u0441\u0456\u043b\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5860307,
+          52.3682522
+        ]
+      },
+      "id": "\u042f\u043a\u0456\u043c\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4942686,
+          52.2579289
+        ]
+      },
+      "id": "\u041b\u044b\u0448\u0447\u044b\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4713263,
+          52.3629974
+        ]
+      },
+      "id": "\u0425\u0430\u043b\u043e\u0434\u043d\u0456\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.420223,
+          52.2699834
+        ]
+      },
+      "id": "\u0413\u0430\u0440\u043e\u0447\u044b\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0248571,
+          52.16527
+        ]
+      },
+      "id": "\u041a\u0430\u0446\u0443\u0440\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2053136,
+          51.9528259
+        ]
+      },
+      "id": "\u041c\u0456\u0445\u0430\u043b\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2730469,
+          51.900985
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0431\u0430\u0440\u043e\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3855367,
+          52.2147864
+        ]
+      },
+      "id": "\u042e\u0448\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3271357,
+          51.4737446
+        ]
+      },
+      "id": "\u041f\u043e\u0441\u0443\u0434\u043e\u0432\u043e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3814132,
+          52.4004991
+        ]
+      },
+      "id": "\u0412\u044b\u0441\u043e\u043a\u0430-\u041b\u0456\u0442\u043e\u045e\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8596657,
+          53.5967604
+        ]
+      },
+      "id": "\u0420\u0443\u0434\u0437\u0435\u043d\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.908454,
+          52.9522372
+        ]
+      },
+      "id": "\u0423\u0440\u044d\u0447\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2695073,
+          53.0407932
+        ]
+      },
+      "id": "\u0421\u0442\u0430\u0440\u044b\u044f \u0414\u0430\u0440\u043e\u0433\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5874383,
+          52.9973709
+        ]
+      },
+      "id": "\u041d\u0430\u0432\u0430\u0434\u0432\u043e\u0440\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6952464,
+          52.9836601
+        ]
+      },
+      "id": "\u041d\u0435\u043a\u0440\u0430\u0448\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0922896,
+          52.3256715
+        ]
+      },
+      "id": "\u041b\u0456\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3066569,
+          52.342404
+        ]
+      },
+      "id": "\u0420\u0430\u0431\u0443\u0441\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6123037,
+          51.5513449
+        ]
+      },
+      "id": "\u0423\u043b\u0430\u0434\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6442503,
+          51.8046433
+        ]
+      },
+      "id": "\u0414\u0443\u0431\u0456\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6537499,
+          51.9247115
+        ]
+      },
+      "id": "\u041a\u043e\u0434\u0437\u0435\u043d\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5818418,
+          52.208348
+        ]
+      },
+      "id": "\u041c\u0430\u0442\u044b\u043a\u0430\u043b\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4926984,
+          52.1610106
+        ]
+      },
+      "id": "\u0413\u0430\u043b\u044f\u0432\u0456\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6736952,
+          52.2230515
+        ]
+      },
+      "id": "\u041d\u0430\u0445\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1535806,
+          51.821249
+        ]
+      },
+      "id": "\u0415\u043b\u044c\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5814255,
+          55.4240802
+        ]
+      },
+      "id": "\u0424\u0430\u0440\u044b\u043d\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.94006,
+          55.8169101
+        ]
+      },
+      "id": "\u0412\u0435\u0440\u0445\u043d\u044f\u0434\u0437\u0432\u0456\u043d\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9758481,
+          55.1612064
+        ]
+      },
+      "id": "\u041f\u0430\u0434\u0441\u0432\u0456\u043b\u043b\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4991755,
+          53.5992327
+        ]
+      },
+      "id": "\u0412\u043e\u043d\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2023532,
+          54.0382574
+        ]
+      },
+      "id": "\u0427\u044b\u0440\u0432\u043e\u043d\u044b \u0421\u0446\u044f\u0433"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3408076,
+          54.1023042
+        ]
+      },
+      "id": "\u0416\u043e\u0434\u0437\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5379772,
+          53.3149057
+        ]
+      },
+      "id": "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2963582,
+          53.2044448
+        ]
+      },
+      "id": "\u041f\u0430\u0433\u0430\u0440\u044d\u043b\u044c\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7957765,
+          55.0135071
+        ]
+      },
+      "id": "\u041b\u0451\u0437\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9401072,
+          54.9884109
+        ]
+      },
+      "id": "\u0417\u0430\u0432\u043e\u043b\u044c\u0448\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8107916,
+          54.2991826
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u0435\u0434\u0437\u0456\u043d\u043e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2071672,
+          54.842672
+        ]
+      },
+      "id": "\u0411\u0430\u0433\u0443\u0448\u044d\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1538741,
+          54.171179
+        ]
+      },
+      "id": "\u0411\u0430\u0433\u0434\u0430\u043d\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0590108,
+          55.4086041
+        ]
+      },
+      "id": "\u0417\u0430\u043b\u0443\u0447\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0353945,
+          54.4702321
+        ]
+      },
+      "id": "\u041a\u043e\u0445\u0430\u043d\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6460443,
+          53.2995274
+        ]
+      },
+      "id": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3465611,
+          55.3460655
+        ]
+      },
+      "id": "\u0417\u0430\u0433\u0430\u0446\u0446\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.079613,
+          55.2146366
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0430\u0432\u043e\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6029247,
+          54.8786346
+        ]
+      },
+      "id": "\u041f\u0430\u0440\u0430\u0444\u02bc\u044f\u043d\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4695805,
+          55.368004
+        ]
+      },
+      "id": "\u0428\u0430\u0440\u043a\u0430\u045e\u0448\u0447\u044b\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4803948,
+          55.7783723
+        ]
+      },
+      "id": "\u0414\u0440\u0443\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3713489,
+          53.0859959
+        ]
+      },
+      "id": "\u0421\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2416807,
+          53.5093387
+        ]
+      },
+      "id": "\u041d\u044f\u0441\u044f\u0442\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5148783,
+          53.0426043
+        ]
+      },
+      "id": "\u0426\u044f\u043b\u0443\u0448\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1831247,
+          54.6749256
+        ]
+      },
+      "id": "\u041a\u043d\u044f\u0433\u0456\u043d\u0456\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4476129,
+          54.5422401
+        ]
+      },
+      "id": "\u041e\u0440\u0448\u0430-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6587692,
+          54.6496923
+        ]
+      },
+      "id": "\u0410\u0441\u0456\u043d\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5638494,
+          54.6207756
+        ]
+      },
+      "id": "\u0425\u043b\u044e\u0441\u0446\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1765541,
+          55.0134354
+        ]
+      },
+      "id": "\u0417\u0430\u043c\u0430\u0441\u0442\u043e\u0447\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2979578,
+          55.1113141
+        ]
+      },
+      "id": "\u0417\u0430\u0431\u0430\u043b\u043e\u0446\u0456\u043d\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3025634,
+          55.2850241
+        ]
+      },
+      "id": "\u041f\u0440\u044b\u0434\u0437\u0432\u0456\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2683635,
+          55.222075
+        ]
+      },
+      "id": "\u0412\u0456\u0446\u044c\u0431\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0677726,
+          53.1764804
+        ]
+      },
+      "id": "\u041c\u0456\u0440\u0430\u0434\u0437\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1681807,
+          53.0317596
+        ]
+      },
+      "id": "\u041a\u0440\u0430\u0441\u043d\u044b \u0411\u0440\u043e\u0434"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7431732,
+          53.5457397
+        ]
+      },
+      "id": "\u0413\u0440\u0430\u0434\u0437\u044f\u043d\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5197067,
+          53.3383849
+        ]
+      },
+      "id": "\u0412\u0435\u0440\u0430\u0439\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5621254,
+          53.2548902
+        ]
+      },
+      "id": "\u0414\u0437\u0435\u0440\u0430\u045e\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4906032,
+          53.1766559
+        ]
+      },
+      "id": "\u0414\u0430\u0440\u0430\u0433\u0430\u043d\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7041196,
+          53.3021327
+        ]
+      },
+      "id": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 2"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3300532,
+          55.7344613
+        ]
+      },
+      "id": "\u0410\u043b\u0451\u0448\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4462219,
+          54.3083904
+        ]
+      },
+      "id": "\u0421\u043b\u0430\u045e\u043d\u0430\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7610814,
+          55.2638046
+        ]
+      },
+      "id": "\u042f\u0437\u0432\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9398844,
+          55.5850588
+        ]
+      },
+      "id": "\u0420\u0430\u0441\u043b\u044f\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7208092,
+          55.4538462
+        ]
+      },
+      "id": "\u041a\u0441\u0442\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3623975,
+          53.7920681
+        ]
+      },
+      "id": "\u041c\u0456\u043d\u043e\u0439\u0442\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.652398,
+          53.9782661
+        ]
+      },
+      "id": "\u0413\u0430\u045e\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0321167,
+          53.084033
+        ]
+      },
+      "id": "\u0410\u0437\u044f\u0440\u043d\u0456\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4138501,
+          53.1385203
+        ]
+      },
+      "id": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6892142,
+          52.1706308
+        ]
+      },
+      "id": "\u041a\u0440\u0443\u0433\u0430\u0432\u0435\u0446"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4175813,
+          52.2099082
+        ]
+      },
+      "id": "\u0426\u0435\u0440\u0430\u0445\u043e\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3649248,
+          53.9174365
+        ]
+      },
+      "id": "\u0413\u0443\u0442\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2937648,
+          54.0783835
+        ]
+      },
+      "id": "\u0411\u0430\u0441\u0442\u0443\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5998552,
+          53.3512301
+        ]
+      },
+      "id": "\u0412\u044b\u0433\u0430\u0434\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5865558,
+          53.4639349
+        ]
+      },
+      "id": "\u041d\u0430\u0432\u0430\u0435\u043b\u044c\u043d\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2653804,
+          53.9583248
+        ]
+      },
+      "id": "\u0413\u0443\u0434\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2951169,
+          53.8811516
+        ]
+      },
+      "id": "\u041b\u0456\u0434\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3003101,
+          53.1114136
+        ]
+      },
+      "id": "\u0410\u043d\u0434\u0440\u044d\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.799002,
+          53.1619987
+        ]
+      },
+      "id": "\u0417\u044d\u043b\u044c\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.837702,
+          54.2763842
+        ]
+      },
+      "id": "\u041f\u0440\u044b\u044f\u043c\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4779079,
+          52.4335183
+        ]
+      },
+      "id": "\u0417\u0430\u043a\u0430\u043f\u044b\u0446\u0446\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.089863,
+          52.4040801
+        ]
+      },
+      "id": "\u0406\u043f\u0443\u0446\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1681472,
+          52.3892028
+        ]
+      },
+      "id": "\u041b\u0430\u0440\u044b\u0448\u0447\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2103012,
+          52.3080529
+        ]
+      },
+      "id": "\u0417\u044f\u0431\u0440\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9451003,
+          52.4563244
+        ]
+      },
+      "id": "\u0413\u043e\u043c\u0435\u043b\u044c-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4812434,
+          53.9284186
+        ]
+      },
+      "id": "\u0425\u043e\u0434\u0430\u0441\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1614714,
+          53.2331728
+        ]
+      },
+      "id": "\u0411\u044f\u043b\u044b\u043d\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1571068,
+          53.7224028
+        ]
+      },
+      "id": "\u0428\u0430\u0441\u0446\u0451\u0440\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9280372,
+          53.7812923
+        ]
+      },
+      "id": "\u0427\u0430\u0432\u0443\u0441\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9899653,
+          54.264066
+        ]
+      },
+      "id": "\u041f\u0430\u0433\u043e\u0434\u0437\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2761336,
+          53.7624928
+        ]
+      },
+      "id": "\u0412\u0435\u0440\u0430\u043c\u0435\u0439\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2130719,
+          53.7950837
+        ]
+      },
+      "id": "\u0427\u0430\u0440\u043d\u0430\u0437\u0451\u043c\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1619806,
+          53.8489587
+        ]
+      },
+      "id": "\u0413\u0430\u043b\u044b\u043d\u0435\u0446"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2406544,
+          53.7474205
+        ]
+      },
+      "id": "\u0414\u0430\u0448\u043a\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2611284,
+          53.6613711
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0441\u0443\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8927469,
+          54.5966739
+        ]
+      },
+      "id": "\u0413\u0443\u0434\u0430\u0433\u0430\u0439"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6475113,
+          52.2053757
+        ]
+      },
+      "id": "\u041a\u043e\u0440\u0436\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7299824,
+          52.1216257
+        ]
+      },
+      "id": "\u042e\u0445\u043d\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8791469,
+          52.5718378
+        ]
+      },
+      "id": "\u041b\u0430\u0437\u0443\u0440\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2426895,
+          54.097112
+        ]
+      },
+      "id": "\u0426\u0451\u043c\u043d\u044b \u041b\u0435\u0441"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4410016,
+          53.755432
+        ]
+      },
+      "id": "\u0410\u0441\u0430\u0432\u0435\u0446"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2487134,
+          53.8685739
+        ]
+      },
+      "id": "\u0411\u0443\u0439\u043d\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3560834,
+          53.9195412
+        ]
+      },
+      "id": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 3"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6875926,
+          53.8242424
+        ]
+      },
+      "id": "\u0420\u044d\u0441\u0442\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1634276,
+          53.4052091
+        ]
+      },
+      "id": "\u041b\u0443\u0434\u0447\u044b\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2922893,
+          54.1577358
+        ]
+      },
+      "id": "\u0420\u044b\u0436\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1383855,
+          52.2538978
+        ]
+      },
+      "id": "\u0421\u0442\u0430\u0440\u0443\u0448\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5620693,
+          52.2077052
+        ]
+      },
+      "id": "\u041c\u0443\u043b\u044f\u0440\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6919598,
+          52.1960194
+        ]
+      },
+      "id": "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u0446"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9506143,
+          52.1751551
+        ]
+      },
+      "id": "\u041c\u044b\u0448\u0430\u043d\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.187084,
+          52.4667242
+        ]
+      },
+      "id": "\u0411\u0435\u043b\u0430\u0430\u0437\u0451\u0440\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7284598,
+          53.1209565
+        ]
+      },
+      "id": "\u041f\u0430\u043b\u043e\u043d\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7512696,
+          53.2975399
+        ]
+      },
+      "id": "\u041c\u0456\u0446\u043a\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8178965,
+          53.26789
+        ]
+      },
+      "id": "\u041c\u043e\u0440\u0434\u0437\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4028575,
+          53.8771537
+        ]
+      },
+      "id": "\u041b\u0443\u043f\u0430\u043b\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.128409,
+          53.3048355
+        ]
+      },
+      "id": "\u0422\u043e\u0448\u0447\u044b\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3156718,
+          52.2282399
+        ]
+      },
+      "id": "\u041a\u0430\u043f\u0446\u044d\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5408753,
+          52.4685419
+        ]
+      },
+      "id": "\u0410\u0441\u0442\u0430\u043d\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9329633,
+          53.1923333
+        ]
+      },
+      "id": "\u0414\u0430\u043c\u0430\u0448\u044d\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7578841,
+          52.3999122
+        ]
+      },
+      "id": "\u041f\u0440\u044b\u0431\u0430\u0440"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8159044,
+          52.598225
+        ]
+      },
+      "id": "\u0423\u0437\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5674242,
+          52.7128702
+        ]
+      },
+      "id": "\u0411\u0443\u0434\u0430-\u041a\u0430\u0448\u0430\u043b\u0451\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4098091,
+          52.2480122
+        ]
+      },
+      "id": "\u041f\u0430\u0440\u0430\u0445\u043e\u043d\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4349011,
+          52.7585667
+        ]
+      },
+      "id": "\u0413\u0430\u043d\u0446\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3334296,
+          52.8176299
+        ]
+      },
+      "id": "\u0421\u0430\u043b\u0442\u0430\u043d\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8183957,
+          52.7233191
+        ]
+      },
+      "id": "\u042f\u0448\u0447\u044b\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0790237,
+          52.2231042
+        ]
+      },
+      "id": "\u041b\u0430\u0445\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3072685,
+          52.9795604
+        ]
+      },
+      "id": "\u0420\u0430\u0439\u0442\u0430\u043d\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7103619,
+          52.448872
+        ]
+      },
+      "id": "\u041b\u044e\u0448\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.617672,
+          52.2966087
+        ]
+      },
+      "id": "\u041b\u043e\u045e\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.092973,
+          53.1990655
+        ]
+      },
+      "id": "\u0421\u0442\u0430\u0440\u0430\u0441\u0435\u043b\u044c\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4734529,
+          52.215002
+        ]
+      },
+      "id": "\u041c\u0456\u043a\u0430\u0448\u044d\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.688072,
+          53.7461263
+        ]
+      },
+      "id": "\u041c\u0456\u0445\u0430\u043d\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3435357,
+          53.0952528
+        ]
+      },
+      "id": "\u0421\u043b\u043e\u043d\u0456\u043c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2127575,
+          54.0695277
+        ]
+      },
+      "id": "\u0420\u0430\u0434\u0430\u0448\u043a\u043e\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3455273,
+          52.2236546
+        ]
+      },
+      "id": "\u041a\u043e\u0431\u0440\u044b\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5451471,
+          52.7931801
+        ]
+      },
+      "id": "\u0421\u0430\u043b\u0456\u0433\u043e\u0440\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6748836,
+          55.5427161
+        ]
+      },
+      "id": "\u0420\u0430\u043f\u043d\u044f\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1427136,
+          53.5099818
+        ]
+      },
+      "id": "\u041f\u0443\u0445\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1457577,
+          52.1469255
+        ]
+      },
+      "id": "\u041a\u043b\u0456\u043d\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7896242,
+          53.5581698
+        ]
+      },
+      "id": "\u0420\u0430\u0436\u0430\u043d\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0890536,
+          52.122224
+        ]
+      },
+      "id": "\u041f\u0456\u043d\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0508451,
+          53.0934587
+        ]
+      },
+      "id": "\u0420\u0430\u0433\u0430\u0447\u043e\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5861836,
+          52.825951
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u0456\u0439 1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5776183,
+          52.8661821
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u0456\u0439 3"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4791939,
+          52.3730658
+        ]
+      },
+      "id": "\u0421\u0435\u043d\u0430\u0437\u0430\u0432\u043e\u0434"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5420979,
+          53.4287547
+        ]
+      },
+      "id": "\u041c\u0430\u0441\u0442\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0522051,
+          52.1820308
+        ]
+      },
+      "id": "\u0414\u0440\u0430\u0433\u0456\u0447\u044b\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9241193,
+          53.6076759
+        ]
+      },
+      "id": "\u041a\u043b\u0456\u043c\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7105017,
+          52.0945877
+        ]
+      },
+      "id": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u043b\u0435\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1552547,
+          54.6285085
+        ]
+      },
+      "id": "\u0421\u043c\u0430\u043b\u044c\u044f\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1406989,
+          54.8341021
+        ]
+      },
+      "id": "\u0427\u0430\u0448\u043d\u0456\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2958936,
+          55.305103
+        ]
+      },
+      "id": "\u041a\u0443\u043b\u044c\u0433\u0430\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0996366,
+          54.1492116
+        ]
+      },
+      "id": "\u0410\u043b\u044f\u0445\u043d\u043e\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.64799,
+          54.7119892
+        ]
+      },
+      "id": "\u0411\u0443\u0440\u0431\u0456\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2896118,
+          54.3757517
+        ]
+      },
+      "id": "\u041f\u0440\u043e\u043a\u0448\u044b\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6804112,
+          52.1004334
+        ]
+      },
+      "id": "\u0411\u0440\u044d\u0441\u0442-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.901325,
+          52.7812039
+        ]
+      },
+      "id": "\u041c\u043e\u0440\u043c\u0430\u043b\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9917414,
+          53.4005672
+        ]
+      },
+      "id": "\u042f\u043b\u0456\u0437\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0064561,
+          51.9184283
+        ]
+      },
+      "id": "\u0425\u043e\u0439\u043d\u0456\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0052148,
+          52.9874013
+        ]
+      },
+      "id": "\u041b\u0443\u043a\u0441\u043a\u0430\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8960465,
+          54.6392273
+        ]
+      },
+      "id": "\u041b\u0435\u043c\u043d\u0456\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6717746,
+          55.1328782
+        ]
+      },
+      "id": "\u0413\u043b\u044b\u0431\u043e\u043a\u0430\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3219706,
+          54.4450269
+        ]
+      },
+      "id": "\u0427\u044d\u0440\u0432\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0342414,
+          55.4249573
+        ]
+      },
+      "id": "\u0413\u0430\u0440\u0430\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8312774,
+          55.4804029
+        ]
+      },
+      "id": "\u0421\u043e\u0441\u043d\u0456\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0154351,
+          53.1539089
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8848811,
+          55.2278829
+        ]
+      },
+      "id": "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u044f\u043b\u043e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4692575,
+          55.6212459
+        ]
+      },
+      "id": "\u0410\u0434\u0430\u043c\u043e\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3215463,
+          52.3993377
+        ]
+      },
+      "id": "\u0414\u043e\u0431\u0440\u0443\u0448"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1411847,
+          54.1073027
+        ]
+      },
+      "id": "\u0414\u0443\u0431\u0440\u0430\u0432\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.526113,
+          53.905291
+        ]
+      },
+      "id": "\u041c\u0456\u043d\u0441\u043a \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4601097,
+          54.4402331
+        ]
+      },
+      "id": "\u0420\u0443\u043c\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4490685,
+          55.3172299
+        ]
+      },
+      "id": "\u041b\u043e\u045e\u0448\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.325982,
+          55.6703233
+        ]
+      },
+      "id": "\u0411\u043e\u0440\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9384129,
+          53.1068974
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0430\u045e\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2142743,
+          55.6986931
+        ]
+      },
+      "id": "\u0414\u0440\u044d\u0442\u0443\u043d\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1414341,
+          54.6780423
+        ]
+      },
+      "id": "\u041d\u043e\u0432\u0430\u043b\u0443\u043a\u043e\u043c\u043b\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0668463,
+          51.631636
+        ]
+      },
+      "id": "\u0421\u043b\u0430\u0432\u0435\u0447\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3501905,
+          53.8929509
+        ]
+      },
+      "id": "\u0414\u0437\u0435\u0433\u0446\u044f\u0440\u043e\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7702562,
+          51.9887977
+        ]
+      },
+      "id": "\u0412\u0456\u0434\u0437\u0456\u0431\u043e\u0440"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9885655,
+          53.691482
+        ]
+      },
+      "id": "\u0421\u043a\u0440\u044b\u0431\u0430\u045e\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1090827,
+          53.6181581
+        ]
+      },
+      "id": "\u0416\u044b\u0442\u043e\u043c\u043b\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2022815,
+          52.3344234
+        ]
+      },
+      "id": "\u0414\u0437\u0435\u043c\u044f\u0445\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1590037,
+          53.682567
+        ]
+      },
+      "id": "\u041a\u043e\u0439\u0434\u0430\u043d\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0665884,
+          54.2528938
+        ]
+      },
+      "id": "\u0423\u0448\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0423391,
+          53.1292146
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u043b\u0435\u0441\u043a\u0456\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.072475,
+          53.6071429
+        ]
+      },
+      "id": "\u041d\u0435\u0433\u0430\u0440\u044d\u043b\u0430\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3920135,
+          52.1462931
+        ]
+      },
+      "id": "\u0422\u0440\u0443\u0434\u0430\u0432\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7837539,
+          51.8520772
+        ]
+      },
+      "id": "\u0413\u0430\u0440\u044b\u043d\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2277492,
+          53.0289414
+        ]
+      },
+      "id": "\u041b\u044f\u0445\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.236289,
+          52.0861351
+        ]
+      },
+      "id": "\u041f\u0445\u043e\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0324149,
+          53.086543
+        ]
+      },
+      "id": "\u0426\u0456\u043c\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9869807,
+          52.4977696
+        ]
+      },
+      "id": "\u0421\u043e\u0436"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.439223,
+          52.1509802
+        ]
+      },
+      "id": "\u041f\u043e\u0441\u0442 151 \u043a\u043c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4262547,
+          53.9471076
+        ]
+      },
+      "id": "\u0416\u0434\u0430\u043d\u043e\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.579211,
+          52.5397001
+        ]
+      },
+      "id": "\u041c\u0430\u043b\u044c\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7074726,
+          54.2279326
+        ]
+      },
+      "id": "\u041f\u0430\u043b\u0430\u0447\u0430\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9678025,
+          53.1161085
+        ]
+      },
+      "id": "\u0411\u0435\u0440\u0430\u0441\u0442\u0430\u0432\u0456\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1955327,
+          52.8524424
+        ]
+      },
+      "id": "\u0425\u0430\u043b\u044c\u0447"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5466801,
+          53.8898402
+        ]
+      },
+      "id": "\u0412\u0430\u043a\u0437\u0430\u043b\u044c\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6982871,
+          54.2507188
+        ]
+      },
+      "id": "\u041d\u0430\u0432\u0430\u0441\u0430\u0434\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3504354,
+          52.1406329
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u0456\u043d\u043a\u0430\u0432\u0456\u0447\u044b \u0423\u0441\u0445\u043e\u0434\u043d\u0456\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3934602,
+          52.3492366
+        ]
+      },
+      "id": "\u0420\u044d\u0447\u044b\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2695057,
+          54.0941398
+        ]
+      },
+      "id": "\u041b\u0430\u0442\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0365835,
+          53.8034068
+        ]
+      },
+      "id": "\u0412\u0435\u043d\u0434\u0440\u044b\u0436"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7752393,
+          53.7041506
+        ]
+      },
+      "id": "\u0414\u0440\u0443\u0446\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.269933,
+          54.3153842
+        ]
+      },
+      "id": "\u041a\u043e\u043f\u044b\u0441\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7374436,
+          55.8343968
+        ]
+      },
+      "id": "\u0411\u0456\u0433\u043e\u0441\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9172202,
+          54.064342
+        ]
+      },
+      "id": "\u042e\u0440\u0430\u0446\u0456\u0448\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3134072,
+          53.4968789
+        ]
+      },
+      "id": "\u0427\u0430\u0440\u043b\u0451\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0201019,
+          55.1826865
+        ]
+      },
+      "id": "\u041a\u043d\u044f\u0436\u044b\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0496107,
+          52.9671682
+        ]
+      },
+      "id": "\u0412\u044f\u0440\u0445\u0443\u0446\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7857247,
+          52.9513992
+        ]
+      },
+      "id": "\u041a\u0440\u0430\u0441\u043d\u044b \u0411\u0435\u0440\u0430\u0433"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7753714,
+          53.9456373
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u043e\u0434\u0437\u0456\u0448\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1077498,
+          55.7544647
+        ]
+      },
+      "id": "\u0421\u0432\u043e\u043b\u044c\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2619235,
+          54.3196325
+        ]
+      },
+      "id": "\u0411\u043e\u0431\u0440"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0950735,
+          53.0860928
+        ]
+      },
+      "id": "\u0420\u0443\u0441\u0456\u043d\u043e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2150718,
+          55.1513608
+        ]
+      },
+      "id": "\u041b\u0443\u0447\u043e\u0441\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8560331,
+          52.2187303
+        ]
+      },
+      "id": "\u0416\u044b\u0442\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5520493,
+          52.1293737
+        ]
+      },
+      "id": "\u042f\u043d\u0430\u045e \u041f\u0430\u043b\u0435\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4067786,
+          52.2080321
+        ]
+      },
+      "id": "\u0421\u0456\u0442\u043d\u0456\u0446\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0809595,
+          54.5314076
+        ]
+      },
+      "id": "\u0410\u0448\u043c\u044f\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6540199,
+          52.1113358
+        ]
+      },
+      "id": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3134815,
+          52.1388971
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u0456\u043d\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9596152,
+          53.6742759
+        ]
+      },
+      "id": "\u0410\u0443\u043b\u044c\u0441"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5230206,
+          52.4704907
+        ]
+      },
+      "id": "\u0410\u0440\u0430\u043d\u0447\u044b\u0446\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9593661,
+          52.4395538
+        ]
+      },
+      "id": "\u0413\u043e\u043c\u0435\u043b\u044c \u0426\u043e\u0442\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.772892,
+          52.8039953
+        ]
+      },
+      "id": "\u041a\u0430\u043b\u0456\u0439 4"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.823069,
+          53.257568
+        ]
+      },
+      "id": "\u0422\u0430\u0442\u0430\u0440\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2750145,
+          55.3635946
+        ]
+      },
+      "id": "\u041e\u0431\u0430\u043b\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4396618,
+          55.031263
+        ]
+      },
+      "id": "\u041a\u0440\u044b\u043d\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2362221,
+          52.3399926
+        ]
+      },
+      "id": "\u0422\u044d\u045e\u043b\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8994016,
+          52.5329565
+        ]
+      },
+      "id": "\u0411\u044f\u0440\u043e\u0437\u0430-\u041a\u0430\u0440\u0442\u0443\u0437\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0927158,
+          52.6067761
+        ]
+      },
+      "id": "\u0411\u0440\u043e\u043d\u043d\u0430\u044f \u0413\u0430\u0440\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7272676,
+          52.1102695
+        ]
+      },
+      "id": "\u0411\u0440\u044d\u0441\u0442-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4742126,
+          52.8287159
+        ]
+      },
+      "id": "\u0414\u0430\u043c\u0430\u043d\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8633078,
+          53.0402383
+        ]
+      },
+      "id": "\u0413\u0440\u044b\u0446\u0430\u0432\u0435\u0446"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9256261,
+          53.5285083
+        ]
+      },
+      "id": "\u041a\u043e\u043b\u0430\u0441\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5866371,
+          53.8911821
+        ]
+      },
+      "id": "\u041c\u0456\u043d\u0441\u043a-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0562638,
+          53.8836984
+        ]
+      },
+      "id": "\u0428\u044d\u043c\u0435\u0442\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1924793,
+          54.5097767
+        ]
+      },
+      "id": "\u0421\u043e\u043b\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4108777,
+          54.5659352
+        ]
+      },
+      "id": "\u041c\u0430\u0436\u044d\u0435\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7133297,
+          53.2824864
+        ]
+      },
+      "id": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 3"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1006561,
+          52.3916939
+        ]
+      },
+      "id": "\u0411\u044f\u0440\u043e\u0437\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0328961,
+          52.3994995
+        ]
+      },
+      "id": "\u041d\u0430\u0432\u0430\u0431\u0435\u043b\u0456\u0446\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0619934,
+          52.3838699
+        ]
+      },
+      "id": "\u041b\u0456\u0441\u0456\u0447\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9544449,
+          52.8965135
+        ]
+      },
+      "id": "\u0416\u043b\u043e\u0431\u0456\u043d \u0417\u0430\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8465414,
+          52.6126289
+        ]
+      },
+      "id": "\u0420\u0430\u0431\u043a\u043e\u0440"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8390955,
+          54.3162397
+        ]
+      },
+      "id": "\u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4488889,
+          54.2202217
+        ]
+      },
+      "id": "\u0412\u0430\u043b\u043e\u0436\u044b\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8752089,
+          53.7412515
+        ]
+      },
+      "id": "\u0421\u0443\u043b\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7826894,
+          55.4918927
+        ]
+      },
+      "id": "\u041f\u043e\u043b\u0430\u0446\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3077618,
+          53.9122411
+        ]
+      },
+      "id": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 2"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0367122,
+          52.8899346
+        ]
+      },
+      "id": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0046599,
+          52.9155693
+        ]
+      },
+      "id": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.026017,
+          52.8655117
+        ]
+      },
+      "id": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u0434\u043e\u043b\u044c\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7108345,
+          53.7391402
+        ]
+      },
+      "id": "\u041a\u0440\u044b\u0447\u0430\u045e-1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2036542,
+          55.1416146
+        ]
+      },
+      "id": "\u0412\u0430\u0440\u0430\u043f\u0430\u0435\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3753211,
+          54.5041599
+        ]
+      },
+      "id": "\u041e\u0440\u0448\u0430-\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5227877,
+          53.014091
+        ]
+      },
+      "id": "\u0421\u043b\u0443\u0446\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1593971,
+          55.138981
+        ]
+      },
+      "id": "\u041c\u044f\u0434\u0437\u0432\u0451\u0434\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0075062,
+          53.0505968
+        ]
+      },
+      "id": "\u0421\u0432\u0435\u0440\u043a\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0094986,
+          52.8895691
+        ]
+      },
+      "id": "\u0416\u043b\u043e\u0431\u0456\u043d \u0421\u0430\u0440\u0442\u0430\u0432\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.547073,
+          53.8677526
+        ]
+      },
+      "id": "\u0410\u044d\u0440\u0430\u0434\u0440\u043e\u043c\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4071044,
+          54.791179
+        ]
+      },
+      "id": "\u0411\u0443\u0434\u0441\u043b\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5367949,
+          53.8501732
+        ]
+      },
+      "id": "\u041d\u0435\u043c\u0430\u0440\u0448\u0430\u043d\u0441\u043a\u0456 \u0421\u0430\u0434"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3166506,
+          54.6850569
+        ]
+      },
+      "id": "\u0421\u0442\u0430\u0439\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9978034,
+          55.76484
+        ]
+      },
+      "id": "\u0413\u0440\u044b\u0431\u0430\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0699979,
+          54.2989621
+        ]
+      },
+      "id": "\u041a\u0440\u0443\u043f\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7529774,
+          54.4023415
+        ]
+      },
+      "id": "\u0422\u0430\u043b\u0430\u0447\u044b\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3767749,
+          54.5210838
+        ]
+      },
+      "id": "\u041e\u0440\u0448\u0430-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4334363,
+          54.5952548
+        ]
+      },
+      "id": "\u0425\u043b\u0443\u0441\u0430\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.789075,
+          52.125149
+        ]
+      },
+      "id": "\u041f\u0440\u044b\u043f\u044f\u0446\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4330145,
+          53.6712944
+        ]
+      },
+      "id": "\u041d\u0451\u043c\u0430\u043d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5403848,
+          53.9047267
+        ]
+      },
+      "id": "\u042e\u0431\u0456\u043b\u0435\u0439\u043d\u0430\u044f \u043f\u043b\u043e\u0448\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1342324,
+          53.885872
+        ]
+      },
+      "id": "\u041f\u0430\u0440\u044d\u0447\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7677781,
+          52.9802897
+        ]
+      },
+      "id": "\u041b\u044f\u0441\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1016403,
+          52.2136734
+        ]
+      },
+      "id": "\u0426\u0435\u0440\u0443\u0445\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1170003,
+          52.3543545
+        ]
+      },
+      "id": "\u041a\u0430\u0440\u0430\u043d\u0451\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.857599,
+          55.1233039
+        ]
+      },
+      "id": "\u041f\u0430\u0441\u0442\u0430\u0432\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9738822,
+          55.8410306
+        ]
+      },
+      "id": "\u0415\u0437\u044f\u0440\u044b\u0448\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6185921,
+          55.3036331
+        ]
+      },
+      "id": "\u0428\u0443\u043c\u0456\u043b\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7819766,
+          55.0285162
+        ]
+      },
+      "id": "\u041a\u0440\u0443\u043b\u044f\u045e\u0448\u0447\u044b\u0437\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1806183,
+          52.0318246
+        ]
+      },
+      "id": "\u041c\u0430\u0437\u044b\u0440"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9935234,
+          53.1321602
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9297245,
+          54.5025678
+        ]
+      },
+      "id": "\u0412\u0456\u043b\u0435\u0439\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2839723,
+          54.0087677
+        ]
+      },
+      "id": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6610268,
+          54.3662671
+        ]
+      },
+      "id": "\u041f\u0440\u0443\u0434\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2033204,
+          53.1879116
+        ]
+      },
+      "id": "\u0428\u044b\u043d\u043d\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2215722,
+          52.6513376
+        ]
+      },
+      "id": "\u041a\u043e\u0441\u0430\u0432\u0430 \u041f\u0430\u043b\u0435\u0441\u043a\u0430\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3449906,
+          52.7090874
+        ]
+      },
+      "id": "\u0406\u0432\u0430\u0446\u044d\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7149385,
+          52.6309405
+        ]
+      },
+      "id": "\u0421\u0432\u0435\u0442\u043b\u0430\u0433\u043e\u0440\u0441\u043a-\u043d\u0430-\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.829944,
+          53.6748485
+        ]
+      },
+      "id": "\u041c\u0456\u0445\u0435\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6074423,
+          55.6258404
+        ]
+      },
+      "id": "\u041c\u0451\u0440\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9907544,
+          52.4306636
+        ]
+      },
+      "id": "\u0413\u043e\u043c\u0435\u043b\u044c \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5336813,
+          53.8422717
+        ]
+      },
+      "id": "\u0421\u043b\u0443\u0446\u043a\u0456 \u0413\u0430\u0441\u0446\u0456\u043d\u0435\u0446"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4645366,
+          52.1181848
+        ]
+      },
+      "id": "\u0414\u0435\u0440\u0435\u0432\u0438\u043d\u0438"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3107486,
+          55.0413478
+        ]
+      },
+      "id": "\u041b\u044b\u043d\u0442\u0443\u043f\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5496374,
+          53.8770344
+        ]
+      },
+      "id": "\u041a\u0430\u0432\u0430\u043b\u044c\u0441\u043a\u0430\u044f \u0421\u043b\u0430\u0431\u0430\u0434\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2491943,
+          53.1309853
+        ]
+      },
+      "id": "\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6666516,
+          53.5555298
+        ]
+      },
+      "id": "\u0411\u0440\u0443\u0437\u0433\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5310773,
+          54.2204535
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u044b\u0441\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5605881,
+          53.8654222
+        ]
+      },
+      "id": "\u041c\u0456\u043d\u0441\u043a-\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2240073,
+          53.5720512
+        ]
+      },
+      "id": "\u0421\u043a\u0456\u0434\u0437\u0435\u043b\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8490882,
+          53.6862323
+        ]
+      },
+      "id": "\u0413\u0440\u043e\u0434\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5379149,
+          53.8963922
+        ]
+      },
+      "id": "\u041f\u043b\u043e\u0448\u0447\u0430 \u0424\u0440\u0430\u043d\u0446\u0456\u0448\u043a\u0430 \u0411\u0430\u0433\u0443\u0448\u044d\u0432\u0456\u0447\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0596063,
+          53.3781274
+        ]
+      },
+      "id": "\u041a\u0430\u043c\u0443\u043d\u0430\u0440\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5410659,
+          54.4212686
+        ]
+      },
+      "id": "\u0417\u0430\u043b\u0435\u0441\u0441\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.230699,
+          53.5152284
+        ]
+      },
+      "id": "\u0411\u044b\u0445\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3714649,
+          54.4753456
+        ]
+      },
+      "id": "\u0421\u043c\u0430\u0440\u0433\u043e\u043d\u044c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3378666,
+          53.9262159
+        ]
+      },
+      "id": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2774905,
+          54.2190171
+        ]
+      },
+      "id": "\u0428\u043a\u043b\u043e\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.056894,
+          54.0195515
+        ]
+      },
+      "id": "\u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1850569,
+          55.194987
+        ]
+      },
+      "id": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0373439,
+          54.6826624
+        ]
+      },
+      "id": "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0170938,
+          52.2010852
+        ]
+      },
+      "id": "\u0416\u0430\u0431\u0456\u043d\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6598626,
+          53.0766461
+        ]
+      },
+      "id": "\u041a\u043b\u0435\u0446\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8069491,
+          52.2437953
+        ]
+      },
+      "id": "\u041b\u0443\u043d\u0456\u043d\u0435\u0446"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2587193,
+          52.2088797
+        ]
+      },
+      "id": "\u0421\u0456\u043d\u043a\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.540732,
+          53.8858665
+        ]
+      },
+      "id": "\u0406\u043d\u0441\u0442\u044b\u0442\u0443\u0442 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4748613,
+          53.8499141
+        ]
+      },
+      "id": "\u041c\u0430\u043b\u0456\u043d\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4861839,
+          53.8647388
+        ]
+      },
+      "id": "\u041f\u044f\u0442\u0440\u043e\u045e\u0448\u0447\u044b\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4971391,
+          53.8768793
+        ]
+      },
+      "id": "\u041c\u0456\u0445\u0430\u043b\u043e\u0432\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5148888,
+          53.8867145
+        ]
+      },
+      "id": "\u0413\u0440\u0443\u0448\u0430\u045e\u043a\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5478131,
+          53.8927643
+        ]
+      },
+      "id": "\u041f\u043b\u043e\u0448\u0447\u0430 \u041b\u0435\u043d\u0456\u043d\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5621727,
+          53.9020905
+        ]
+      },
+      "id": "\u041a\u0430\u0441\u0442\u0440\u044b\u0447\u043d\u0456\u0446\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5762446,
+          53.9094694
+        ]
+      },
+      "id": "\u041f\u043b\u043e\u0448\u0447\u0430 \u041f\u0435\u0440\u0430\u043c\u043e\u0433\u0456"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5840538,
+          53.9158336
+        ]
+      },
+      "id": "\u041f\u043b\u043e\u0448\u0447\u0430 \u042f\u043a\u0443\u0431\u0430 \u041a\u043e\u043b\u0430\u0441\u0430"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5993438,
+          53.9217548
+        ]
+      },
+      "id": "\u0410\u043a\u0430\u0434\u044d\u043c\u0456\u044f \u043d\u0430\u0432\u0443\u043a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6137161,
+          53.9242151
+        ]
+      },
+      "id": "\u041f\u0430\u0440\u043a \u0427\u0430\u043b\u044e\u0441\u043a\u0456\u043d\u0446\u0430\u045e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6281371,
+          53.9280537
+        ]
+      },
+      "id": "\u041c\u0430\u0441\u043a\u043e\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6513471,
+          53.9344505
+        ]
+      },
+      "id": "\u0423\u0441\u0445\u043e\u0434"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6666432,
+          53.9387279
+        ]
+      },
+      "id": "\u0411\u0430\u0440\u044b\u0441\u0430\u045e\u0441\u043a\u0456 \u0442\u0440\u0430\u043a\u0442"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6879112,
+          53.9453816
+        ]
+      },
+      "id": "\u0423\u0440\u0443\u0447\u0447\u0430"
+    }
+  ],
+  "links": [
+    {
+      "source": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u043a",
+      "target": "\u0428\u044b\u043d\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u043a",
+      "target": "\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u0456\u0442",
+      "target": "\u041f\u0440\u044b\u0431\u0430\u0440"
+    },
+    {
+      "source": "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u0456\u0442",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u0456\u0442",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u0426\u043e\u0442\u043d\u044b"
+    },
+    {
+      "source": "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u0456\u0442",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "source": "\u0421\u0432\u0456\u0441\u043b\u0430\u0447",
+      "target": "\u0410\u043d\u0434\u0440\u044d\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0421\u0432\u0456\u0441\u043b\u0430\u0447",
+      "target": "\u0411\u0435\u0440\u0430\u0441\u0442\u0430\u0432\u0456\u0446\u0430"
+    },
+    {
+      "source": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "source": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b",
+      "target": "\u041a\u043e\u0434\u0437\u0435\u043d\u044c"
+    },
+    {
+      "source": "\u0417\u0430\u043a\u0440\u0443\u0446\u0456\u043d",
+      "target": "\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u0417\u044f\u0431\u043a\u0456",
+      "target": "\u041a\u0443\u043b\u044c\u0433\u0430\u0456"
+    },
+    {
+      "source": "\u0417\u044f\u0431\u043a\u0456",
+      "target": "\u0411\u0430\u0440\u0430\u0432\u043e\u0435"
+    },
+    {
+      "source": "\u041a\u0430\u043d\u0434\u0437\u0456\u0431\u043e\u0440",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u041a\u0430\u043d\u0434\u0437\u0456\u0431\u043e\u0440",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "source": "\u041a\u0430\u043d\u0434\u0437\u0456\u0431\u043e\u0440",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "source": "\u041b\u0430\u043f\u0456\u0447\u044b",
+      "target": "\u0412\u0435\u0440\u0430\u0439\u0446\u044b"
+    },
+    {
+      "source": "\u042f\u0441\u0435\u043b\u044c\u0434\u0430",
+      "target": "\u041f\u0456\u043d\u0441\u043a"
+    },
+    {
+      "source": "\u041e\u0440\u0448\u0430-\u0423\u0441\u0445\u043e\u0434\u043d\u044f\u044f",
+      "target": "\u0420\u0443\u043c\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u041e\u0440\u0448\u0430-\u0423\u0441\u0445\u043e\u0434\u043d\u044f\u044f",
+      "target": "\u041e\u0440\u0448\u0430-\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f"
+    },
+    {
+      "source": "\u041e\u0440\u0448\u0430-\u0423\u0441\u0445\u043e\u0434\u043d\u044f\u044f",
+      "target": "\u041e\u0440\u0448\u0430-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u041e\u0440\u0448\u0430-\u0423\u0441\u0445\u043e\u0434\u043d\u044f\u044f",
+      "target": "\u041c\u0430\u0436\u044d\u0435\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u0413\u043e\u043b\u044f",
+      "target": "\u0412\u044b\u0441\u043e\u043a\u0430-\u041b\u0456\u0442\u043e\u045e\u0441\u043a"
+    },
+    {
+      "source": "\u0420\u043e\u0441\u044c",
+      "target": "\u041c\u0430\u0441\u0442\u044b"
+    },
+    {
+      "source": "\u0420\u043e\u0441\u044c",
+      "target": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a-\u0413\u043e\u0440\u0430\u0434"
+    },
+    {
+      "source": "\u041a\u0430\u0441\u0446\u044e\u043a\u043e\u045e\u043a\u0430",
+      "target": "\u0421\u043e\u0436"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u0430\u0434\u043e\u043a",
+      "target": "\u0417\u0430\u043b\u0443\u0447\u0447\u0430"
+    },
+    {
+      "source": "\u0411\u044b\u0447\u044b\u0445\u0430",
+      "target": "\u0420\u0430\u0441\u043b\u044f\u043a\u0456"
+    },
+    {
+      "source": "\u0411\u044b\u0447\u044b\u0445\u0430",
+      "target": "\u0413\u0440\u044b\u0431\u0430\u0447\u044b"
+    },
+    {
+      "source": "\u041b\u0443\u0436\u0430\u0441\u043d\u0430",
+      "target": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a"
+    },
+    {
+      "source": "\u041b\u0443\u0436\u0430\u0441\u043d\u0430",
+      "target": "\u041b\u043e\u0441\u0432\u0456\u0434\u0430"
+    },
+    {
+      "source": "\u041b\u0443\u0436\u0430\u0441\u043d\u0430",
+      "target": "\u041f\u0440\u044b\u0434\u0437\u0432\u0456\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u0432\u0443\u0445\u0430",
+      "target": "\u0424\u0430\u0440\u044b\u043d\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u0432\u0443\u0445\u0430",
+      "target": "\u0410\u0434\u0430\u043c\u043e\u0432\u0430"
+    },
+    {
+      "source": "\u0411\u0435\u043d\u044f\u043a\u043e\u043d\u0456",
+      "target": "\u0411\u0430\u0441\u0442\u0443\u043d\u044b"
+    },
+    {
+      "source": "\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u0413\u043e\u0440\u043a\u0430",
+      "target": "\u0414\u0437\u0435\u0433\u0446\u044f\u0440\u043e\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u0413\u043e\u0440\u043a\u0430",
+      "target": "\u041f\u0430\u043c\u044b\u0441\u043b\u0456\u0448\u0447\u0430"
+    },
+    {
+      "source": "\u0421\u043f\u0430\u0440\u0442\u044b\u045e\u043d\u0430\u044f",
+      "target": "\u041c\u0456\u0445\u0430\u043b\u043e\u0432\u0430"
+    },
+    {
+      "source": "\u0421\u043f\u0430\u0440\u0442\u044b\u045e\u043d\u0430\u044f",
+      "target": "\u0416\u0434\u0430\u043d\u043e\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0421\u043f\u0430\u0440\u0442\u044b\u045e\u043d\u0430\u044f",
+      "target": "\u041a\u0443\u043d\u0446\u0430\u045e\u0448\u0447\u044b\u043d\u0430"
+    },
+    {
+      "source": "\u0421\u043f\u0430\u0440\u0442\u044b\u045e\u043d\u0430\u044f",
+      "target": "\u041f\u0443\u0448\u043a\u0456\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u041f\u0443\u0448\u043a\u0456\u043d\u0441\u043a\u0430\u044f",
+      "target": "\u041c\u0430\u043b\u0430\u0434\u0437\u0451\u0436\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u041f\u0443\u0448\u043a\u0456\u043d\u0441\u043a\u0430\u044f",
+      "target": "\u041c\u0456\u043d\u0441\u043a \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u041f\u0443\u0448\u043a\u0456\u043d\u0441\u043a\u0430\u044f",
+      "target": "\u041f\u043b\u043e\u0448\u0447\u0430 \u0424\u0440\u0430\u043d\u0446\u0456\u0448\u043a\u0430 \u0411\u0430\u0433\u0443\u0448\u044d\u0432\u0456\u0447\u0430"
+    },
+    {
+      "source": "\u041f\u0440\u0443\u0434\u043e\u043a",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "source": "\u041f\u0440\u0443\u0434\u043e\u043a",
+      "target": "\u0421\u043e\u0436"
+    },
+    {
+      "source": "\u041f\u0440\u0443\u0434\u043e\u043a",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u0426\u043e\u0442\u043d\u044b"
+    },
+    {
+      "source": "\u041f\u0440\u0443\u0434\u043e\u043a",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u041f\u0440\u0443\u0434\u043e\u043a",
+      "target": "\u0420\u0430\u0441\u043b\u044f\u043a\u0456"
+    },
+    {
+      "source": "\u041c\u0456\u043d\u0441\u043a-\u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456",
+      "target": "\u0412\u0430\u043a\u0437\u0430\u043b\u044c\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u041c\u0456\u043d\u0441\u043a-\u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456",
+      "target": "\u041f\u0435\u0440\u0448\u0430\u043c\u0430\u0439\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u041b\u043e\u0441\u0432\u0456\u0434\u0430",
+      "target": "\u0417\u0430\u043b\u0443\u0447\u0447\u0430"
+    },
+    {
+      "source": "\u0424\u0430\u043c\u0456\u043d\u043e",
+      "target": "\u0421\u043e\u0441\u043d\u0456\u0446\u0430"
+    },
+    {
+      "source": "\u041f\u0430\u043b\u0430\u0442\u0430",
+      "target": "\u0421\u043e\u0441\u043d\u0456\u0446\u0430"
+    },
+    {
+      "source": "\u041f\u0430\u043b\u0430\u0442\u0430",
+      "target": "\u0414\u0440\u044d\u0442\u0443\u043d\u044c"
+    },
+    {
+      "source": "\u041a\u0443\u043d\u0446\u0430\u045e\u0448\u0447\u044b\u043d\u0430",
+      "target": "\u0416\u0434\u0430\u043d\u043e\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041f\u0435\u0440\u0448\u0430\u043c\u0430\u0439\u0441\u043a\u0430\u044f",
+      "target": "\u041f\u0440\u0430\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u041f\u0435\u0440\u0448\u0430\u043c\u0430\u0439\u0441\u043a\u0430\u044f",
+      "target": "\u041c\u0456\u043d\u0441\u043a-\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b"
+    },
+    {
+      "source": "\u041f\u0435\u0440\u0448\u0430\u043c\u0430\u0439\u0441\u043a\u0430\u044f",
+      "target": "\u0412\u0430\u043a\u0437\u0430\u043b\u044c\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u041f\u0440\u0430\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u044f",
+      "target": "\u041c\u0456\u043d\u0441\u043a-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "source": "\u0410\u045e\u0442\u0430\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f",
+      "target": "\u041f\u0430\u0440\u0442\u044b\u0437\u0430\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u0410\u045e\u0442\u0430\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f",
+      "target": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u041f\u0430\u0440\u0442\u044b\u0437\u0430\u043d\u0441\u043a\u0430\u044f",
+      "target": "\u0422\u0440\u0430\u043a\u0442\u0430\u0440\u043d\u044b \u0437\u0430\u0432\u043e\u0434"
+    },
+    {
+      "source": "\u041f\u0430\u0440\u0442\u044b\u0437\u0430\u043d\u0441\u043a\u0430\u044f",
+      "target": "\u0421\u0446\u044f\u043f\u044f\u043d\u043a\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u043b\u0430\u0434\u0437\u0451\u0436\u043d\u0430\u044f",
+      "target": "\u041c\u0456\u043d\u0441\u043a \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u041c\u0430\u043b\u0430\u0434\u0437\u0451\u0436\u043d\u0430\u044f",
+      "target": "\u0413\u0440\u0443\u0448\u0430\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u043b\u0430\u0434\u0437\u0451\u0436\u043d\u0430\u044f",
+      "target": "\u041f\u043b\u043e\u0448\u0447\u0430 \u0424\u0440\u0430\u043d\u0446\u0456\u0448\u043a\u0430 \u0411\u0430\u0433\u0443\u0448\u044d\u0432\u0456\u0447\u0430"
+    },
+    {
+      "source": "\u0420\u0430\u0442\u0430\u043c\u043a\u0430",
+      "target": "\u0416\u0434\u0430\u043d\u043e\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0420\u0430\u0442\u0430\u043c\u043a\u0430",
+      "target": "\u0414\u0437\u0435\u0433\u0446\u044f\u0440\u043e\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u0412\u0430\u043b\u0430\u0441\u043a\u043e\u045e\u043d\u044f",
+      "target": "\u041a\u0430\u043c\u0443\u043d\u0430\u0440\u044b"
+    },
+    {
+      "source": "\u0422\u0440\u0430\u043a\u0442\u0430\u0440\u043d\u044b \u0437\u0430\u0432\u043e\u0434",
+      "target": "\u041c\u0456\u043d\u0441\u043a-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "source": "\u0422\u0440\u0430\u043a\u0442\u0430\u0440\u043d\u044b \u0437\u0430\u0432\u043e\u0434",
+      "target": "\u041c\u0430\u0441\u043a\u043e\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u0422\u0440\u0430\u043a\u0442\u0430\u0440\u043d\u044b \u0437\u0430\u0432\u043e\u0434",
+      "target": "\u0421\u0446\u044f\u043f\u044f\u043d\u043a\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0430\u044f",
+      "target": "\u041a\u0430\u043b\u043e\u0434\u0437\u0456\u0448\u0447\u044b"
+    },
+    {
+      "source": "\u0411\u0440\u044b\u043d\u0451\u0432\u0430",
+      "target": "\u0416\u044b\u0442\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0422\u0430\u043b\u044c\u043a\u0430",
+      "target": "\u041f\u0443\u0445\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0422\u0430\u043b\u044c\u043a\u0430",
+      "target": "\u0412\u0435\u0440\u0430\u0439\u0446\u044b"
+    },
+    {
+      "source": "\u0422\u0430\u043b\u044c\u043a\u0430",
+      "target": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 1"
+    },
+    {
+      "source": "\u0420\u0430\u0442\u043c\u0456\u0440\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u0420\u0430\u0431\u043a\u043e\u0440"
+    },
+    {
+      "source": "\u0416\u044d\u0440\u0434\u0437\u044c",
+      "target": "\u0421\u0432\u0435\u0442\u043b\u0430\u0433\u043e\u0440\u0441\u043a-\u043d\u0430-\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0435"
+    },
+    {
+      "source": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a-\u0413\u043e\u0440\u0430\u0434",
+      "target": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "source": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a-\u0413\u043e\u0440\u0430\u0434",
+      "target": "\u0417\u044d\u043b\u044c\u0432\u0430"
+    },
+    {
+      "source": "\u0424\u0430\u043d\u0456\u043f\u0430\u043b\u044c",
+      "target": "\u041a\u043e\u0439\u0434\u0430\u043d\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u0424\u0430\u043d\u0456\u043f\u0430\u043b\u044c",
+      "target": "\u041f\u0430\u043c\u044b\u0441\u043b\u0456\u0448\u0447\u0430"
+    },
+    {
+      "source": "\u041f\u0430\u043c\u044b\u0441\u043b\u0456\u0448\u0447\u0430",
+      "target": "\u0414\u0437\u0435\u0433\u0446\u044f\u0440\u043e\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u041f\u0430\u043c\u044b\u0441\u043b\u0456\u0448\u0447\u0430",
+      "target": "\u041c\u0430\u043b\u0456\u043d\u0430\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u0421\u0442\u043e\u045e\u0431\u0446\u044b",
+      "target": "\u041a\u043e\u043b\u0430\u0441\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u0421\u0442\u043e\u045e\u0431\u0446\u044b",
+      "target": "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u044f"
+    },
+    {
+      "source": "\u0421\u0446\u044f\u043f\u044f\u043d\u043a\u0430",
+      "target": "\u041c\u0430\u0441\u043a\u043e\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u0421\u0446\u044f\u043f\u044f\u043d\u043a\u0430",
+      "target": "\u0410\u0437\u044f\u0440\u044b\u0448\u0447\u0430"
+    },
+    {
+      "source": "\u0410\u0437\u044f\u0440\u044b\u0448\u0447\u0430",
+      "target": "\u041a\u0430\u043b\u043e\u0434\u0437\u0456\u0448\u0447\u044b"
+    },
+    {
+      "source": "\u041a\u0430\u043b\u044f\u0434\u0437\u0456\u0447\u044b",
+      "target": "\u041c\u0456\u0445\u0430\u043d\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041a\u0430\u043b\u044f\u0434\u0437\u0456\u0447\u044b",
+      "target": "\u041c\u0456\u043d\u0441\u043a-\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b"
+    },
+    {
+      "source": "\u041a\u0430\u043b\u044f\u0434\u0437\u0456\u0447\u044b",
+      "target": "\u0421\u043b\u0443\u0446\u043a\u0456 \u0413\u0430\u0441\u0446\u0456\u043d\u0435\u0446"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u0430\u0434\u0437\u0456\u0448\u0447\u0430",
+      "target": "\u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u0430\u0434\u0437\u0456\u0448\u0447\u0430",
+      "target": "\u041a\u0430\u043b\u043e\u0434\u0437\u0456\u0448\u0447\u044b"
+    },
+    {
+      "source": "\u0424\u0430\u043b\u0456\u0447\u044b",
+      "target": "\u0421\u0442\u0430\u0440\u044b\u044f \u0414\u0430\u0440\u043e\u0433\u0456"
+    },
+    {
+      "source": "\u042f\u043a\u0456\u043c\u0430\u045e\u043a\u0430",
+      "target": "\u041f\u0440\u044b\u0431\u0430\u0440"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u043e\u0447\u044b\u0447\u044b",
+      "target": "\u042e\u0448\u043a\u0456"
+    },
+    {
+      "source": "\u041a\u0430\u0446\u0443\u0440\u044b",
+      "target": "\u041c\u044b\u0448\u0430\u043d\u043a\u0430"
+    },
+    {
+      "source": "\u041c\u0456\u0445\u0430\u043b\u043a\u0456",
+      "target": "\u041c\u0430\u0437\u044b\u0440"
+    },
+    {
+      "source": "\u041c\u0456\u0445\u0430\u043b\u043a\u0456",
+      "target": "\u0415\u043b\u044c\u0441\u043a"
+    },
+    {
+      "source": "\u041c\u0456\u0445\u0430\u043b\u043a\u0456",
+      "target": "\u0411\u0430\u0440\u0431\u0430\u0440\u043e\u045e"
+    },
+    {
+      "source": "\u0420\u0443\u0434\u0437\u0435\u043d\u0441\u043a",
+      "target": "\u041f\u0443\u0445\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0423\u0440\u044d\u0447\u0447\u0430",
+      "target": "\u041a\u0430\u043b\u0456\u0439 4"
+    },
+    {
+      "source": "\u0423\u0440\u044d\u0447\u0447\u0430",
+      "target": "\u0412\u044f\u0440\u0445\u0443\u0446\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u0423\u0440\u044d\u0447\u0447\u0430",
+      "target": "\u041d\u0435\u043a\u0440\u0430\u0448\u044b"
+    },
+    {
+      "source": "\u0420\u0430\u0431\u0443\u0441\u0430",
+      "target": "\u0421\u0435\u043d\u0430\u0437\u0430\u0432\u043e\u0434"
+    },
+    {
+      "source": "\u0420\u0430\u0431\u0443\u0441\u0430",
+      "target": "\u0420\u044d\u0447\u044b\u0446\u0430"
+    },
+    {
+      "source": "\u0420\u0430\u0431\u0443\u0441\u0430",
+      "target": "\u0414\u0437\u0435\u043c\u044f\u0445\u0456"
+    },
+    {
+      "source": "\u0423\u043b\u0430\u0434\u0430\u0432\u0430",
+      "target": "\u0414\u0443\u0431\u0456\u0446\u0430"
+    },
+    {
+      "source": "\u0414\u0443\u0431\u0456\u0446\u0430",
+      "target": "\u041a\u043e\u0434\u0437\u0435\u043d\u044c"
+    },
+    {
+      "source": "\u041c\u0430\u0442\u044b\u043a\u0430\u043b\u044b",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u0415\u043b\u044c\u0441\u043a",
+      "target": "\u0421\u043b\u0430\u0432\u0435\u0447\u043d\u0430"
+    },
+    {
+      "source": "\u0424\u0430\u0440\u044b\u043d\u0430\u0432\u0430",
+      "target": "\u0417\u0430\u0433\u0430\u0446\u0446\u0435"
+    },
+    {
+      "source": "\u0412\u0435\u0440\u0445\u043d\u044f\u0434\u0437\u0432\u0456\u043d\u0441\u043a",
+      "target": "\u0411\u0456\u0433\u043e\u0441\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u0412\u0435\u0440\u0445\u043d\u044f\u0434\u0437\u0432\u0456\u043d\u0441\u043a",
+      "target": "\u0421\u0432\u043e\u043b\u044c\u043d\u0430"
+    },
+    {
+      "source": "\u041f\u0430\u0434\u0441\u0432\u0456\u043b\u043b\u0435",
+      "target": "\u0411\u0430\u0440\u0430\u0432\u043e\u0435"
+    },
+    {
+      "source": "\u0427\u044b\u0440\u0432\u043e\u043d\u044b \u0421\u0446\u044f\u0433",
+      "target": "\u0416\u043e\u0434\u0437\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u0427\u044b\u0440\u0432\u043e\u043d\u044b \u0421\u0446\u044f\u0433",
+      "target": "\u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0416\u043e\u0434\u0437\u0456\u043d\u0430",
+      "target": "\u0411\u0430\u0440\u044b\u0441\u0430\u045e"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u044f",
+      "target": "\u041f\u0430\u0433\u0430\u0440\u044d\u043b\u044c\u0446\u044b"
+    },
+    {
+      "source": "\u041f\u0430\u0433\u0430\u0440\u044d\u043b\u044c\u0446\u044b",
+      "target": "\u0420\u0443\u0441\u0456\u043d\u043e"
+    },
+    {
+      "source": "\u041b\u0451\u0437\u043d\u0430",
+      "target": "\u0417\u0430\u0432\u043e\u043b\u044c\u0448\u0430"
+    },
+    {
+      "source": "\u041b\u0451\u0437\u043d\u0430",
+      "target": "\u041a\u0440\u044b\u043d\u043a\u0456"
+    },
+    {
+      "source": "\u041a\u0430\u043b\u0435\u0434\u0437\u0456\u043d\u043e",
+      "target": "\u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u043d\u0430"
+    },
+    {
+      "source": "\u041a\u0430\u043b\u0435\u0434\u0437\u0456\u043d\u043e",
+      "target": "\u041f\u0440\u0443\u0434\u044b"
+    },
+    {
+      "source": "\u041a\u0430\u043b\u0435\u0434\u0437\u0456\u043d\u043e",
+      "target": "\u041f\u0430\u043b\u0430\u0447\u0430\u043d\u044b"
+    },
+    {
+      "source": "\u0411\u0430\u0433\u0443\u0448\u044d\u045e\u0441\u043a\u0430\u044f",
+      "target": "\u0421\u0442\u0430\u0439\u043a\u0456"
+    },
+    {
+      "source": "\u0411\u0430\u0433\u0434\u0430\u043d\u0430\u045e",
+      "target": "\u042e\u0440\u0430\u0446\u0456\u0448\u043a\u0456"
+    },
+    {
+      "source": "\u0411\u0430\u0433\u0434\u0430\u043d\u0430\u045e",
+      "target": "\u0412\u0430\u043b\u043e\u0436\u044b\u043d"
+    },
+    {
+      "source": "\u041a\u043e\u0445\u0430\u043d\u0430\u0432\u0430",
+      "target": "\u0422\u0430\u043b\u0430\u0447\u044b\u043d"
+    },
+    {
+      "source": "\u041a\u043e\u0445\u0430\u043d\u0430\u0432\u0430",
+      "target": "\u0421\u043c\u0430\u043b\u044c\u044f\u043d\u044b"
+    },
+    {
+      "source": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 1",
+      "target": "\u0414\u0437\u0435\u0440\u0430\u045e\u0446\u044b"
+    },
+    {
+      "source": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 1",
+      "target": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 2"
+    },
+    {
+      "source": "\u0417\u0430\u0433\u0430\u0446\u0446\u0435",
+      "target": "\u041a\u0443\u043b\u044c\u0433\u0430\u0456"
+    },
+    {
+      "source": "\u041f\u0430\u0440\u0430\u0444\u02bc\u044f\u043d\u0430\u045e",
+      "target": "\u041a\u0440\u0443\u043b\u044f\u045e\u0448\u0447\u044b\u0437\u043d\u0430"
+    },
+    {
+      "source": "\u041f\u0430\u0440\u0430\u0444\u02bc\u044f\u043d\u0430\u045e",
+      "target": "\u0411\u0443\u0434\u0441\u043b\u0430\u045e"
+    },
+    {
+      "source": "\u0428\u0430\u0440\u043a\u0430\u045e\u0448\u0447\u044b\u043d\u0430",
+      "target": "\u0412\u0430\u0440\u0430\u043f\u0430\u0435\u0432\u0430"
+    },
+    {
+      "source": "\u0414\u0440\u0443\u044f",
+      "target": "\u041c\u0451\u0440\u044b"
+    },
+    {
+      "source": "\u0414\u0440\u0443\u044f",
+      "target": "\u0411\u0456\u0433\u043e\u0441\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u0421\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u0426\u044f\u043b\u0443\u0448\u0430"
+    },
+    {
+      "source": "\u0421\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u0426\u044f\u043b\u0443\u0448\u0430",
+      "target": "\u041a\u0440\u0430\u0441\u043d\u044b \u0411\u0435\u0440\u0430\u0433"
+    },
+    {
+      "source": "\u041a\u043d\u044f\u0433\u0456\u043d\u0456\u043d",
+      "target": "\u0411\u0443\u0434\u0441\u043b\u0430\u045e"
+    },
+    {
+      "source": "\u0410\u0441\u0456\u043d\u0430\u045e\u043a\u0430",
+      "target": "\u0425\u043b\u044e\u0441\u0446\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u0410\u0441\u0456\u043d\u0430\u045e\u043a\u0430",
+      "target": "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    },
+    {
+      "source": "\u0425\u043b\u044e\u0441\u0446\u0456\u043d\u0430",
+      "target": "\u0425\u043b\u0443\u0441\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u0417\u0430\u0431\u0430\u043b\u043e\u0446\u0456\u043d\u043a\u0430",
+      "target": "\u041a\u0440\u044b\u043d\u043a\u0456"
+    },
+    {
+      "source": "\u0417\u0430\u0431\u0430\u043b\u043e\u0446\u0456\u043d\u043a\u0430",
+      "target": "\u041b\u0443\u0447\u043e\u0441\u0430"
+    },
+    {
+      "source": "\u041f\u0440\u044b\u0434\u0437\u0432\u0456\u043d\u0441\u043a\u0430\u044f",
+      "target": "\u0412\u0456\u0446\u044c\u0431\u0430"
+    },
+    {
+      "source": "\u0412\u0456\u0446\u044c\u0431\u0430",
+      "target": "\u041b\u0443\u0447\u043e\u0441\u0430"
+    },
+    {
+      "source": "\u041a\u0440\u0430\u0441\u043d\u044b \u0411\u0440\u043e\u0434",
+      "target": "\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 2",
+      "target": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 3"
+    },
+    {
+      "source": "\u0410\u043b\u0451\u0448\u0447\u0430",
+      "target": "\u0414\u0440\u044d\u0442\u0443\u043d\u044c"
+    },
+    {
+      "source": "\u0421\u043b\u0430\u045e\u043d\u0430\u0435",
+      "target": "\u0411\u043e\u0431\u0440"
+    },
+    {
+      "source": "\u0421\u043b\u0430\u045e\u043d\u0430\u0435",
+      "target": "\u0422\u0430\u043b\u0430\u0447\u044b\u043d"
+    },
+    {
+      "source": "\u041a\u0441\u0442\u044b",
+      "target": "\u041f\u043e\u043b\u0430\u0446\u043a"
+    },
+    {
+      "source": "\u041c\u0456\u043d\u043e\u0439\u0442\u044b",
+      "target": "\u041d\u0451\u043c\u0430\u043d"
+    },
+    {
+      "source": "\u0413\u0430\u045e\u044f",
+      "target": "\u042e\u0440\u0430\u0446\u0456\u0448\u043a\u0456"
+    },
+    {
+      "source": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b",
+      "target": "\u0410\u043d\u0434\u0440\u044d\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041a\u0440\u0443\u0433\u0430\u0432\u0435\u0446",
+      "target": "\u0426\u0435\u0440\u0430\u0445\u043e\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u0413\u0443\u0442\u043d\u0430",
+      "target": "\u041b\u0456\u0434\u0430"
+    },
+    {
+      "source": "\u0411\u0430\u0441\u0442\u0443\u043d\u044b",
+      "target": "\u0413\u0443\u0434\u044b"
+    },
+    {
+      "source": "\u0412\u044b\u0433\u0430\u0434\u0430",
+      "target": "\u041d\u0430\u0432\u0430\u0435\u043b\u044c\u043d\u044f"
+    },
+    {
+      "source": "\u0412\u044b\u0433\u0430\u0434\u0430",
+      "target": "\u041c\u0456\u0446\u043a\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041d\u0430\u0432\u0430\u0435\u043b\u044c\u043d\u044f",
+      "target": "\u041d\u0451\u043c\u0430\u043d"
+    },
+    {
+      "source": "\u0413\u0443\u0434\u044b",
+      "target": "\u041b\u0456\u0434\u0430"
+    },
+    {
+      "source": "\u041f\u0440\u044b\u044f\u043c\u0456\u043d\u0430",
+      "target": "\u041a\u0440\u0443\u043f\u043a\u0456"
+    },
+    {
+      "source": "\u041f\u0440\u044b\u044f\u043c\u0456\u043d\u0430",
+      "target": "\u041d\u0430\u0432\u0430\u0441\u0430\u0434\u044b"
+    },
+    {
+      "source": "\u0406\u043f\u0443\u0446\u044c",
+      "target": "\u0421\u043e\u0436"
+    },
+    {
+      "source": "\u0406\u043f\u0443\u0446\u044c",
+      "target": "\u041d\u0430\u0432\u0430\u0431\u0435\u043b\u0456\u0446\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u0406\u043f\u0443\u0446\u044c",
+      "target": "\u0411\u044f\u0440\u043e\u0437\u043a\u0456"
+    },
+    {
+      "source": "\u0417\u044f\u0431\u0440\u0430\u045e\u043a\u0430",
+      "target": "\u041b\u0456\u0441\u0456\u0447\u043a\u0456"
+    },
+    {
+      "source": "\u0413\u043e\u043c\u0435\u043b\u044c-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u0426\u043e\u0442\u043d\u044b"
+    },
+    {
+      "source": "\u0413\u043e\u043c\u0435\u043b\u044c-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "source": "\u0425\u043e\u0434\u0430\u0441\u044b",
+      "target": "\u0426\u0451\u043c\u043d\u044b \u041b\u0435\u0441"
+    },
+    {
+      "source": "\u0427\u0430\u0432\u0443\u0441\u044b",
+      "target": "\u0420\u044d\u0441\u0442\u0430"
+    },
+    {
+      "source": "\u0413\u0443\u0434\u0430\u0433\u0430\u0439",
+      "target": "\u0410\u0448\u043c\u044f\u043d\u044b"
+    },
+    {
+      "source": "\u041a\u043e\u0440\u0436\u0430\u045e\u043a\u0430",
+      "target": "\u041c\u0443\u043b\u044f\u0440\u0430\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u041b\u0430\u0437\u0443\u0440\u043d\u0430\u044f",
+      "target": "\u0423\u0437\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 3",
+      "target": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 2"
+    },
+    {
+      "source": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 3",
+      "target": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 1"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u0446",
+      "target": "\u0414\u0440\u0430\u0433\u0456\u0447\u044b\u043d"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u0446",
+      "target": "\u041a\u043e\u0431\u0440\u044b\u043d"
+    },
+    {
+      "source": "\u041f\u0430\u043b\u043e\u043d\u043a\u0430",
+      "target": "\u0421\u043b\u043e\u043d\u0456\u043c"
+    },
+    {
+      "source": "\u041c\u0456\u0446\u043a\u0435\u0432\u0456\u0447\u044b",
+      "target": "\u041c\u043e\u0440\u0434\u0437\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041c\u043e\u0440\u0434\u0437\u0456\u0447\u044b",
+      "target": "\u0414\u0430\u043c\u0430\u0448\u044d\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0423\u0437\u0430",
+      "target": "\u0411\u0443\u0434\u0430-\u041a\u0430\u0448\u0430\u043b\u0451\u045e\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u041f\u0430\u0440\u0430\u0445\u043e\u043d\u0441\u043a",
+      "target": "\u041b\u043e\u045e\u0447\u0430"
+    },
+    {
+      "source": "\u0413\u0430\u043d\u0446\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u041c\u0430\u043b\u044c\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0421\u0430\u043b\u0442\u0430\u043d\u0430\u045e\u043a\u0430",
+      "target": "\u0425\u0430\u043b\u044c\u0447"
+    },
+    {
+      "source": "\u042f\u0448\u0447\u044b\u0446\u044b",
+      "target": "\u0421\u0432\u0435\u0442\u043b\u0430\u0433\u043e\u0440\u0441\u043a-\u043d\u0430-\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0435"
+    },
+    {
+      "source": "\u042f\u0448\u0447\u044b\u0446\u044b",
+      "target": "\u041c\u043e\u0440\u043c\u0430\u043b\u044c"
+    },
+    {
+      "source": "\u041b\u0430\u0445\u0432\u0430",
+      "target": "\u041b\u0443\u043d\u0456\u043d\u0435\u0446"
+    },
+    {
+      "source": "\u041b\u0430\u0445\u0432\u0430",
+      "target": "\u0421\u0456\u043d\u043a\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0420\u0430\u0439\u0442\u0430\u043d\u0430\u045e",
+      "target": "\u041b\u044f\u0445\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041b\u044e\u0448\u0447\u0430",
+      "target": "\u041b\u0443\u043d\u0456\u043d\u0435\u0446"
+    },
+    {
+      "source": "\u041b\u044e\u0448\u0447\u0430",
+      "target": "\u041c\u0430\u043b\u044c\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041b\u043e\u045e\u0447\u0430",
+      "target": "\u041b\u0443\u043d\u0456\u043d\u0435\u0446"
+    },
+    {
+      "source": "\u0421\u0442\u0430\u0440\u0430\u0441\u0435\u043b\u044c\u0441\u043a\u0456",
+      "target": "\u0420\u0430\u0433\u0430\u0447\u043e\u045e"
+    },
+    {
+      "source": "\u0420\u0430\u0434\u0430\u0448\u043a\u043e\u0432\u0456\u0447\u044b",
+      "target": "\u0414\u0443\u0431\u0440\u0430\u0432\u044b"
+    },
+    {
+      "source": "\u0420\u0430\u0434\u0430\u0448\u043a\u043e\u0432\u0456\u0447\u044b",
+      "target": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    },
+    {
+      "source": "\u0421\u0430\u043b\u0456\u0433\u043e\u0440\u0441\u043a",
+      "target": "\u041a\u0430\u043b\u0456\u0439 1"
+    },
+    {
+      "source": "\u0421\u0430\u043b\u0456\u0433\u043e\u0440\u0441\u043a",
+      "target": "\u041a\u0430\u043b\u0456\u0439 3"
+    },
+    {
+      "source": "\u0420\u0430\u0436\u0430\u043d\u043a\u0430",
+      "target": "\u041c\u0430\u0441\u0442\u044b"
+    },
+    {
+      "source": "\u0420\u0430\u0436\u0430\u043d\u043a\u0430",
+      "target": "\u0421\u043a\u0440\u044b\u0431\u0430\u045e\u0446\u044b"
+    },
+    {
+      "source": "\u0421\u0435\u043d\u0430\u0437\u0430\u0432\u043e\u0434",
+      "target": "\u0420\u044d\u0447\u044b\u0446\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u0441\u0442\u044b",
+      "target": "\u0427\u0430\u0440\u043b\u0451\u043d\u0430"
+    },
+    {
+      "source": "\u041a\u043b\u0456\u043c\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u041c\u0456\u0445\u0435\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u043b\u0435\u0441\u043a\u0456",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "source": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u043b\u0435\u0441\u043a\u0456",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "source": "\u0421\u043c\u0430\u043b\u044c\u044f\u043d\u044b",
+      "target": "\u0427\u044d\u0440\u0432\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u0410\u043b\u044f\u0445\u043d\u043e\u0432\u0456\u0447\u044b",
+      "target": "\u0414\u0443\u0431\u0440\u0430\u0432\u044b"
+    },
+    {
+      "source": "\u0411\u0440\u044d\u0441\u0442-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u0411\u0440\u044d\u0441\u0442-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b",
+      "target": "\u0411\u0440\u044d\u0441\u0442-\u0423\u0441\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "source": "\u041b\u0443\u043a\u0441\u043a\u0430\u0435",
+      "target": "\u0421\u0432\u0435\u0440\u043a\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u041b\u0443\u043a\u0441\u043a\u0430\u0435",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u0427\u044d\u0440\u0432\u0456\u043d\u0430",
+      "target": "\u041e\u0440\u0448\u0430-\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f"
+    },
+    {
+      "source": "\u0413\u0430\u0440\u0430\u043d\u044b",
+      "target": "\u041e\u0431\u0430\u043b\u044c"
+    },
+    {
+      "source": "\u0421\u043e\u0441\u043d\u0456\u0446\u0430",
+      "target": "\u041f\u043e\u043b\u0430\u0446\u043a"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b\u044f",
+      "target": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u043b\u0435\u0441\u043a\u0456\u044f"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b\u044f",
+      "target": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u044f"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b\u044f",
+      "target": "\u0420\u0443\u0441\u0456\u043d\u043e"
+    },
+    {
+      "source": "\u041c\u0456\u043d\u0441\u043a \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b",
+      "target": "\u041f\u043b\u043e\u0448\u0447\u0430 \u0424\u0440\u0430\u043d\u0446\u0456\u0448\u043a\u0430 \u0411\u0430\u0433\u0443\u0448\u044d\u0432\u0456\u0447\u0430"
+    },
+    {
+      "source": "\u041c\u0456\u043d\u0441\u043a \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b",
+      "target": "\u041c\u0456\u0445\u0430\u043b\u043e\u0432\u0430"
+    },
+    {
+      "source": "\u041b\u043e\u045e\u0448\u0430",
+      "target": "\u041e\u0431\u0430\u043b\u044c"
+    },
+    {
+      "source": "\u0411\u043e\u0440\u043a\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u0421\u0432\u043e\u043b\u044c\u043d\u0430"
+    },
+    {
+      "source": "\u0411\u043e\u0440\u043a\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u041f\u043e\u043b\u0430\u0446\u043a"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u045e\u0446\u044b",
+      "target": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u044f"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u045e\u0446\u044b",
+      "target": "\u0413\u0440\u044b\u0446\u0430\u0432\u0435\u0446"
+    },
+    {
+      "source": "\u0412\u0456\u0434\u0437\u0456\u0431\u043e\u0440",
+      "target": "\u041f\u0440\u044b\u043f\u044f\u0446\u044c"
+    },
+    {
+      "source": "\u0416\u044b\u0442\u043e\u043c\u043b\u044f",
+      "target": "\u0421\u043a\u0456\u0434\u0437\u0435\u043b\u044c"
+    },
+    {
+      "source": "\u041a\u043e\u0439\u0434\u0430\u043d\u0430\u0432\u0430",
+      "target": "\u041d\u0435\u0433\u0430\u0440\u044d\u043b\u0430\u0435"
+    },
+    {
+      "source": "\u0423\u0448\u0430",
+      "target": "\u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u043d\u0430"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u043b\u0435\u0441\u043a\u0456\u044f",
+      "target": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u044f"
+    },
+    {
+      "source": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b \u041f\u0430\u043b\u0435\u0441\u043a\u0456\u044f",
+      "target": "\u0420\u0443\u0441\u0456\u043d\u043e"
+    },
+    {
+      "source": "\u041d\u0435\u0433\u0430\u0440\u044d\u043b\u0430\u0435",
+      "target": "\u041a\u043e\u043b\u0430\u0441\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u041b\u044f\u0445\u0430\u0432\u0456\u0447\u044b",
+      "target": "\u0420\u0443\u0441\u0456\u043d\u043e"
+    },
+    {
+      "source": "\u041f\u0445\u043e\u045e",
+      "target": "\u041a\u0430\u043b\u0456\u043d\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041f\u0445\u043e\u045e",
+      "target": "\u041c\u0430\u0437\u044b\u0440"
+    },
+    {
+      "source": "\u041f\u0430\u043b\u0430\u0447\u0430\u043d\u044b",
+      "target": "\u0412\u0430\u043b\u043e\u0436\u044b\u043d"
+    },
+    {
+      "source": "\u0425\u0430\u043b\u044c\u0447",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "source": "\u0412\u0430\u043a\u0437\u0430\u043b\u044c\u043d\u0430\u044f",
+      "target": "\u0406\u043d\u0441\u0442\u044b\u0442\u0443\u0442 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b"
+    },
+    {
+      "source": "\u0412\u0430\u043a\u0437\u0430\u043b\u044c\u043d\u0430\u044f",
+      "target": "\u041f\u043b\u043e\u0448\u0447\u0430 \u0424\u0440\u0430\u043d\u0446\u0456\u0448\u043a\u0430 \u0411\u0430\u0433\u0443\u0448\u044d\u0432\u0456\u0447\u0430"
+    },
+    {
+      "source": "\u0412\u0430\u043a\u0437\u0430\u043b\u044c\u043d\u0430\u044f",
+      "target": "\u041f\u043b\u043e\u0448\u0447\u0430 \u041b\u0435\u043d\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u041d\u0430\u0432\u0430\u0441\u0430\u0434\u044b",
+      "target": "\u0411\u0430\u0440\u044b\u0441\u0430\u045e"
+    },
+    {
+      "source": "\u041a\u0430\u043b\u0456\u043d\u043a\u0430\u0432\u0456\u0447\u044b \u0423\u0441\u0445\u043e\u0434\u043d\u0456\u044f",
+      "target": "\u041a\u0430\u043b\u0456\u043d\u043a\u0430\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041b\u0430\u0442\u0432\u0430",
+      "target": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 1"
+    },
+    {
+      "source": "\u041a\u043e\u043f\u044b\u0441\u044c",
+      "target": "\u0428\u043a\u043b\u043e\u045e"
+    },
+    {
+      "source": "\u0427\u0430\u0440\u043b\u0451\u043d\u0430",
+      "target": "\u0421\u043a\u0456\u0434\u0437\u0435\u043b\u044c"
+    },
+    {
+      "source": "\u041a\u0440\u0430\u0441\u043d\u044b \u0411\u0435\u0440\u0430\u0433",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u0417\u0430\u0445\u043e\u0434\u043d\u0456"
+    },
+    {
+      "source": "\u0411\u043e\u0431\u0440",
+      "target": "\u041a\u0440\u0443\u043f\u043a\u0456"
+    },
+    {
+      "source": "\u041b\u0443\u0447\u043e\u0441\u0430",
+      "target": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a"
+    },
+    {
+      "source": "\u041b\u0443\u0447\u043e\u0441\u0430",
+      "target": "\u041c\u044f\u0434\u0437\u0432\u0451\u0434\u043a\u0430"
+    },
+    {
+      "source": "\u0410\u0448\u043c\u044f\u043d\u044b",
+      "target": "\u0421\u043e\u043b\u044b"
+    },
+    {
+      "source": "\u0410\u0443\u043b\u044c\u0441",
+      "target": "\u0413\u0440\u043e\u0434\u043d\u0430"
+    },
+    {
+      "source": "\u0410\u0443\u043b\u044c\u0441",
+      "target": "\u041f\u0430\u0440\u044d\u0447\u0447\u0430"
+    },
+    {
+      "source": "\u0410\u0440\u0430\u043d\u0447\u044b\u0446\u044b",
+      "target": "\u0411\u044f\u0440\u043e\u0437\u0430-\u041a\u0430\u0440\u0442\u0443\u0437\u0441\u043a\u0430\u044f"
+    },
+    {
+      "source": "\u0413\u043e\u043c\u0435\u043b\u044c \u0426\u043e\u0442\u043d\u044b",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "source": "\u0422\u0430\u0442\u0430\u0440\u043a\u0430",
+      "target": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0447\u044b 3"
+    },
+    {
+      "source": "\u0411\u044f\u0440\u043e\u0437\u0430-\u041a\u0430\u0440\u0442\u0443\u0437\u0441\u043a\u0430\u044f",
+      "target": "\u0411\u0440\u043e\u043d\u043d\u0430\u044f \u0413\u0430\u0440\u0430"
+    },
+    {
+      "source": "\u0411\u0440\u043e\u043d\u043d\u0430\u044f \u0413\u0430\u0440\u0430",
+      "target": "\u041a\u043e\u0441\u0430\u0432\u0430 \u041f\u0430\u043b\u0435\u0441\u043a\u0430\u0435"
+    },
+    {
+      "source": "\u0411\u0440\u044d\u0441\u0442-\u0423\u0441\u0445\u043e\u0434\u043d\u0456",
+      "target": "\u0416\u0430\u0431\u0456\u043d\u043a\u0430"
+    },
+    {
+      "source": "\u0414\u0430\u043c\u0430\u043d\u0430\u0432\u0430",
+      "target": "\u0406\u0432\u0430\u0446\u044d\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0414\u0430\u043c\u0430\u043d\u0430\u0432\u0430",
+      "target": "\u041b\u044f\u0441\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u0414\u0430\u043c\u0430\u043d\u0430\u0432\u0430",
+      "target": "\u0413\u0440\u044b\u0446\u0430\u0432\u0435\u0446"
+    },
+    {
+      "source": "\u0413\u0440\u044b\u0446\u0430\u0432\u0435\u0446",
+      "target": "\u041b\u044f\u0441\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u0428\u044d\u043c\u0435\u0442\u0430\u0432\u0430",
+      "target": "\u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041c\u0430\u0436\u044d\u0435\u045e\u043a\u0430",
+      "target": "\u0425\u043b\u0443\u0441\u0430\u0432\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u0436\u044d\u0435\u045e\u043a\u0430",
+      "target": "\u041e\u0440\u0448\u0430-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u041c\u0430\u0436\u044d\u0435\u045e\u043a\u0430",
+      "target": "\u0421\u0442\u0430\u0439\u043a\u0456"
+    },
+    {
+      "source": "\u041d\u0430\u0432\u0430\u0431\u0435\u043b\u0456\u0446\u043a\u0430\u044f",
+      "target": "\u041b\u0456\u0441\u0456\u0447\u043a\u0456"
+    },
+    {
+      "source": "\u041d\u0430\u0432\u0430\u0431\u0435\u043b\u0456\u0446\u043a\u0430\u044f",
+      "target": "\u0413\u043e\u043c\u0435\u043b\u044c \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456"
+    },
+    {
+      "source": "\u0416\u043b\u043e\u0431\u0456\u043d \u0417\u0430\u0445\u043e\u0434\u043d\u0456",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u0421\u0430\u0440\u0442\u0430\u0432\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "source": "\u0416\u043b\u043e\u0431\u0456\u043d \u0417\u0430\u0445\u043e\u0434\u043d\u0456",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b"
+    },
+    {
+      "source": "\u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u043d\u0430",
+      "target": "\u0412\u0456\u043b\u0435\u0439\u043a\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 2",
+      "target": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e 1"
+    },
+    {
+      "source": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u0421\u0430\u0440\u0442\u0430\u0432\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "source": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u0441\u0430\u0436\u044b\u0440\u0441\u043a\u0456",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u0434\u043e\u043b\u044c\u0441\u043a\u0456"
+    },
+    {
+      "source": "\u0416\u043b\u043e\u0431\u0456\u043d \u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b",
+      "target": "\u0416\u043b\u043e\u0431\u0456\u043d \u0421\u0430\u0440\u0442\u0430\u0432\u0430\u043b\u044c\u043d\u044b"
+    },
+    {
+      "source": "\u041a\u0440\u044b\u0447\u0430\u045e-1",
+      "target": "\u041c\u0456\u0445\u0435\u0435\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u041e\u0440\u0448\u0430-\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f",
+      "target": "\u041e\u0440\u0448\u0430-\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f"
+    },
+    {
+      "source": "\u041c\u044f\u0434\u0437\u0432\u0451\u0434\u043a\u0430",
+      "target": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a"
+    },
+    {
+      "source": "\u041d\u0435\u043c\u0430\u0440\u0448\u0430\u043d\u0441\u043a\u0456 \u0421\u0430\u0434",
+      "target": "\u0421\u043b\u0443\u0446\u043a\u0456 \u0413\u0430\u0441\u0446\u0456\u043d\u0435\u0446"
+    },
+    {
+      "source": "\u0413\u0440\u044b\u0431\u0430\u0447\u044b",
+      "target": "\u0415\u0437\u044f\u0440\u044b\u0448\u0447\u0430"
+    },
+    {
+      "source": "\u041f\u0440\u0443\u0434\u044b",
+      "target": "\u0417\u0430\u043b\u0435\u0441\u0441\u0435"
+    },
+    {
+      "source": "\u0428\u044b\u043d\u043d\u0430\u044f",
+      "target": "\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0430"
+    },
+    {
+      "source": "\u041a\u043e\u0441\u0430\u0432\u0430 \u041f\u0430\u043b\u0435\u0441\u043a\u0430\u0435",
+      "target": "\u0406\u0432\u0430\u0446\u044d\u0432\u0456\u0447\u044b"
+    },
+    {
+      "source": "\u0421\u043b\u0443\u0446\u043a\u0456 \u0413\u0430\u0441\u0446\u0456\u043d\u0435\u0446",
+      "target": "\u041c\u0456\u043d\u0441\u043a-\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b"
+    },
+    {
+      "source": "\u0421\u043b\u0443\u0446\u043a\u0456 \u0413\u0430\u0441\u0446\u0456\u043d\u0435\u0446",
+      "target": "\u041c\u0430\u043b\u0456\u043d\u0430\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u0411\u0440\u0443\u0437\u0433\u0456",
+      "target": "\u0413\u0440\u043e\u0434\u043d\u0430"
+    },
+    {
+      "source": "\u041f\u043b\u043e\u0448\u0447\u0430 \u0424\u0440\u0430\u043d\u0446\u0456\u0448\u043a\u0430 \u0411\u0430\u0433\u0443\u0448\u044d\u0432\u0456\u0447\u0430",
+      "target": "\u0406\u043d\u0441\u0442\u044b\u0442\u0443\u0442 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b"
+    },
+    {
+      "source": "\u0417\u0430\u043b\u0435\u0441\u0441\u0435",
+      "target": "\u0421\u043c\u0430\u0440\u0433\u043e\u043d\u044c"
+    },
+    {
+      "source": "\u0406\u043d\u0441\u0442\u044b\u0442\u0443\u0442 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b",
+      "target": "\u0413\u0440\u0443\u0448\u0430\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u0406\u043d\u0441\u0442\u044b\u0442\u0443\u0442 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b",
+      "target": "\u041c\u0456\u0445\u0430\u043b\u043e\u0432\u0430"
+    },
+    {
+      "source": "\u0406\u043d\u0441\u0442\u044b\u0442\u0443\u0442 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b",
+      "target": "\u041f\u044f\u0442\u0440\u043e\u045e\u0448\u0447\u044b\u043d\u0430"
+    },
+    {
+      "source": "\u041c\u0430\u043b\u0456\u043d\u0430\u045e\u043a\u0430",
+      "target": "\u041f\u044f\u0442\u0440\u043e\u045e\u0448\u0447\u044b\u043d\u0430"
+    },
+    {
+      "source": "\u041f\u044f\u0442\u0440\u043e\u045e\u0448\u0447\u044b\u043d\u0430",
+      "target": "\u041c\u0456\u0445\u0430\u043b\u043e\u0432\u0430"
+    },
+    {
+      "source": "\u041f\u044f\u0442\u0440\u043e\u045e\u0448\u0447\u044b\u043d\u0430",
+      "target": "\u0413\u0440\u0443\u0448\u0430\u045e\u043a\u0430"
+    },
+    {
+      "source": "\u041c\u0456\u0445\u0430\u043b\u043e\u0432\u0430",
+      "target": "\u0413\u0440\u0443\u0448\u0430\u045e\u043a\u0430"
+    }
+  ]
+}

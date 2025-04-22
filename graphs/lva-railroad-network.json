@@ -1,0 +1,1815 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7339107,
+          56.641437
+        ]
+      },
+      "id": "Jelgava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.946611,
+          56.7865359
+        ]
+      },
+      "id": "Olaine"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0599022,
+          56.54011
+        ]
+      },
+      "id": "K\u016bkas"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7928938,
+          56.7295801
+        ]
+      },
+      "id": "Veseta"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4083956,
+          56.5301266
+        ]
+      },
+      "id": "Ata\u0161iene"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3454704,
+          56.5867148
+        ]
+      },
+      "id": "Burzava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2515377,
+          56.5418585
+        ]
+      },
+      "id": "Me\u017e\u0101re"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.180671,
+          56.3513216
+        ]
+      },
+      "id": "L\u012bv\u0101ni"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0855503,
+          56.6414702
+        ]
+      },
+      "id": "Z\u0101l\u012bte"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3011972,
+          57.2381165
+        ]
+      },
+      "id": "\u0100rai\u0161i"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4412648,
+          57.4578433
+        ]
+      },
+      "id": "B\u0101le"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4640594,
+          57.3337572
+        ]
+      },
+      "id": "Skulte"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.778907,
+          57.3544657
+        ]
+      },
+      "id": "Elk\u0161\u0137ene"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6699824,
+          57.3843461
+        ]
+      },
+      "id": "Ventspils II"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.001443,
+          57.0186589
+        ]
+      },
+      "id": "Zv\u0101re"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2655356,
+          57.2153493
+        ]
+      },
+      "id": "Sp\u0101re"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2908453,
+          56.8441328
+        ]
+      },
+      "id": "Slampe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6371755,
+          56.5657897
+        ]
+      },
+      "id": "Stirniene"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3150111,
+          56.5016416
+        ]
+      },
+      "id": "R\u0113zekne 1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1520385,
+          56.5364737
+        ]
+      },
+      "id": "Sakstagals"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.123241,
+          56.6471934
+        ]
+      },
+      "id": "Skr\u012bveri"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1859546,
+          56.9190176
+        ]
+      },
+      "id": "J\u0101\u0146av\u0101rti"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2239201,
+          56.9199998
+        ]
+      },
+      "id": "R\u012bga-Pre\u010du"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2348401,
+          56.6286451
+        ]
+      },
+      "id": "Iecava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5872763,
+          57.0785113
+        ]
+      },
+      "id": "Vanga\u017ei"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2103593,
+          56.254546
+        ]
+      },
+      "id": "Jersika"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6176323,
+          56.5258262
+        ]
+      },
+      "id": "S\u0113lpils"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3717334,
+          56.1354471
+        ]
+      },
+      "id": "N\u012bcgale"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1337976,
+          56.9933162
+        ]
+      },
+      "id": "Sarkandaugava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1455513,
+          55.9253138
+        ]
+      },
+      "id": "Kr\u0101slava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3619811,
+          56.9170469
+        ]
+      },
+      "id": "Saurie\u0161i"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4143294,
+          57.3882564
+        ]
+      },
+      "id": "Lode"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5580831,
+          57.5585468
+        ]
+      },
+      "id": "Brengu\u013ci"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4540492,
+          56.5321543
+        ]
+      },
+      "id": "Taudej\u0101\u0146i"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9386689,
+          56.5610158
+        ]
+      },
+      "id": "Vi\u013c\u0101ni"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6268433,
+          55.9924025
+        ]
+      },
+      "id": "Za\u013cumi"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7694002,
+          56.5605787
+        ]
+      },
+      "id": "Varak\u013c\u0101ni"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2848922,
+          56.6286382
+        ]
+      },
+      "id": "Dobele"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0687638,
+          56.4802125
+        ]
+      },
+      "id": "B\u0113ne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.283162,
+          57.3140258
+        ]
+      },
+      "id": "C\u0113sis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4144193,
+          57.0468866
+        ]
+      },
+      "id": "Garkalne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4392666,
+          56.6509809
+        ]
+      },
+      "id": "Koknese"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6770716,
+          56.408743
+        ]
+      },
+      "id": "Meitene"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.752862,
+          55.9348893
+        ]
+      },
+      "id": "Naujene"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0123895,
+          57.2819829
+        ]
+      },
+      "id": "Ug\u0101le"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6518553,
+          57.1314915
+        ]
+      },
+      "id": "Sabile"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0126929,
+          56.6805803
+        ]
+      },
+      "id": "Skrunda"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5371837,
+          56.5903529
+        ]
+      },
+      "id": "Vecumnieki"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0891593,
+          56.9326665
+        ]
+      },
+      "id": "Tor\u0146akalns"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0532643,
+          57.7746749
+        ]
+      },
+      "id": "Valga"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7194735,
+          56.5380233
+        ]
+      },
+      "id": "Daugava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3394989,
+          57.3439226
+        ]
+      },
+      "id": "J\u0101\u0146amui\u017ea"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0458858,
+          56.969676
+        ]
+      },
+      "id": "L\u0101\u010dupe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9809597,
+          56.6914441
+        ]
+      },
+      "id": "Biksti"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8329847,
+          56.7087036
+        ]
+      },
+      "id": "Cena"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6183433,
+          56.9474052
+        ]
+      },
+      "id": "Sloka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1698621,
+          56.9658645
+        ]
+      },
+      "id": "Tukums I"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1153718,
+          56.9596943
+        ]
+      },
+      "id": "Tukums II"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8869427,
+          56.9718965
+        ]
+      },
+      "id": "Priedaine"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2110939,
+          56.9046971
+        ]
+      },
+      "id": "\u0160\u0137irotava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8077859,
+          56.72221
+        ]
+      },
+      "id": "Lielv\u0101rde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4653861,
+          55.6995275
+        ]
+      },
+      "id": "Turmantas"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0239619,
+          57.1842749
+        ]
+      },
+      "id": "L\u012bgatne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68654,
+          57.096265
+        ]
+      },
+      "id": "In\u010dukalns"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.508867,
+          57.0645733
+        ]
+      },
+      "id": "Krievupe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.895926,
+          57.0623734
+        ]
+      },
+      "id": "P\u016bre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.821207,
+          57.0830655
+        ]
+      },
+      "id": "Kandava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.538545,
+          57.1436556
+        ]
+      },
+      "id": "Stende"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4200404,
+          57.1786125
+        ]
+      },
+      "id": "L\u012b\u010di"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1705211,
+          57.2502096
+        ]
+      },
+      "id": "Usma"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3933524,
+          56.5918102
+        ]
+      },
+      "id": "Misa"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0027075,
+          57.7540786
+        ]
+      },
+      "id": "Luga\u017ei"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.893268,
+          57.693753
+        ]
+      },
+      "id": "Saule"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1136575,
+          57.0362361
+        ]
+      },
+      "id": "Zieme\u013cbl\u0101zma"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2746471,
+          56.6226963
+        ]
+      },
+      "id": "Aizkraukle"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4528314,
+          55.9980045
+        ]
+      },
+      "id": "L\u012bksna"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4576057,
+          56.0407508
+        ]
+      },
+      "id": "Vabole"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5338149,
+          56.5336838
+        ]
+      },
+      "id": "Cirma"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8291278,
+          56.4822458
+        ]
+      },
+      "id": "Istalsna"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.959211,
+          56.4308036
+        ]
+      },
+      "id": "Nerza"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0757983,
+          56.4384889
+        ]
+      },
+      "id": "Trepe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9773342,
+          56.6871358
+        ]
+      },
+      "id": "Jaunkalsnava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1685323,
+          56.9802881
+        ]
+      },
+      "id": "\u010ciekurkalns"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2350441,
+          56.9921661
+        ]
+      },
+      "id": "Jugla"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1727864,
+          57.1995089
+        ]
+      },
+      "id": "Ieri\u0137i"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1178674,
+          56.3917485
+        ]
+      },
+      "id": "Zilupe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4403565,
+          57.5219786
+        ]
+      },
+      "id": "Valmiera"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8907303,
+          56.1782441
+        ]
+      },
+      "id": "Aglona"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7378716,
+          56.0815274
+        ]
+      },
+      "id": "Vi\u0161\u0137i"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5724734,
+          55.9376524
+        ]
+      },
+      "id": "524. kilometrs"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2198821,
+          56.414579
+        ]
+      },
+      "id": "P\u016bpoli"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6034807,
+          56.7511272
+        ]
+      },
+      "id": "Pure\u0146i"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0171213,
+          56.5244358
+        ]
+      },
+      "id": "Liep\u0101ja"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9380672,
+          57.2586958
+        ]
+      },
+      "id": "Kalniena"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4632631,
+          56.7027427
+        ]
+      },
+      "id": "L\u012bvb\u0113rze"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8555149,
+          57.1531642
+        ]
+      },
+      "id": "Sigulda"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6020435,
+          56.8157685
+        ]
+      },
+      "id": "Ogre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2003089,
+          56.9856238
+        ]
+      },
+      "id": "\u0160merlis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.070684,
+          56.972654
+        ]
+      },
+      "id": "I\u013c\u0123uciema Kravas stacija"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1229108,
+          56.9463999
+        ]
+      },
+      "id": "R\u012bgas Centr\u0101l\u0101 stacija"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6941018,
+          56.8155132
+        ]
+      },
+      "id": "K\u0101rsava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1464726,
+          56.9775121
+        ]
+      },
+      "id": "Brasa"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1296303,
+          57.0185944
+        ]
+      },
+      "id": "Manga\u013ci"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4719549,
+          56.6857989
+        ]
+      },
+      "id": "Saldus"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4904404,
+          56.9382389
+        ]
+      },
+      "id": "\u0136emeri"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7767275,
+          56.9696556
+        ]
+      },
+      "id": "Dubulti"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0522052,
+          56.9409622
+        ]
+      },
+      "id": "Zasulauks"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3531225,
+          56.8604988
+        ]
+      },
+      "id": "Salaspils"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8582963,
+          56.5216659
+        ]
+      },
+      "id": "Krustpils"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7168784,
+          56.6171681
+        ]
+      },
+      "id": "P\u013cavi\u0146as"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5283553,
+          55.8746957
+        ]
+      },
+      "id": "Daugavpils"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3459849,
+          56.5199784
+        ]
+      },
+      "id": "R\u0113zekne-2"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7211554,
+          56.533158
+        ]
+      },
+      "id": "Ludza"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2203005,
+          56.8508458
+        ]
+      },
+      "id": "Madona"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6983304,
+          57.6339601
+        ]
+      },
+      "id": "Stren\u010di"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4268513,
+          57.2694052
+        ]
+      },
+      "id": "Saulkrasti"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7659153,
+          57.1830868
+        ]
+      },
+      "id": "Gulbene"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5412545,
+          55.8763825
+        ]
+      },
+      "id": "Indra"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3681127,
+          56.5100984
+        ]
+      },
+      "id": "Sece"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0979531,
+          56.5384549
+        ]
+      },
+      "id": "Menta"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9356912,
+          56.5615773
+        ]
+      },
+      "id": "Taurkalne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7928115,
+          56.575738
+        ]
+      },
+      "id": "L\u0101\u010dpl\u0113sis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1562997,
+          56.9654952
+        ]
+      },
+      "id": "Zemit\u0101ni"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0496854,
+          57.0192259
+        ]
+      },
+      "id": "Bolder\u0101ja"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2788334,
+          57.1279075
+        ]
+      },
+      "id": "Carnikava"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.33576,
+          57.1816701
+        ]
+      },
+      "id": "Lilaste"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0502838,
+          56.2727444
+        ]
+      },
+      "id": "Kr\u0101ce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5927986,
+          57.3916955
+        ]
+      },
+      "id": "Ventspils-1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1161921,
+          57.0749763
+        ]
+      },
+      "id": "Vec\u0101\u0137i"
+    }
+  ],
+  "links": [
+    {
+      "source": "Jelgava",
+      "target": "Cena"
+    },
+    {
+      "source": "Jelgava",
+      "target": "L\u012bvb\u0113rze"
+    },
+    {
+      "source": "Olaine",
+      "target": "Cena"
+    },
+    {
+      "source": "K\u016bkas",
+      "target": "Me\u017e\u0101re"
+    },
+    {
+      "source": "K\u016bkas",
+      "target": "Trepe"
+    },
+    {
+      "source": "K\u016bkas",
+      "target": "Krustpils"
+    },
+    {
+      "source": "Veseta",
+      "target": "Jaunkalsnava"
+    },
+    {
+      "source": "Ata\u0161iene",
+      "target": "Stirniene"
+    },
+    {
+      "source": "Ata\u0161iene",
+      "target": "Me\u017e\u0101re"
+    },
+    {
+      "source": "Burzava",
+      "target": "R\u0113zekne-2"
+    },
+    {
+      "source": "Burzava",
+      "target": "Pure\u0146i"
+    },
+    {
+      "source": "L\u012bv\u0101ni",
+      "target": "Trepe"
+    },
+    {
+      "source": "L\u012bv\u0101ni",
+      "target": "Jersika"
+    },
+    {
+      "source": "Z\u0101l\u012bte",
+      "target": "Cena"
+    },
+    {
+      "source": "Z\u0101l\u012bte",
+      "target": "Iecava"
+    },
+    {
+      "source": "\u0100rai\u0161i",
+      "target": "C\u0113sis"
+    },
+    {
+      "source": "\u0100rai\u0161i",
+      "target": "Ieri\u0137i"
+    },
+    {
+      "source": "B\u0101le",
+      "target": "Lode"
+    },
+    {
+      "source": "B\u0101le",
+      "target": "Valmiera"
+    },
+    {
+      "source": "Skulte",
+      "target": "Saulkrasti"
+    },
+    {
+      "source": "Elk\u0161\u0137ene",
+      "target": "Ventspils II"
+    },
+    {
+      "source": "Elk\u0161\u0137ene",
+      "target": "Ug\u0101le"
+    },
+    {
+      "source": "Ventspils II",
+      "target": "Ventspils-1"
+    },
+    {
+      "source": "Zv\u0101re",
+      "target": "P\u016bre"
+    },
+    {
+      "source": "Sp\u0101re",
+      "target": "Usma"
+    },
+    {
+      "source": "Sp\u0101re",
+      "target": "L\u012b\u010di"
+    },
+    {
+      "source": "Slampe",
+      "target": "L\u012bvb\u0113rze"
+    },
+    {
+      "source": "Slampe",
+      "target": "Tukums I"
+    },
+    {
+      "source": "Stirniene",
+      "target": "Varak\u013c\u0101ni"
+    },
+    {
+      "source": "R\u0113zekne 1",
+      "target": "P\u016bpoli"
+    },
+    {
+      "source": "R\u0113zekne 1",
+      "target": "R\u0113zekne-2"
+    },
+    {
+      "source": "Sakstagals",
+      "target": "Vi\u013c\u0101ni"
+    },
+    {
+      "source": "Skr\u012bveri",
+      "target": "Taurkalne"
+    },
+    {
+      "source": "Skr\u012bveri",
+      "target": "Aizkraukle"
+    },
+    {
+      "source": "Skr\u012bveri",
+      "target": "Lielv\u0101rde"
+    },
+    {
+      "source": "J\u0101\u0146av\u0101rti",
+      "target": "\u0160\u0137irotava"
+    },
+    {
+      "source": "J\u0101\u0146av\u0101rti",
+      "target": "Zemit\u0101ni"
+    },
+    {
+      "source": "J\u0101\u0146av\u0101rti",
+      "target": "R\u012bga-Pre\u010du"
+    },
+    {
+      "source": "J\u0101\u0146av\u0101rti",
+      "target": "R\u012bgas Centr\u0101l\u0101 stacija"
+    },
+    {
+      "source": "R\u012bga-Pre\u010du",
+      "target": "Saurie\u0161i"
+    },
+    {
+      "source": "R\u012bga-Pre\u010du",
+      "target": "\u0160\u0137irotava"
+    },
+    {
+      "source": "Iecava",
+      "target": "Misa"
+    },
+    {
+      "source": "Vanga\u017ei",
+      "target": "Krievupe"
+    },
+    {
+      "source": "Vanga\u017ei",
+      "target": "In\u010dukalns"
+    },
+    {
+      "source": "Jersika",
+      "target": "N\u012bcgale"
+    },
+    {
+      "source": "S\u0113lpils",
+      "target": "Daugava"
+    },
+    {
+      "source": "S\u0113lpils",
+      "target": "Sece"
+    },
+    {
+      "source": "N\u012bcgale",
+      "target": "Vabole"
+    },
+    {
+      "source": "N\u012bcgale",
+      "target": "Daugavpils"
+    },
+    {
+      "source": "Sarkandaugava",
+      "target": "Manga\u013ci"
+    },
+    {
+      "source": "Sarkandaugava",
+      "target": "I\u013c\u0123uciema Kravas stacija"
+    },
+    {
+      "source": "Sarkandaugava",
+      "target": "R\u012bgas Centr\u0101l\u0101 stacija"
+    },
+    {
+      "source": "Sarkandaugava",
+      "target": "Zieme\u013cbl\u0101zma"
+    },
+    {
+      "source": "Sarkandaugava",
+      "target": "Brasa"
+    },
+    {
+      "source": "Kr\u0101slava",
+      "target": "Naujene"
+    },
+    {
+      "source": "Kr\u0101slava",
+      "target": "Indra"
+    },
+    {
+      "source": "Lode",
+      "target": "J\u0101\u0146amui\u017ea"
+    },
+    {
+      "source": "Brengu\u013ci",
+      "target": "Valmiera"
+    },
+    {
+      "source": "Brengu\u013ci",
+      "target": "Stren\u010di"
+    },
+    {
+      "source": "Taudej\u0101\u0146i",
+      "target": "R\u0113zekne-2"
+    },
+    {
+      "source": "Taudej\u0101\u0146i",
+      "target": "Cirma"
+    },
+    {
+      "source": "Vi\u013c\u0101ni",
+      "target": "Varak\u013c\u0101ni"
+    },
+    {
+      "source": "Za\u013cumi",
+      "target": "Naujene"
+    },
+    {
+      "source": "Za\u013cumi",
+      "target": "524. kilometrs"
+    },
+    {
+      "source": "Za\u013cumi",
+      "target": "Vi\u0161\u0137i"
+    },
+    {
+      "source": "Dobele",
+      "target": "Biksti"
+    },
+    {
+      "source": "Dobele",
+      "target": "B\u0113ne"
+    },
+    {
+      "source": "Dobele",
+      "target": "L\u012bvb\u0113rze"
+    },
+    {
+      "source": "B\u0113ne",
+      "target": "Saldus"
+    },
+    {
+      "source": "Garkalne",
+      "target": "Krievupe"
+    },
+    {
+      "source": "Garkalne",
+      "target": "Jugla"
+    },
+    {
+      "source": "Koknese",
+      "target": "P\u013cavi\u0146as"
+    },
+    {
+      "source": "Koknese",
+      "target": "Aizkraukle"
+    },
+    {
+      "source": "Ug\u0101le",
+      "target": "Usma"
+    },
+    {
+      "source": "Sabile",
+      "target": "Stende"
+    },
+    {
+      "source": "Skrunda",
+      "target": "Liep\u0101ja"
+    },
+    {
+      "source": "Skrunda",
+      "target": "Saldus"
+    },
+    {
+      "source": "Vecumnieki",
+      "target": "L\u0101\u010dpl\u0113sis"
+    },
+    {
+      "source": "Vecumnieki",
+      "target": "Misa"
+    },
+    {
+      "source": "Tor\u0146akalns",
+      "target": "R\u012bgas Centr\u0101l\u0101 stacija"
+    },
+    {
+      "source": "Tor\u0146akalns",
+      "target": "Zasulauks"
+    },
+    {
+      "source": "Valga",
+      "target": "Luga\u017ei"
+    },
+    {
+      "source": "Daugava",
+      "target": "Krustpils"
+    },
+    {
+      "source": "L\u0101\u010dupe",
+      "target": "Bolder\u0101ja"
+    },
+    {
+      "source": "L\u0101\u010dupe",
+      "target": "Zasulauks"
+    },
+    {
+      "source": "L\u0101\u010dupe",
+      "target": "I\u013c\u0123uciema Kravas stacija"
+    },
+    {
+      "source": "L\u0101\u010dupe",
+      "target": "Priedaine"
+    },
+    {
+      "source": "Biksti",
+      "target": "Saldus"
+    },
+    {
+      "source": "Sloka",
+      "target": "\u0136emeri"
+    },
+    {
+      "source": "Tukums I",
+      "target": "Tukums II"
+    },
+    {
+      "source": "Tukums I",
+      "target": "\u0136emeri"
+    },
+    {
+      "source": "Lielv\u0101rde",
+      "target": "Taurkalne"
+    },
+    {
+      "source": "Lielv\u0101rde",
+      "target": "Ogre"
+    },
+    {
+      "source": "Turmantas",
+      "target": "Daugavpils"
+    },
+    {
+      "source": "L\u012bgatne",
+      "target": "Sigulda"
+    },
+    {
+      "source": "L\u012bgatne",
+      "target": "Ieri\u0137i"
+    },
+    {
+      "source": "In\u010dukalns",
+      "target": "Sigulda"
+    },
+    {
+      "source": "P\u016bre",
+      "target": "Kandava"
+    },
+    {
+      "source": "Stende",
+      "target": "L\u012b\u010di"
+    },
+    {
+      "source": "Luga\u017ei",
+      "target": "Saule"
+    },
+    {
+      "source": "Saule",
+      "target": "Stren\u010di"
+    },
+    {
+      "source": "Zieme\u013cbl\u0101zma",
+      "target": "Bolder\u0101ja"
+    },
+    {
+      "source": "Zieme\u013cbl\u0101zma",
+      "target": "Manga\u013ci"
+    },
+    {
+      "source": "Zieme\u013cbl\u0101zma",
+      "target": "Vec\u0101\u0137i"
+    },
+    {
+      "source": "Zieme\u013cbl\u0101zma",
+      "target": "I\u013c\u0123uciema Kravas stacija"
+    },
+    {
+      "source": "L\u012bksna",
+      "target": "Vabole"
+    },
+    {
+      "source": "Istalsna",
+      "target": "Ludza"
+    },
+    {
+      "source": "Istalsna",
+      "target": "Nerza"
+    },
+    {
+      "source": "Nerza",
+      "target": "Zilupe"
+    },
+    {
+      "source": "Jaunkalsnava",
+      "target": "Madona"
+    },
+    {
+      "source": "Jaunkalsnava",
+      "target": "P\u013cavi\u0146as"
+    },
+    {
+      "source": "\u010ciekurkalns",
+      "target": "\u0160merlis"
+    },
+    {
+      "source": "\u010ciekurkalns",
+      "target": "Brasa"
+    },
+    {
+      "source": "Jugla",
+      "target": "\u0160merlis"
+    },
+    {
+      "source": "Aglona",
+      "target": "Vi\u0161\u0137i"
+    },
+    {
+      "source": "Aglona",
+      "target": "Kr\u0101ce"
+    },
+    {
+      "source": "524. kilometrs",
+      "target": "Daugavpils"
+    },
+    {
+      "source": "P\u016bpoli",
+      "target": "Kr\u0101ce"
+    },
+    {
+      "source": "Pure\u0146i",
+      "target": "K\u0101rsava"
+    },
+    {
+      "source": "Ogre",
+      "target": "Salaspils"
+    },
+    {
+      "source": "I\u013c\u0123uciema Kravas stacija",
+      "target": "Manga\u013ci"
+    },
+    {
+      "source": "R\u012bgas Centr\u0101l\u0101 stacija",
+      "target": "Zemit\u0101ni"
+    },
+    {
+      "source": "Brasa",
+      "target": "Zemit\u0101ni"
+    },
+    {
+      "source": "Madona",
+      "target": "Gulbene"
+    },
+    {
+      "source": "Saulkrasti",
+      "target": "Lilaste"
+    },
+    {
+      "source": "Menta",
+      "target": "Taurkalne"
+    },
+    {
+      "source": "Taurkalne",
+      "target": "L\u0101\u010dpl\u0113sis"
+    },
+    {
+      "source": "Carnikava",
+      "target": "Lilaste"
+    },
+    {
+      "source": "Carnikava",
+      "target": "Vec\u0101\u0137i"
+    }
+  ]
+}
