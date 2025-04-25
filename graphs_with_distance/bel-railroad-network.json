@@ -1,0 +1,5944 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2067001,
+          51.0515271
+        ]
+      },
+      "id": "Sint-Amands"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0692023,
+          50.5732378
+        ]
+      },
+      "id": "Soignies"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8555258,
+          50.4901895
+        ]
+      },
+      "id": "Spa"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4519963,
+          50.4133224
+        ]
+      },
+      "id": "Janson"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3835881,
+          50.7159739
+        ]
+      },
+      "id": "Waterloo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4795404,
+          50.4237767
+        ]
+      },
+      "id": "Gilly"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4874262,
+          50.4270871
+        ]
+      },
+      "id": "Marabout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4740755,
+          50.4218776
+        ]
+      },
+      "id": "Gazom\u00e8tre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4612655,
+          50.4199406
+        ]
+      },
+      "id": "Samaritaine"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9975253,
+          50.4700525
+        ]
+      },
+      "id": "Nam\u00eache"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5195859,
+          50.3768695
+        ]
+      },
+      "id": "Bomal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8849961,
+          50.5851701
+        ]
+      },
+      "id": "Gare du train \u00e0 vapeur"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4016388,
+          51.2186144
+        ]
+      },
+      "id": "Groenplaats"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8944454,
+          51.2419281
+        ]
+      },
+      "id": "Tielen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0104248,
+          50.5433547
+        ]
+      },
+      "id": "Neufvilles"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6822624,
+          50.0904862
+        ]
+      },
+      "id": "Treignes"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2451799,
+          51.0702824
+        ]
+      },
+      "id": "Oppuurs"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5726185,
+          51.1831167
+        ]
+      },
+      "id": "Eeklo Oostveld"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9779057,
+          50.3261702
+        ]
+      },
+      "id": "Dorinne-Durnal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6026887,
+          50.0731555
+        ]
+      },
+      "id": "Olloy sur Viroin"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4427241,
+          51.2144105
+        ]
+      },
+      "id": "Zegel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4429532,
+          50.4148326
+        ]
+      },
+      "id": "Palais"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4211011,
+          51.2159949
+        ]
+      },
+      "id": "Antwerpen-Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3909499,
+          51.1975154
+        ]
+      },
+      "id": "Antwerpen-Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4277621,
+          51.2613868
+        ]
+      },
+      "id": "Antwerpen-Noorderdokken"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4248923,
+          51.244358
+        ]
+      },
+      "id": "Antwerpen-Luchtbal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4323348,
+          51.1997015
+        ]
+      },
+      "id": "Antwerpen-Berchem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7407593,
+          51.0556073
+        ]
+      },
+      "id": "Gent-Dampoort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0714017,
+          50.8918988
+        ]
+      },
+      "id": "Denderleeuw"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1008679,
+          51.0228312
+        ]
+      },
+      "id": "Dendermonde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7107158,
+          51.0355237
+        ]
+      },
+      "id": "Gent-Sint-Pieters"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2172409,
+          51.1969806
+        ]
+      },
+      "id": "Brugge"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6544322,
+          51.0473433
+        ]
+      },
+      "id": "Drongen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2404904,
+          50.7337393
+        ]
+      },
+      "id": "Halle"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7196081,
+          51.0890329
+        ]
+      },
+      "id": "Wondelgem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7562885,
+          51.0386296
+        ]
+      },
+      "id": "Gentbrugge"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2018012,
+          51.222983
+        ]
+      },
+      "id": "Brugge-Sint-Pieters"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.483742,
+          51.0177129
+        ]
+      },
+      "id": "Mechelen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2635563,
+          51.3383069
+        ]
+      },
+      "id": "Duinbergen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2843232,
+          51.3398357
+        ]
+      },
+      "id": "Knokke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2391716,
+          51.3338987
+        ]
+      },
+      "id": "Heist"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3275497,
+          50.9309341
+        ]
+      },
+      "id": "Hasselt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.715648,
+          50.8813454
+        ]
+      },
+      "id": "Leuven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4902298,
+          51.0302855
+        ]
+      },
+      "id": "Mechelen-Nekkerspoel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2209811,
+          50.5278461
+        ]
+      },
+      "id": "Statte"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2330408,
+          50.5267332
+        ]
+      },
+      "id": "Huy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4368414,
+          50.4112062
+        ]
+      },
+      "id": "Charleroi-Ouest"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3941506,
+          50.412317
+        ]
+      },
+      "id": "Marchienne-au-Pont"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1806829,
+          50.4777875
+        ]
+      },
+      "id": "La Louvi\u00e8re-Centre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.567065,
+          50.624728
+        ]
+      },
+      "id": "Li\u00e8ge-Guillemins"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6131398,
+          50.6444511
+        ]
+      },
+      "id": "Bressoux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6174231,
+          50.6075232
+        ]
+      },
+      "id": "Ch\u00ean\u00e9e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5986637,
+          50.6131234
+        ]
+      },
+      "id": "Angleur"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5709122,
+          50.6464988
+        ]
+      },
+      "id": "Li\u00e8ge-Saint-Lambert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1882188,
+          50.4656685
+        ]
+      },
+      "id": "La Louvi\u00e8re-Sud"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3139556,
+          50.2025003
+        ]
+      },
+      "id": "Marloie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9419654,
+          50.4540439
+        ]
+      },
+      "id": "Mons"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2274737,
+          50.7400821
+        ]
+      },
+      "id": "Mouscron - Moeskroen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8551021,
+          50.5883259
+        ]
+      },
+      "id": "Verviers-Central"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8625447,
+          50.4685751
+        ]
+      },
+      "id": "Namur"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8292922,
+          50.458172
+        ]
+      },
+      "id": "Ronet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3362419,
+          50.8356748
+        ]
+      },
+      "id": "Bruxelles-Midi - Brussel-Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4001819,
+          50.8085093
+        ]
+      },
+      "id": "Watermael - Watermaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3569867,
+          50.8454639
+        ]
+      },
+      "id": "Bruxelles-Central - Brussel-Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3784579,
+          50.878395
+        ]
+      },
+      "id": "Schaerbeek - Schaarbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3736635,
+          50.8382113
+        ]
+      },
+      "id": "Bruxelles-Luxembourg - Brussel-Luxemburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4156912,
+          50.8897104
+        ]
+      },
+      "id": "Haren-Sud - Haren-Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3895883,
+          50.8221263
+        ]
+      },
+      "id": "Etterbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3806152,
+          50.8428667
+        ]
+      },
+      "id": "Bruxelles-Schuman - Brussel-Schuman"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3083756,
+          50.8078159
+        ]
+      },
+      "id": "Forest-Midi - Vorst-Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4008547,
+          50.8676818
+        ]
+      },
+      "id": "Evere"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3282081,
+          50.8809447
+        ]
+      },
+      "id": "Jette"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0391618,
+          50.9426871
+        ]
+      },
+      "id": "Aalst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4387526,
+          50.4047442
+        ]
+      },
+      "id": "Charleroi-Central"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3614901,
+          50.8601446
+        ]
+      },
+      "id": "Bruxelles-Nord - Brussel-Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0099454,
+          50.3229657
+        ]
+      },
+      "id": "Spontin"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.446535,
+          51.2048382
+        ]
+      },
+      "id": "Maldegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1788083,
+          51.0289212
+        ]
+      },
+      "id": "Baasrode-Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2179775,
+          50.6842573
+        ]
+      },
+      "id": "Clabecq"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4041965,
+          50.8185429
+        ]
+      },
+      "id": "Delta"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4054332,
+          50.8212957
+        ]
+      },
+      "id": "Hankar"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4096433,
+          50.815096
+        ]
+      },
+      "id": "Beaulieu"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4209192,
+          50.8135301
+        ]
+      },
+      "id": "Demey"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4286923,
+          50.8122156
+        ]
+      },
+      "id": "Herrmann-Debroux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4470948,
+          50.8474288
+        ]
+      },
+      "id": "Vandervelde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4528546,
+          50.8496906
+        ]
+      },
+      "id": "Alma"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4075685,
+          50.837836
+        ]
+      },
+      "id": "Montgomery"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3124915,
+          50.8396805
+        ]
+      },
+      "id": "Aumale"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.305343,
+          50.8349886
+        ]
+      },
+      "id": "Saint-Guidon - Sint-Guido"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3006508,
+          50.8294786
+        ]
+      },
+      "id": "Veeweyde - Veeweide"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2970381,
+          50.8249137
+        ]
+      },
+      "id": "Bizet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.327778,
+          50.8963504
+        ]
+      },
+      "id": "Roi Baudouin - Koning Boudewijn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.347972,
+          50.8788488
+        ]
+      },
+      "id": "Bockstael"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3309491,
+          50.8630434
+        ]
+      },
+      "id": "Elisabeth"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3429602,
+          50.8735372
+        ]
+      },
+      "id": "Pannenhuis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.345455,
+          50.8443013
+        ]
+      },
+      "id": "Anneessens"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.353047,
+          50.8514851
+        ]
+      },
+      "id": "De Brouck\u00e8re"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3478425,
+          50.8521404
+        ]
+      },
+      "id": "Sainte-Catherine - Sint-Katelijne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3513146,
+          50.8573007
+        ]
+      },
+      "id": "Yser - IJzer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3229722,
+          50.8534442
+        ]
+      },
+      "id": "Beekkant"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3206513,
+          50.8485097
+        ]
+      },
+      "id": "Gare de l'Ouest - Weststation"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3308225,
+          50.8411736
+        ]
+      },
+      "id": "Clemenceau"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3242362,
+          50.8452755
+        ]
+      },
+      "id": "Delacroix"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3321841,
+          50.8570847
+        ]
+      },
+      "id": "\u00c9tangs Noirs - Zwarte Vijvers"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3600896,
+          50.8603818
+        ]
+      },
+      "id": "Gare du Nord - Noordstation"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3379305,
+          50.836539
+        ]
+      },
+      "id": "Gare du Midi - Zuidstation"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3409753,
+          50.8402745
+        ]
+      },
+      "id": "Lemonnier"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3491201,
+          50.8478282
+        ]
+      },
+      "id": "Bourse - Beurs"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3461376,
+          50.8298326
+        ]
+      },
+      "id": "Parvis de Saint-Gilles - Sint-Gillisvoorplein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3586397,
+          50.8465485
+        ]
+      },
+      "id": "Gare Centrale - Centraal Station"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3622545,
+          50.8456068
+        ]
+      },
+      "id": "Parc - Park"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3487828,
+          50.833342
+        ]
+      },
+      "id": "H\u00f4tel des Monnaies - Munthof"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3544976,
+          50.8352664
+        ]
+      },
+      "id": "Louise - Louiza"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.365713,
+          50.8539544
+        ]
+      },
+      "id": "Botanique - Kruidtuin"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4357016,
+          50.8474846
+        ]
+      },
+      "id": "Roodebeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4585462,
+          50.8489121
+        ]
+      },
+      "id": "Crainhem - Kraainem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4641152,
+          50.8420671
+        ]
+      },
+      "id": "Stockel - Stokkel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3580819,
+          50.8555685
+        ]
+      },
+      "id": "Rogier"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4016642,
+          50.8337292
+        ]
+      },
+      "id": "Thieffry"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4184758,
+          50.8424865
+        ]
+      },
+      "id": "Gribaumont"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4038813,
+          50.8277223
+        ]
+      },
+      "id": "P\u00e9tillon"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3979237,
+          50.8394624
+        ]
+      },
+      "id": "Merode"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2939154,
+          50.8211173
+        ]
+      },
+      "id": "La Roue - Het Rad"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2896221,
+          50.8162986
+        ]
+      },
+      "id": "CERIA - COOVI"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2807419,
+          50.8167015
+        ]
+      },
+      "id": "Eddy Merckx"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.267078,
+          50.8152348
+        ]
+      },
+      "id": "Erasme - Erasmus"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4136974,
+          50.8402731
+        ]
+      },
+      "id": "Jos\u00e9phine-Charlotte"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4257772,
+          50.8442261
+        ]
+      },
+      "id": "Tomberg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4023271,
+          50.8491586
+        ]
+      },
+      "id": "Diamant"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4053128,
+          50.8332284
+        ]
+      },
+      "id": "Boileau"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4054308,
+          50.843774
+        ]
+      },
+      "id": "Georges Henri"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3180457,
+          50.843756
+        ]
+      },
+      "id": "Jacques Brel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3368135,
+          50.8684247
+        ]
+      },
+      "id": "Belgica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3419624,
+          50.886095
+        ]
+      },
+      "id": "Stuyvenbergh"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3377665,
+          50.8894885
+        ]
+      },
+      "id": "Houba-Brugmann"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3359769,
+          50.8968737
+        ]
+      },
+      "id": "Heysel - Heizel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.330489,
+          50.8631917
+        ]
+      },
+      "id": "Simonis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3396697,
+          50.8604772
+        ]
+      },
+      "id": "Ribaucourt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3402537,
+          50.8548502
+        ]
+      },
+      "id": "Comte de Flandre - Graaf van Vlaanderen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.325184,
+          50.8569002
+        ]
+      },
+      "id": "Osseghem - Ossegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3428865,
+          50.8327988
+        ]
+      },
+      "id": "Porte de Hal - Hallepoort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3425655,
+          50.8215407
+        ]
+      },
+      "id": "Albert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3457493,
+          50.8259485
+        ]
+      },
+      "id": "Horta"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3818382,
+          50.8428062
+        ]
+      },
+      "id": "Schuman"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36877,
+          50.8455451
+        ]
+      },
+      "id": "Arts-Loi - Kunst-Wet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3769687,
+          50.8438339
+        ]
+      },
+      "id": "Maelbeek - Maalbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3616931,
+          50.8382614
+        ]
+      },
+      "id": "Porte de Namur - Naamsepoort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3691066,
+          50.8499675
+        ]
+      },
+      "id": "Madou"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3665164,
+          50.841247
+        ]
+      },
+      "id": "Tr\u00f4ne - Troon"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4213093,
+          51.2190222
+        ]
+      },
+      "id": "Astrid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3144068,
+          50.8013269
+        ]
+      },
+      "id": "Forest-Saint-Georges"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5991893,
+          51.0816751
+        ]
+      },
+      "id": "Station Dorpsplein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5975421,
+          51.0787354
+        ]
+      },
+      "id": "Station Heidiland"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5963457,
+          51.0821395
+        ]
+      },
+      "id": "Station Wickieland"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5957167,
+          51.0803713
+        ]
+      },
+      "id": "Ketnet Station"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4349532,
+          50.4064521
+        ]
+      },
+      "id": "Villette"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4371825,
+          50.4112808
+        ]
+      },
+      "id": "Ouest"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4487945,
+          50.409434
+        ]
+      },
+      "id": "Parc"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1018492,
+          50.658168
+        ]
+      },
+      "id": "Bloc U"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1333745,
+          50.6607315
+        ]
+      },
+      "id": "Rebecq"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1066823,
+          50.6519741
+        ]
+      },
+      "id": "Rognon"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5305865,
+          50.0926427
+        ]
+      },
+      "id": "Mariembourg (CFV3V)"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2644362,
+          50.8245646
+        ]
+      },
+      "id": "Kortrijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3354085,
+          50.6011721
+        ]
+      },
+      "id": "Nivelles"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6015721,
+          50.8513926
+        ]
+      },
+      "id": "Oudenaarde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0424143,
+          51.0730461
+        ]
+      },
+      "id": "Zele"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5753588,
+          51.1807831
+        ]
+      },
+      "id": "Eeklo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0462815,
+          50.7818155
+        ]
+      },
+      "id": "Wervik"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1137895,
+          50.7993956
+        ]
+      },
+      "id": "Menen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3572745,
+          50.6286589
+        ]
+      },
+      "id": "Froyennes"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9862766,
+          51.1076068
+        ]
+      },
+      "id": "Lokeren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0261778,
+          50.8394627
+        ]
+      },
+      "id": "Ninove"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0389191,
+          50.6351119
+        ]
+      },
+      "id": "Eupen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6021635,
+          51.0772747
+        ]
+      },
+      "id": "De Panne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0440745,
+          51.0251661
+        ]
+      },
+      "id": "Kortemark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6135917,
+          50.966177
+        ]
+      },
+      "id": "Haacht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7368606,
+          50.8543508
+        ]
+      },
+      "id": "Poperinge"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6387127,
+          50.9580659
+        ]
+      },
+      "id": "Wespelaar-Tildonk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6495479,
+          50.9966542
+        ]
+      },
+      "id": "De Pinte"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2554117,
+          50.9139858
+        ]
+      },
+      "id": "Ingelmunster"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1826776,
+          50.8111783
+        ]
+      },
+      "id": "Wevelgem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4489698,
+          51.0920383
+        ]
+      },
+      "id": "Aalter"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5694838,
+          50.6735333
+        ]
+      },
+      "id": "Ottignies"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1948891,
+          51.326422
+        ]
+      },
+      "id": "Zeebrugge-Dorp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.926215,
+          51.2284322
+        ]
+      },
+      "id": "Oostende"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4327583,
+          51.3134658
+        ]
+      },
+      "id": "Kapellen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4185022,
+          50.9845
+        ]
+      },
+      "id": "Aarsele"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1339182,
+          51.3123397
+        ]
+      },
+      "id": "Blankenberge"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5095108,
+          50.8684996
+        ]
+      },
+      "id": "Bilzen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2145318,
+          50.9211098
+        ]
+      },
+      "id": "Izegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4372387,
+          51.2218575
+        ]
+      },
+      "id": "Neerpelt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4970994,
+          50.7382901
+        ]
+      },
+      "id": "La Hulpe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828734,
+          51.1809816
+        ]
+      },
+      "id": "Herentals"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.583679,
+          50.570522
+        ]
+      },
+      "id": "Tilff"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6923093,
+          50.7383248
+        ]
+      },
+      "id": "Vis\u00e9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9754899,
+          50.6596575
+        ]
+      },
+      "id": "Welkenraedt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8063587,
+          50.5681605
+        ]
+      },
+      "id": "Pepinster"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9985049,
+          50.7717486
+        ]
+      },
+      "id": "Comines - Komen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1268061,
+          51.0252191
+        ]
+      },
+      "id": "Lichtervelde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1304614,
+          50.9489228
+        ]
+      },
+      "id": "Roeselare"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4243419,
+          50.8917047
+        ]
+      },
+      "id": "Waregem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7645867,
+          51.0201762
+        ]
+      },
+      "id": "Merelbeke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8824487,
+          51.0016172
+        ]
+      },
+      "id": "Wetteren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8798459,
+          51.087163
+        ]
+      },
+      "id": "Beervelde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8150624,
+          50.5362043
+        ]
+      },
+      "id": "Theux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7085994,
+          51.0738368
+        ]
+      },
+      "id": "Heist-op-den-Berg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.460573,
+          51.3647922
+        ]
+      },
+      "id": "Heide"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8224344,
+          50.5255053
+        ]
+      },
+      "id": "Franchimont"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8730278,
+          50.3691636
+        ]
+      },
+      "id": "Trois-Ponts"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45117,
+          51.4626799
+        ]
+      },
+      "id": "Essen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.466644,
+          51.3910924
+        ]
+      },
+      "id": "Kalmthout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4634184,
+          51.4276753
+        ]
+      },
+      "id": "Wildert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4351343,
+          51.2907893
+        ]
+      },
+      "id": "Sint-Mariaburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4673221,
+          51.3791307
+        ]
+      },
+      "id": "Kijkuit"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.434336,
+          51.2817684
+        ]
+      },
+      "id": "Ekeren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6160384,
+          50.669712
+        ]
+      },
+      "id": "Louvain-la-Neuve"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8292864,
+          49.5639089
+        ]
+      },
+      "id": "Athus"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4951029,
+          51.1632038
+        ]
+      },
+      "id": "Boechout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6665642,
+          51.1597466
+        ]
+      },
+      "id": "Nijlen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7462187,
+          51.1656586
+        ]
+      },
+      "id": "Bouwel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7850797,
+          51.1685644
+        ]
+      },
+      "id": "Wolfstee"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9261879,
+          50.8078688
+        ]
+      },
+      "id": "Tienen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5619531,
+          51.1358421
+        ]
+      },
+      "id": "Lier"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8099838,
+          50.5446963
+        ]
+      },
+      "id": "Juslenville"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9540191,
+          50.1896189
+        ]
+      },
+      "id": "Gouvy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9095207,
+          50.2787325
+        ]
+      },
+      "id": "Vielsalm"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4409722,
+          50.2839828
+        ]
+      },
+      "id": "Melreux-Hotton"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5339242,
+          50.4287902
+        ]
+      },
+      "id": "Hamoir"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5728296,
+          50.530514
+        ]
+      },
+      "id": "Esneux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.585541,
+          50.4860898
+        ]
+      },
+      "id": "Rivage"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6229797,
+          50.6607262
+        ]
+      },
+      "id": "Herstal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5690642,
+          50.6981667
+        ]
+      },
+      "id": "Liers"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4735866,
+          50.7840282
+        ]
+      },
+      "id": "Tongeren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2925362,
+          50.8867147
+        ]
+      },
+      "id": "Alken"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1759902,
+          50.8172129
+        ]
+      },
+      "id": "Sint-Truiden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0800985,
+          50.7479715
+        ]
+      },
+      "id": "Landen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1856287,
+          50.9641149
+        ]
+      },
+      "id": "Schulen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8637488,
+          51.0024869
+        ]
+      },
+      "id": "Langdorp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9469085,
+          51.0097709
+        ]
+      },
+      "id": "Testelt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.988349,
+          51.0063866
+        ]
+      },
+      "id": "Zichem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0511119,
+          50.9930532
+        ]
+      },
+      "id": "Diest"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7481188,
+          50.9564078
+        ]
+      },
+      "id": "Wezemaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8240803,
+          50.9844425
+        ]
+      },
+      "id": "Aarschot"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4963483,
+          50.9669601
+        ]
+      },
+      "id": "Genk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7735274,
+          51.0372737
+        ]
+      },
+      "id": "Booischot"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7992417,
+          51.0226822
+        ]
+      },
+      "id": "Begijnendijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6388242,
+          51.1134905
+        ]
+      },
+      "id": "Berlaar"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.671983,
+          51.0947001
+        ]
+      },
+      "id": "Melkouwen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4241897,
+          51.2156208
+        ]
+      },
+      "id": "Overpelt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5425301,
+          51.2461291
+        ]
+      },
+      "id": "Hamont"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1145128,
+          51.1905976
+        ]
+      },
+      "id": "Mol"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3119934,
+          51.2116272
+        ]
+      },
+      "id": "Lommel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2580336,
+          51.1173328
+        ]
+      },
+      "id": "Leopoldsburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9895239,
+          51.1690147
+        ]
+      },
+      "id": "Geel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9021179,
+          51.174068
+        ]
+      },
+      "id": "Olen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6179673,
+          51.1508801
+        ]
+      },
+      "id": "Kessel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9378811,
+          51.3227241
+        ]
+      },
+      "id": "Turnhout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0952747,
+          50.4968073
+        ]
+      },
+      "id": "Andenne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0265885,
+          50.4922014
+        ]
+      },
+      "id": "Sclaigneaux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5097759,
+          50.6613584
+        ]
+      },
+      "id": "Ans"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3207531,
+          50.6787498
+        ]
+      },
+      "id": "Remicourt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2496619,
+          50.6946489
+        ]
+      },
+      "id": "Waremme"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9950215,
+          50.7715802
+        ]
+      },
+      "id": "Ezemaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1569013,
+          50.562156
+        ]
+      },
+      "id": "\u00c9caussinnes"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0072593,
+          50.4698406
+        ]
+      },
+      "id": "Obourg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6866711,
+          50.4102217
+        ]
+      },
+      "id": "Qui\u00e9vrain"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8191781,
+          50.4428284
+        ]
+      },
+      "id": "Saint-Ghislain"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9112354,
+          50.3914008
+        ]
+      },
+      "id": "Genly"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9092414,
+          50.3413891
+        ]
+      },
+      "id": "Qu\u00e9vy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3967614,
+          50.6127766
+        ]
+      },
+      "id": "Tournai"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.836873,
+          50.7130521
+        ]
+      },
+      "id": "Lessines"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1764473,
+          50.651278
+        ]
+      },
+      "id": "Hennuy\u00e8res"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2733784,
+          50.7659519
+        ]
+      },
+      "id": "Lot"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2056101,
+          50.6917872
+        ]
+      },
+      "id": "Tubize"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3294877,
+          51.1281383
+        ]
+      },
+      "id": "Beernem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.910381,
+          50.5301226
+        ]
+      },
+      "id": "Jurbise"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2949713,
+          50.7910623
+        ]
+      },
+      "id": "Ruisbroek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5359264,
+          51.0731867
+        ]
+      },
+      "id": "Hansbeke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4887657,
+          51.0834224
+        ]
+      },
+      "id": "Bellem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5754792,
+          51.0645747
+        ]
+      },
+      "id": "Landegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3851815,
+          51.1081407
+        ]
+      },
+      "id": "Maria-Aalter"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2573187,
+          51.154378
+        ]
+      },
+      "id": "Oostkamp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7771666,
+          50.627202
+        ]
+      },
+      "id": "Ath"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6169913,
+          50.6003802
+        ]
+      },
+      "id": "Leuze"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6662236,
+          50.505315
+        ]
+      },
+      "id": "Blaton"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8523292,
+          50.5941625
+        ]
+      },
+      "id": "Brugelette"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.83518,
+          50.7028003
+        ]
+      },
+      "id": "Houraing"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8722631,
+          50.7702738
+        ]
+      },
+      "id": "Geraardsbergen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8141938,
+          50.8688767
+        ]
+      },
+      "id": "Zottegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6329988,
+          51.357137
+        ]
+      },
+      "id": "Noorderkempen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9209282,
+          50.9069358
+        ]
+      },
+      "id": "Burst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6017789,
+          50.7422548
+        ]
+      },
+      "id": "Ronse - Renaix"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6463103,
+          50.9080352
+        ]
+      },
+      "id": "Zingem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6400103,
+          50.9292029
+        ]
+      },
+      "id": "Gavere-Asper"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4577402,
+          50.9586694
+        ]
+      },
+      "id": "Eppegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4327691,
+          50.9245857
+        ]
+      },
+      "id": "Vilvoorde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4176319,
+          50.9081115
+        ]
+      },
+      "id": "Buda"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4714015,
+          50.9777709
+        ]
+      },
+      "id": "Weerde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4928744,
+          51.0913781
+        ]
+      },
+      "id": "Duffel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4958343,
+          51.0706591
+        ]
+      },
+      "id": "Sint-Katelijne-Waver"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4557851,
+          51.1711434
+        ]
+      },
+      "id": "Mortsel-Oude-God"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4655959,
+          51.1533777
+        ]
+      },
+      "id": "Hove"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47665,
+          51.1339492
+        ]
+      },
+      "id": "Kontich-Lint"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5350698,
+          50.9781527
+        ]
+      },
+      "id": "Deinze"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3296225,
+          50.990425
+        ]
+      },
+      "id": "Tielt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8692705,
+          51.032734
+        ]
+      },
+      "id": "Diksmuide"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6530273,
+          51.0790752
+        ]
+      },
+      "id": "Koksijde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6703007,
+          51.0738537
+        ]
+      },
+      "id": "Veurne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.105734,
+          51.0647908
+        ]
+      },
+      "id": "Torhout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1636812,
+          51.1266218
+        ]
+      },
+      "id": "Zedelgem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1871777,
+          50.9747763
+        ]
+      },
+      "id": "Opwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4691651,
+          51.1695282
+        ]
+      },
+      "id": "Mortsel-Liersesteenweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4472516,
+          51.1831225
+        ]
+      },
+      "id": "Mortsel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4983144,
+          50.9884748
+        ]
+      },
+      "id": "Hofstade"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3560247,
+          51.0664347
+        ]
+      },
+      "id": "Willebroek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2400736,
+          51.0993795
+        ]
+      },
+      "id": "Bornem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2828146,
+          51.0772325
+        ]
+      },
+      "id": "Puurs"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1441842,
+          51.1719944
+        ]
+      },
+      "id": "Sint-Niklaas"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8670106,
+          50.4892744
+        ]
+      },
+      "id": "Spa-G\u00e9ronst\u00e8re"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5313534,
+          50.7130451
+        ]
+      },
+      "id": "Rixensart"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4564323,
+          50.5944698
+        ]
+      },
+      "id": "Fl\u00e9malle-Haute"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4984853,
+          50.6186268
+        ]
+      },
+      "id": "Jemeppe-sur-Meuse"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4024773,
+          50.5827608
+        ]
+      },
+      "id": "Engis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3207698,
+          50.5460435
+        ]
+      },
+      "id": "Amay"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8356836,
+          50.8360362
+        ]
+      },
+      "id": "Vertrijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6326967,
+          50.9004245
+        ]
+      },
+      "id": "Veltem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6751574,
+          50.9037678
+        ]
+      },
+      "id": "Herent"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5058,
+          50.8833278
+        ]
+      },
+      "id": "Nossegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5410778,
+          50.8927499
+        ]
+      },
+      "id": "Kortenberg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5865908,
+          50.896625
+        ]
+      },
+      "id": "Erps-Kwerps"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4452666,
+          50.8899608
+        ]
+      },
+      "id": "Diegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4729671,
+          50.8850132
+        ]
+      },
+      "id": "Zaventem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7016294,
+          50.922623
+        ]
+      },
+      "id": "Wijgmaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0878484,
+          51.1506575
+        ]
+      },
+      "id": "Belsele"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5736867,
+          50.9820186
+        ]
+      },
+      "id": "Boortmeerbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6634468,
+          50.9442794
+        ]
+      },
+      "id": "Hambos"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5134363,
+          51.0087257
+        ]
+      },
+      "id": "Muizen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5383593,
+          50.9974238
+        ]
+      },
+      "id": "Hever"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5362906,
+          50.6054798
+        ]
+      },
+      "id": "Ougr\u00e9e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.513093,
+          50.6087967
+        ]
+      },
+      "id": "Seraing"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1540216,
+          51.0193803
+        ]
+      },
+      "id": "Baasrode-Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2011601,
+          51.0162689
+        ]
+      },
+      "id": "Buggenhout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2286648,
+          51.0144035
+        ]
+      },
+      "id": "Malderen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2980562,
+          51.0092413
+        ]
+      },
+      "id": "Londerzeel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3590564,
+          51.0108251
+        ]
+      },
+      "id": "Kapelle-op-den-Bos"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.970305,
+          51.0018607
+        ]
+      },
+      "id": "Wichelen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0115346,
+          51.0031806
+        ]
+      },
+      "id": "Schoonaarde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0637076,
+          51.0150135
+        ]
+      },
+      "id": "Oudegem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6517014,
+          50.8006875
+        ]
+      },
+      "id": "Sint-Joris-Weert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6053217,
+          50.7161154
+        ]
+      },
+      "id": "Wavre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5196466,
+          49.5605149
+        ]
+      },
+      "id": "Virton"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.267806,
+          49.8526996
+        ]
+      },
+      "id": "Bertrix"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3792715,
+          49.9202357
+        ]
+      },
+      "id": "Libramont"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9782107,
+          49.9842836
+        ]
+      },
+      "id": "Gedinne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9567776,
+          50.1148164
+        ]
+      },
+      "id": "Beauraing"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0060602,
+          50.1901302
+        ]
+      },
+      "id": "Houyet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1382245,
+          50.6057582
+        ]
+      },
+      "id": "Braine-le-Comte"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9047258,
+          50.2373562
+        ]
+      },
+      "id": "Anseremme"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9646491,
+          50.2104997
+        ]
+      },
+      "id": "Gendron-Celles"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8095313,
+          49.680415
+        ]
+      },
+      "id": "Arlon"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7678737,
+          49.6909216
+        ]
+      },
+      "id": "Stockem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5393884,
+          49.7274187
+        ]
+      },
+      "id": "Marbehan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2671586,
+          50.1599751
+        ]
+      },
+      "id": "Rochefort-Jemelle"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.091454,
+          50.2913832
+        ]
+      },
+      "id": "Ciney"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8785998,
+          50.3206651
+        ]
+      },
+      "id": "Yvoir"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.907942,
+          50.2612142
+        ]
+      },
+      "id": "Dinant"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6632648,
+          50.4513053
+        ]
+      },
+      "id": "Jemeppe-sur-Sambre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6314481,
+          50.4491752
+        ]
+      },
+      "id": "Auvelais"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5439909,
+          50.4822918
+        ]
+      },
+      "id": "Fleurus"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2347244,
+          50.5061805
+        ]
+      },
+      "id": "Manage"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5209408,
+          50.4094033
+        ]
+      },
+      "id": "Ch\u00e2telet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.524461,
+          50.0957361
+        ]
+      },
+      "id": "Mariembourg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4919865,
+          50.0564153
+        ]
+      },
+      "id": "Couvin"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5361192,
+          50.1914904
+        ]
+      },
+      "id": "Philippeville"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4361958,
+          50.2592973
+        ]
+      },
+      "id": "Walcourt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6097417,
+          50.4323401
+        ]
+      },
+      "id": "Tamines"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1124146,
+          50.3036552
+        ]
+      },
+      "id": "Erquelinnes"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3937321,
+          50.4429929
+        ]
+      },
+      "id": "Roux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3839192,
+          50.5062363
+        ]
+      },
+      "id": "Luttre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3650953,
+          50.6450036
+        ]
+      },
+      "id": "Lillois"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3758099,
+          50.6841288
+        ]
+      },
+      "id": "Braine-l'Alleud"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0471298,
+          50.6972783
+        ]
+      },
+      "id": "Enghien - Edingen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1658889,
+          50.8746359
+        ]
+      },
+      "id": "Ternat"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9209671,
+          51.0031021
+        ]
+      },
+      "id": "Schellebelle"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7973741,
+          51.0025419
+        ]
+      },
+      "id": "Melle"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8289582,
+          50.9917177
+        ]
+      },
+      "id": "Kwatrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1944575,
+          51.2946825
+        ]
+      },
+      "id": "Lissewege"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1841013,
+          51.3304591
+        ]
+      },
+      "id": "Zeebrugge-Strand"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4823703,
+          50.8983436
+        ]
+      },
+      "id": "Brussels Airport-Zaventem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6728703,
+          50.4728556
+        ]
+      },
+      "id": "Aywaille"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.876502,
+          50.8478545
+        ]
+      },
+      "id": "Ieper"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1728879,
+          50.4089064
+        ]
+      },
+      "id": "Binche"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2889391,
+          50.4349107
+        ]
+      },
+      "id": "Pi\u00e9ton"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2211479,
+          51.126115
+        ]
+      },
+      "id": "Temse"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3256858,
+          51.0810559
+        ]
+      },
+      "id": "Ruisbroek-Sauvegarde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3402494,
+          51.125525
+        ]
+      },
+      "id": "Schelle"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3391318,
+          51.1114203
+        ]
+      },
+      "id": "Niel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3603723,
+          51.0908512
+        ]
+      },
+      "id": "Boom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3483745,
+          51.1829663
+        ]
+      },
+      "id": "Hoboken-Polder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3385038,
+          51.1363324
+        ]
+      },
+      "id": "Hemiksem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3306372,
+          51.2141489
+        ]
+      },
+      "id": "Zwijndrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1852432,
+          51.1853722
+        ]
+      },
+      "id": "Nieuwkerken-Waas"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2597046,
+          51.2082712
+        ]
+      },
+      "id": "Beveren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2867883,
+          51.2107092
+        ]
+      },
+      "id": "Melsele"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0682164,
+          51.1432806
+        ]
+      },
+      "id": "Sinaai"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6911124,
+          50.5701844
+        ]
+      },
+      "id": "Gembloux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9128064,
+          50.7234085
+        ]
+      },
+      "id": "Hombourg (History Park)"
+    }
+  ],
+  "links": [
+    {
+      "distance": 6080.932801756043,
+      "source": "Soignies",
+      "target": "Braine-le-Comte"
+    },
+    {
+      "distance": 5329.001562206596,
+      "source": "Soignies",
+      "target": "Neufvilles"
+    },
+    {
+      "distance": 13106.963917592884,
+      "source": "Spa",
+      "target": "Aywaille"
+    },
+    {
+      "distance": 4576.399894358,
+      "source": "Spa",
+      "target": "Franchimont"
+    },
+    {
+      "distance": 13519.914825406291,
+      "source": "Spa",
+      "target": "Trois-Ponts"
+    },
+    {
+      "distance": 488.75669029222377,
+      "source": "Janson",
+      "target": "Parc"
+    },
+    {
+      "distance": 10676.320643752726,
+      "source": "Waterloo",
+      "target": "Forest-Saint-Georges"
+    },
+    {
+      "distance": 33387.41086625372,
+      "source": "Waterloo",
+      "target": "Samaritaine"
+    },
+    {
+      "distance": 3584.8977236079686,
+      "source": "Waterloo",
+      "target": "Braine-l'Alleud"
+    },
+    {
+      "distance": 33761.96227066074,
+      "source": "Waterloo",
+      "target": "Palais"
+    },
+    {
+      "distance": 442.10029515596824,
+      "source": "Gilly",
+      "target": "Gazom\u00e8tre"
+    },
+    {
+      "distance": 3348.831886617546,
+      "source": "Gilly",
+      "target": "Ch\u00e2telet"
+    },
+    {
+      "distance": 2021.9163555124878,
+      "source": "Marabout",
+      "target": "Samaritaine"
+    },
+    {
+      "distance": 7338.044918374899,
+      "source": "Marabout",
+      "target": "Fleurus"
+    },
+    {
+      "distance": 3608.4503019106246,
+      "source": "Gazom\u00e8tre",
+      "target": "Ch\u00e2telet"
+    },
+    {
+      "distance": 2268.194310039324,
+      "source": "Gazom\u00e8tre",
+      "target": "Parc"
+    },
+    {
+      "distance": 9584.409832884952,
+      "source": "Nam\u00eache",
+      "target": "Namur"
+    },
+    {
+      "distance": 11751.115411496312,
+      "source": "Bomal",
+      "target": "Melreux-Hotton"
+    },
+    {
+      "distance": 5864.764309532351,
+      "source": "Bomal",
+      "target": "Hamoir"
+    },
+    {
+      "distance": 16942.974329162786,
+      "source": "Gare du train \u00e0 vapeur",
+      "target": "Enghien - Edingen"
+    },
+    {
+      "distance": 6382.223796795261,
+      "source": "Gare du train \u00e0 vapeur",
+      "target": "Jurbise"
+    },
+    {
+      "distance": 2520.3228846959373,
+      "source": "Gare du train \u00e0 vapeur",
+      "target": "Brugelette"
+    },
+    {
+      "distance": 4985.741941107814,
+      "source": "Groenplaats",
+      "target": "Zwijndrecht"
+    },
+    {
+      "distance": 5096.268764619809,
+      "source": "Groenplaats",
+      "target": "Antwerpen-Noorderdokken"
+    },
+    {
+      "distance": 3292.536858401226,
+      "source": "Groenplaats",
+      "target": "Antwerpen-Luchtbal"
+    },
+    {
+      "distance": 8188.948541751283,
+      "source": "Tielen",
+      "target": "Herentals"
+    },
+    {
+      "distance": 9485.971168597336,
+      "source": "Tielen",
+      "target": "Turnhout"
+    },
+    {
+      "distance": 7243.669888342599,
+      "source": "Neufvilles",
+      "target": "Jurbise"
+    },
+    {
+      "distance": 6012.795964810826,
+      "source": "Treignes",
+      "target": "Olloy sur Viroin"
+    },
+    {
+      "distance": 9139.093899051928,
+      "source": "Eeklo Oostveld",
+      "target": "Maldegem"
+    },
+    {
+      "distance": 322.6688527852642,
+      "source": "Eeklo Oostveld",
+      "target": "Eeklo"
+    },
+    {
+      "distance": 2309.2848755357736,
+      "source": "Dorinne-Durnal",
+      "target": "Spontin"
+    },
+    {
+      "distance": 5597.268560614416,
+      "source": "Olloy sur Viroin",
+      "target": "Mariembourg (CFV3V)"
+    },
+    {
+      "distance": 1790.2483942601036,
+      "source": "Zegel",
+      "target": "Antwerpen-Berchem"
+    },
+    {
+      "distance": 3556.9547980627003,
+      "source": "Zegel",
+      "target": "Antwerpen-Luchtbal"
+    },
+    {
+      "distance": 1581.7755383914282,
+      "source": "Zegel",
+      "target": "Astrid"
+    },
+    {
+      "distance": 569.5123260708175,
+      "source": "Palais",
+      "target": "Ouest"
+    },
+    {
+      "distance": 337.10850960016245,
+      "source": "Antwerpen-Centraal",
+      "target": "Astrid"
+    },
+    {
+      "distance": 1975.3746370454592,
+      "source": "Antwerpen-Centraal",
+      "target": "Antwerpen-Berchem"
+    },
+    {
+      "distance": 3388.0973845533554,
+      "source": "Antwerpen-Zuid",
+      "target": "Hoboken-Polder"
+    },
+    {
+      "distance": 4603.37464508973,
+      "source": "Antwerpen-Zuid",
+      "target": "Zwijndrecht"
+    },
+    {
+      "distance": 2902.909664098666,
+      "source": "Antwerpen-Zuid",
+      "target": "Antwerpen-Berchem"
+    },
+    {
+      "distance": 8580.691744828013,
+      "source": "Antwerpen-Noorderdokken",
+      "target": "Zwijndrecht"
+    },
+    {
+      "distance": 5804.459790172158,
+      "source": "Antwerpen-Noorderdokken",
+      "target": "Kapellen"
+    },
+    {
+      "distance": 2313.4686072711697,
+      "source": "Antwerpen-Noorderdokken",
+      "target": "Ekeren"
+    },
+    {
+      "distance": 1905.0720614360644,
+      "source": "Antwerpen-Noorderdokken",
+      "target": "Antwerpen-Luchtbal"
+    },
+    {
+      "distance": 2829.7647450405884,
+      "source": "Antwerpen-Luchtbal",
+      "target": "Astrid"
+    },
+    {
+      "distance": 2118.8284980848343,
+      "source": "Antwerpen-Berchem",
+      "target": "Mortsel"
+    },
+    {
+      "distance": 4003.193927637553,
+      "source": "Gent-Dampoort",
+      "target": "Wondelgem"
+    },
+    {
+      "distance": 2180.214975493347,
+      "source": "Gent-Dampoort",
+      "target": "Gentbrugge"
+    },
+    {
+      "distance": 6087.937234057917,
+      "source": "Denderleeuw",
+      "target": "Aalst"
+    },
+    {
+      "distance": 6645.575129543869,
+      "source": "Denderleeuw",
+      "target": "Ninove"
+    },
+    {
+      "distance": 6921.178531786117,
+      "source": "Denderleeuw",
+      "target": "Ternat"
+    },
+    {
+      "distance": 6928.9194799609495,
+      "source": "Dendermonde",
+      "target": "Zele"
+    },
+    {
+      "distance": 8080.239030802575,
+      "source": "Dendermonde",
+      "target": "Opwijk"
+    },
+    {
+      "distance": 2748.722983851155,
+      "source": "Dendermonde",
+      "target": "Oudegem"
+    },
+    {
+      "distance": 6092.8523317118015,
+      "source": "Gent-Sint-Pieters",
+      "target": "De Pinte"
+    },
+    {
+      "distance": 3215.167902519567,
+      "source": "Gent-Sint-Pieters",
+      "target": "Gentbrugge"
+    },
+    {
+      "distance": 4160.701559094491,
+      "source": "Gent-Sint-Pieters",
+      "target": "Drongen"
+    },
+    {
+      "distance": 8677.990777699326,
+      "source": "Brugge",
+      "target": "Zedelgem"
+    },
+    {
+      "distance": 5506.286630463382,
+      "source": "Brugge",
+      "target": "Oostkamp"
+    },
+    {
+      "distance": 3087.4811015898335,
+      "source": "Brugge",
+      "target": "Brugge-Sint-Pieters"
+    },
+    {
+      "distance": 5858.1748952857415,
+      "source": "Drongen",
+      "target": "Landegem"
+    },
+    {
+      "distance": 4269.466262149995,
+      "source": "Halle",
+      "target": "Lot"
+    },
+    {
+      "distance": 5277.214540192077,
+      "source": "Halle",
+      "target": "Tubize"
+    },
+    {
+      "distance": 11228.931709108008,
+      "source": "Wondelgem",
+      "target": "Beervelde"
+    },
+    {
+      "distance": 14357.20617222614,
+      "source": "Wondelgem",
+      "target": "Eeklo"
+    },
+    {
+      "distance": 10206.752656719153,
+      "source": "Gentbrugge",
+      "target": "Beervelde"
+    },
+    {
+      "distance": 2133.86314361896,
+      "source": "Gentbrugge",
+      "target": "Merelbeke"
+    },
+    {
+      "distance": 7993.256447955027,
+      "source": "Brugge-Sint-Pieters",
+      "target": "Lissewege"
+    },
+    {
+      "distance": 11046.833416312516,
+      "source": "Brugge-Sint-Pieters",
+      "target": "Zedelgem"
+    },
+    {
+      "distance": 4527.13943771341,
+      "source": "Mechelen",
+      "target": "Weerde"
+    },
+    {
+      "distance": 1470.891997913984,
+      "source": "Mechelen",
+      "target": "Mechelen-Nekkerspoel"
+    },
+    {
+      "distance": 2311.3146079523844,
+      "source": "Mechelen",
+      "target": "Muizen"
+    },
+    {
+      "distance": 1768.7068900405075,
+      "source": "Duinbergen",
+      "target": "Heist"
+    },
+    {
+      "distance": 1457.0983543575148,
+      "source": "Duinbergen",
+      "target": "Knokke"
+    },
+    {
+      "distance": 5362.347349887653,
+      "source": "Heist",
+      "target": "Lissewege"
+    },
+    {
+      "distance": 3196.541828697775,
+      "source": "Heist",
+      "target": "Zeebrugge-Dorp"
+    },
+    {
+      "distance": 21302.481467085337,
+      "source": "Hasselt",
+      "target": "Leopoldsburg"
+    },
+    {
+      "distance": 10634.909673722552,
+      "source": "Hasselt",
+      "target": "Schulen"
+    },
+    {
+      "distance": 14563.68188098511,
+      "source": "Hasselt",
+      "target": "Bilzen"
+    },
+    {
+      "distance": 5501.259933940758,
+      "source": "Hasselt",
+      "target": "Alken"
+    },
+    {
+      "distance": 4696.679929911232,
+      "source": "Leuven",
+      "target": "Wijgmaal"
+    },
+    {
+      "distance": 9840.671780592991,
+      "source": "Leuven",
+      "target": "Vertrijk"
+    },
+    {
+      "distance": 10039.885058743926,
+      "source": "Leuven",
+      "target": "Sint-Joris-Weert"
+    },
+    {
+      "distance": 4508.692653893146,
+      "source": "Mechelen-Nekkerspoel",
+      "target": "Sint-Katelijne-Waver"
+    },
+    {
+      "distance": 2899.0256170980138,
+      "source": "Mechelen-Nekkerspoel",
+      "target": "Muizen"
+    },
+    {
+      "distance": 864.0505252556989,
+      "source": "Statte",
+      "target": "Huy"
+    },
+    {
+      "distance": 13528.654258516894,
+      "source": "Huy",
+      "target": "Engis"
+    },
+    {
+      "distance": 3412.4337361678117,
+      "source": "Marchienne-au-Pont",
+      "target": "Roux"
+    },
+    {
+      "distance": 2972.92247957447,
+      "source": "Marchienne-au-Pont",
+      "target": "Villette"
+    },
+    {
+      "distance": 7887.836198162289,
+      "source": "Marchienne-au-Pont",
+      "target": "Pi\u00e9ton"
+    },
+    {
+      "distance": 4968.061652903373,
+      "source": "La Louvi\u00e8re-Centre",
+      "target": "Manage"
+    },
+    {
+      "distance": 1450.3693901106342,
+      "source": "La Louvi\u00e8re-Centre",
+      "target": "La Louvi\u00e8re-Sud"
+    },
+    {
+      "distance": 12342.803722354914,
+      "source": "La Louvi\u00e8re-Centre",
+      "target": "Obourg"
+    },
+    {
+      "distance": 2582.124918757635,
+      "source": "Li\u00e8ge-Guillemins",
+      "target": "Angleur"
+    },
+    {
+      "distance": 2437.0579966789223,
+      "source": "Li\u00e8ge-Guillemins",
+      "target": "Li\u00e8ge-Saint-Lambert"
+    },
+    {
+      "distance": 3054.319638129878,
+      "source": "Li\u00e8ge-Guillemins",
+      "target": "Ougr\u00e9e"
+    },
+    {
+      "distance": 1939.600448664303,
+      "source": "Bressoux",
+      "target": "Herstal"
+    },
+    {
+      "distance": 2995.485579259901,
+      "source": "Bressoux",
+      "target": "Li\u00e8ge-Saint-Lambert"
+    },
+    {
+      "distance": 1466.738122125884,
+      "source": "Ch\u00ean\u00e9e",
+      "target": "Angleur"
+    },
+    {
+      "distance": 14078.25884299695,
+      "source": "Ch\u00ean\u00e9e",
+      "target": "Pepinster"
+    },
+    {
+      "distance": 4199.9780063510825,
+      "source": "Angleur",
+      "target": "Li\u00e8ge-Saint-Lambert"
+    },
+    {
+      "distance": 4628.697815780143,
+      "source": "Li\u00e8ge-Saint-Lambert",
+      "target": "Ans"
+    },
+    {
+      "distance": 5585.869087452541,
+      "source": "La Louvi\u00e8re-Sud",
+      "target": "Manage"
+    },
+    {
+      "distance": 5791.983953006105,
+      "source": "Marloie",
+      "target": "Rochefort-Jemelle"
+    },
+    {
+      "distance": 12815.688992277688,
+      "source": "Marloie",
+      "target": "Melreux-Hotton"
+    },
+    {
+      "distance": 18698.20133485559,
+      "source": "Marloie",
+      "target": "Ciney"
+    },
+    {
+      "distance": 4958.11302780402,
+      "source": "Mons",
+      "target": "Obourg"
+    },
+    {
+      "distance": 7302.433237830719,
+      "source": "Mons",
+      "target": "Genly"
+    },
+    {
+      "distance": 8809.954163404213,
+      "source": "Mons",
+      "target": "Saint-Ghislain"
+    },
+    {
+      "distance": 15420.316377587125,
+      "source": "Mouscron - Moeskroen",
+      "target": "Froyennes"
+    },
+    {
+      "distance": 8516.836859262588,
+      "source": "Mouscron - Moeskroen",
+      "target": "Wevelgem"
+    },
+    {
+      "distance": 4117.330078791822,
+      "source": "Verviers-Central",
+      "target": "Pepinster"
+    },
+    {
+      "distance": 11642.107940446333,
+      "source": "Verviers-Central",
+      "target": "Welkenraedt"
+    },
+    {
+      "distance": 2629.4126812136537,
+      "source": "Namur",
+      "target": "Ronet"
+    },
+    {
+      "distance": 11936.554889979929,
+      "source": "Namur",
+      "target": "Sclaigneaux"
+    },
+    {
+      "distance": 11815.518523490751,
+      "source": "Ronet",
+      "target": "Jemeppe-sur-Sambre"
+    },
+    {
+      "distance": 1731.3617471945656,
+      "source": "Bruxelles-Midi - Brussel-Zuid",
+      "target": "Aumale"
+    },
+    {
+      "distance": 152.9454758668717,
+      "source": "Bruxelles-Midi - Brussel-Zuid",
+      "target": "Gare du Midi - Zuidstation"
+    },
+    {
+      "distance": 721.0600468120224,
+      "source": "Bruxelles-Midi - Brussel-Zuid",
+      "target": "Clemenceau"
+    },
+    {
+      "distance": 1634.2520023975844,
+      "source": "Bruxelles-Midi - Brussel-Zuid",
+      "target": "Albert"
+    },
+    {
+      "distance": 1151.48850881909,
+      "source": "Watermael - Watermaal",
+      "target": "Delta"
+    },
+    {
+      "distance": 2051.372980466836,
+      "source": "Watermael - Watermaal",
+      "target": "Herrmann-Debroux"
+    },
+    {
+      "distance": 1688.8107012089347,
+      "source": "Watermael - Watermaal",
+      "target": "Etterbeek"
+    },
+    {
+      "distance": 2355.574887823875,
+      "source": "Schaerbeek - Schaarbeek",
+      "target": "Bruxelles-Nord - Brussel-Noord"
+    },
+    {
+      "distance": 2906.889989340411,
+      "source": "Schaerbeek - Schaarbeek",
+      "target": "Haren-Sud - Haren-Zuid"
+    },
+    {
+      "distance": 1976.2859231367884,
+      "source": "Schaerbeek - Schaarbeek",
+      "target": "Evere"
+    },
+    {
+      "distance": 2112.0277808793066,
+      "source": "Bruxelles-Luxembourg - Brussel-Luxemburg",
+      "target": "Etterbeek"
+    },
+    {
+      "distance": 667.4089607897124,
+      "source": "Bruxelles-Luxembourg - Brussel-Luxemburg",
+      "target": "Maelbeek - Maalbeek"
+    },
+    {
+      "distance": 2051.602870708808,
+      "source": "Haren-Sud - Haren-Zuid",
+      "target": "Buda"
+    },
+    {
+      "distance": 2663.786800011041,
+      "source": "Haren-Sud - Haren-Zuid",
+      "target": "Evere"
+    },
+    {
+      "distance": 2081.2233092931647,
+      "source": "Haren-Sud - Haren-Zuid",
+      "target": "Diegem"
+    },
+    {
+      "distance": 1103.9062289218316,
+      "source": "Etterbeek",
+      "target": "Delta"
+    },
+    {
+      "distance": 86.4039939085262,
+      "source": "Bruxelles-Schuman - Brussel-Schuman",
+      "target": "Schuman"
+    },
+    {
+      "distance": 278.4638902757119,
+      "source": "Bruxelles-Schuman - Brussel-Schuman",
+      "target": "Maelbeek - Maalbeek"
+    },
+    {
+      "distance": 1681.744867947596,
+      "source": "Bruxelles-Schuman - Brussel-Schuman",
+      "target": "Diamant"
+    },
+    {
+      "distance": 3556.6186050846463,
+      "source": "Forest-Midi - Vorst-Zuid",
+      "target": "Aumale"
+    },
+    {
+      "distance": 2063.047573029909,
+      "source": "Forest-Midi - Vorst-Zuid",
+      "target": "Bizet"
+    },
+    {
+      "distance": 2089.634490854754,
+      "source": "Forest-Midi - Vorst-Zuid",
+      "target": "Ruisbroek"
+    },
+    {
+      "distance": 837.7616948545159,
+      "source": "Forest-Midi - Vorst-Zuid",
+      "target": "Forest-Saint-Georges"
+    },
+    {
+      "distance": 3030.367304971997,
+      "source": "Forest-Midi - Vorst-Zuid",
+      "target": "Saint-Guidon - Sint-Guido"
+    },
+    {
+      "distance": 2852.5995946165094,
+      "source": "Forest-Midi - Vorst-Zuid",
+      "target": "Albert"
+    },
+    {
+      "distance": 2063.2301774554753,
+      "source": "Evere",
+      "target": "Diamant"
+    },
+    {
+      "distance": 1714.091913639785,
+      "source": "Jette",
+      "target": "Roi Baudouin - Koning Boudewijn"
+    },
+    {
+      "distance": 1124.7982892587836,
+      "source": "Jette",
+      "target": "Stuyvenbergh"
+    },
+    {
+      "distance": 9215.551729047105,
+      "source": "Aalst",
+      "target": "Burst"
+    },
+    {
+      "distance": 10681.412143874228,
+      "source": "Aalst",
+      "target": "Schellebelle"
+    },
+    {
+      "distance": 884.1665961491391,
+      "source": "Charleroi-Central",
+      "target": "Parc"
+    },
+    {
+      "distance": 330.2244466078159,
+      "source": "Charleroi-Central",
+      "target": "Villette"
+    },
+    {
+      "distance": 102.07648913610477,
+      "source": "Bruxelles-Nord - Brussel-Noord",
+      "target": "Gare du Nord - Noordstation"
+    },
+    {
+      "distance": 562.7988049822324,
+      "source": "Bruxelles-Nord - Brussel-Noord",
+      "target": "Rogier"
+    },
+    {
+      "distance": 6786.544072678876,
+      "source": "Spontin",
+      "target": "Ciney"
+    },
+    {
+      "distance": 1210.567254010088,
+      "source": "Clabecq",
+      "target": "Tubize"
+    },
+    {
+      "distance": 1408.425717132941,
+      "source": "Hankar",
+      "target": "Thieffry"
+    },
+    {
+      "distance": 9534.814244701189,
+      "source": "Herrmann-Debroux",
+      "target": "La Hulpe"
+    },
+    {
+      "distance": 1301.8421714331002,
+      "source": "Aumale",
+      "target": "Clemenceau"
+    },
+    {
+      "distance": 725.2629699724042,
+      "source": "Aumale",
+      "target": "Saint-Guidon - Sint-Guido"
+    },
+    {
+      "distance": 476.2141748023479,
+      "source": "Bizet",
+      "target": "La Roue - Het Rad"
+    },
+    {
+      "distance": 11645.48252849027,
+      "source": "Roi Baudouin - Koning Boudewijn",
+      "target": "Ternat"
+    },
+    {
+      "distance": 910.3187759515205,
+      "source": "Bockstael",
+      "target": "Stuyvenbergh"
+    },
+    {
+      "distance": 2224.429053321297,
+      "source": "Bockstael",
+      "target": "Gare du Nord - Noordstation"
+    },
+    {
+      "distance": 688.1784122341759,
+      "source": "Bockstael",
+      "target": "Pannenhuis"
+    },
+    {
+      "distance": 1785.6575309877421,
+      "source": "Anneessens",
+      "target": "Botanique - Kruidtuin"
+    },
+    {
+      "distance": 547.9316676599442,
+      "source": "Anneessens",
+      "target": "Lemonnier"
+    },
+    {
+      "distance": 572.755939330213,
+      "source": "Beekkant",
+      "target": "Gare de l'Ouest - Weststation"
+    },
+    {
+      "distance": 559.7627460854841,
+      "source": "Gare de l'Ouest - Weststation",
+      "target": "Jacques Brel"
+    },
+    {
+      "distance": 986.4725120786228,
+      "source": "Gare de l'Ouest - Weststation",
+      "target": "Osseghem - Ossegem"
+    },
+    {
+      "distance": 944.6763920180823,
+      "source": "Clemenceau",
+      "target": "Jacques Brel"
+    },
+    {
+      "distance": 467.6414627681026,
+      "source": "Gare du Midi - Zuidstation",
+      "target": "Lemonnier"
+    },
+    {
+      "distance": 566.5632615497656,
+      "source": "Botanique - Kruidtuin",
+      "target": "Rogier"
+    },
+    {
+      "distance": 615.5431901200371,
+      "source": "La Roue - Het Rad",
+      "target": "CERIA - COOVI"
+    },
+    {
+      "distance": 976.6885987248045,
+      "source": "Eddy Merckx",
+      "target": "Erasme - Erasmus"
+    },
+    {
+      "distance": 9719.024157741478,
+      "source": "Erasme - Erasmus",
+      "target": "Ternat"
+    },
+    {
+      "distance": 793.3334411195085,
+      "source": "Simonis",
+      "target": "Osseghem - Ossegem"
+    },
+    {
+      "distance": 2999.248448642476,
+      "source": "Albert",
+      "target": "Forest-Saint-Georges"
+    },
+    {
+      "distance": 361.53037536586453,
+      "source": "Schuman",
+      "target": "Maelbeek - Maalbeek"
+    },
+    {
+      "distance": 878.7383551017792,
+      "source": "Maelbeek - Maalbeek",
+      "target": "Madou"
+    },
+    {
+      "distance": 1783.7030728143309,
+      "source": "Forest-Saint-Georges",
+      "target": "Ruisbroek"
+    },
+    {
+      "distance": 222.45240710592083,
+      "source": "Station Heidiland",
+      "target": "Ketnet Station"
+    },
+    {
+      "distance": 362.34940449596934,
+      "source": "Station Heidiland",
+      "target": "De Panne"
+    },
+    {
+      "distance": 560.0193761024974,
+      "source": "Villette",
+      "target": "Ouest"
+    },
+    {
+      "distance": 16369.072887980523,
+      "source": "Villette",
+      "target": "Walcourt"
+    },
+    {
+      "distance": 2247.3294372423356,
+      "source": "Bloc U",
+      "target": "Rebecq"
+    },
+    {
+      "distance": 5821.337729224159,
+      "source": "Bloc U",
+      "target": "Enghien - Edingen"
+    },
+    {
+      "distance": 6164.896644555666,
+      "source": "Rebecq",
+      "target": "Tubize"
+    },
+    {
+      "distance": 557.2352037404717,
+      "source": "Mariembourg (CFV3V)",
+      "target": "Mariembourg"
+    },
+    {
+      "distance": 5951.034358921173,
+      "source": "Kortrijk",
+      "target": "Wevelgem"
+    },
+    {
+      "distance": 13511.331727132945,
+      "source": "Kortrijk",
+      "target": "Waregem"
+    },
+    {
+      "distance": 9967.994709992723,
+      "source": "Kortrijk",
+      "target": "Ingelmunster"
+    },
+    {
+      "distance": 11106.12891430569,
+      "source": "Nivelles",
+      "target": "Luttre"
+    },
+    {
+      "distance": 5309.173040815445,
+      "source": "Nivelles",
+      "target": "Lillois"
+    },
+    {
+      "distance": 13257.013962867244,
+      "source": "Oudenaarde",
+      "target": "Waregem"
+    },
+    {
+      "distance": 12140.976036644404,
+      "source": "Oudenaarde",
+      "target": "Ronse - Renaix"
+    },
+    {
+      "distance": 8692.2533968424,
+      "source": "Menen",
+      "target": "Comines - Komen"
+    },
+    {
+      "distance": 5029.79070982355,
+      "source": "Menen",
+      "target": "Wevelgem"
+    },
+    {
+      "distance": 3306.0956990124746,
+      "source": "Froyennes",
+      "target": "Tournai"
+    },
+    {
+      "distance": 13169.835099938293,
+      "source": "Lokeren",
+      "target": "Sint-Niklaas"
+    },
+    {
+      "distance": 7794.729464876084,
+      "source": "Lokeren",
+      "target": "Beervelde"
+    },
+    {
+      "distance": 13302.5623054231,
+      "source": "Ninove",
+      "target": "Geraardsbergen"
+    },
+    {
+      "distance": 5251.854755868066,
+      "source": "Eupen",
+      "target": "Welkenraedt"
+    },
+    {
+      "distance": 3570.1407948200126,
+      "source": "De Panne",
+      "target": "Koksijde"
+    },
+    {
+      "distance": 5804.423334806218,
+      "source": "Kortemark",
+      "target": "Lichtervelde"
+    },
+    {
+      "distance": 12292.060907043744,
+      "source": "Kortemark",
+      "target": "Diksmuide"
+    },
+    {
+      "distance": 1982.1675410456296,
+      "source": "Haacht",
+      "target": "Wespelaar-Tildonk"
+    },
+    {
+      "distance": 8297.60354976384,
+      "source": "De Pinte",
+      "target": "Deinze"
+    },
+    {
+      "distance": 2981.999106483498,
+      "source": "Ingelmunster",
+      "target": "Izegem"
+    },
+    {
+      "distance": 2948.4606883698702,
+      "source": "Aalter",
+      "target": "Bellem"
+    },
+    {
+      "distance": 3318.3782710699306,
+      "source": "Ottignies",
+      "target": "Louvain-la-Neuve"
+    },
+    {
+      "distance": 21350.237234638294,
+      "source": "Ottignies",
+      "target": "Fleurus"
+    },
+    {
+      "distance": 3531.281455455844,
+      "source": "Zeebrugge-Dorp",
+      "target": "Lissewege"
+    },
+    {
+      "distance": 875.8509859923666,
+      "source": "Zeebrugge-Dorp",
+      "target": "Zeebrugge-Strand"
+    },
+    {
+      "distance": 20100.896960409435,
+      "source": "Oostende",
+      "target": "Zedelgem"
+    },
+    {
+      "distance": 2528.288570155053,
+      "source": "Kapellen",
+      "target": "Sint-Mariaburg"
+    },
+    {
+      "distance": 3528.178036428533,
+      "source": "Kapellen",
+      "target": "Ekeren"
+    },
+    {
+      "distance": 13148.961978582854,
+      "source": "Kapellen",
+      "target": "Zwijndrecht"
+    },
+    {
+      "distance": 15313.547512348474,
+      "source": "Kapellen",
+      "target": "Melsele"
+    },
+    {
+      "distance": 16650.318838144565,
+      "source": "Kapellen",
+      "target": "Essen"
+    },
+    {
+      "distance": 8216.456528871875,
+      "source": "Aarsele",
+      "target": "Deinze"
+    },
+    {
+      "distance": 6275.541716617284,
+      "source": "Aarsele",
+      "target": "Tielt"
+    },
+    {
+      "distance": 4656.577923715322,
+      "source": "Blankenberge",
+      "target": "Lissewege"
+    },
+    {
+      "distance": 10992.445200233502,
+      "source": "Bilzen",
+      "target": "Genk"
+    },
+    {
+      "distance": 9731.95220695662,
+      "source": "Bilzen",
+      "target": "Tongeren"
+    },
+    {
+      "distance": 6670.765373525685,
+      "source": "Izegem",
+      "target": "Roeselare"
+    },
+    {
+      "distance": 7834.05581032926,
+      "source": "Neerpelt",
+      "target": "Hamont"
+    },
+    {
+      "distance": 1145.6938921100025,
+      "source": "Neerpelt",
+      "target": "Overpelt"
+    },
+    {
+      "distance": 3706.324395600927,
+      "source": "La Hulpe",
+      "target": "Rixensart"
+    },
+    {
+      "distance": 5189.017232486735,
+      "source": "Herentals",
+      "target": "Olen"
+    },
+    {
+      "distance": 3350.907045351596,
+      "source": "Herentals",
+      "target": "Wolfstee"
+    },
+    {
+      "distance": 9925.1075436049,
+      "source": "Vis\u00e9",
+      "target": "Herstal"
+    },
+    {
+      "distance": 15655.934024788186,
+      "source": "Vis\u00e9",
+      "target": "Hombourg (History Park)"
+    },
+    {
+      "distance": 9783.307114298968,
+      "source": "Vis\u00e9",
+      "target": "Liers"
+    },
+    {
+      "distance": 8361.394032926939,
+      "source": "Welkenraedt",
+      "target": "Hombourg (History Park)"
+    },
+    {
+      "distance": 2622.763465666398,
+      "source": "Pepinster",
+      "target": "Juslenville"
+    },
+    {
+      "distance": 12067.606801943155,
+      "source": "Comines - Komen",
+      "target": "Ieper"
+    },
+    {
+      "distance": 4643.73081958074,
+      "source": "Lichtervelde",
+      "target": "Torhout"
+    },
+    {
+      "distance": 8491.692801907771,
+      "source": "Lichtervelde",
+      "target": "Roeselare"
+    },
+    {
+      "distance": 12372.321362909517,
+      "source": "Waregem",
+      "target": "Deinze"
+    },
+    {
+      "distance": 3023.803851920491,
+      "source": "Merelbeke",
+      "target": "Melle"
+    },
+    {
+      "distance": 3913.3394066606015,
+      "source": "Wetteren",
+      "target": "Kwatrecht"
+    },
+    {
+      "distance": 2708.8067541190526,
+      "source": "Wetteren",
+      "target": "Schellebelle"
+    },
+    {
+      "distance": 10874.557900918195,
+      "source": "Wetteren",
+      "target": "Burst"
+    },
+    {
+      "distance": 1299.8724611073458,
+      "source": "Theux",
+      "target": "Franchimont"
+    },
+    {
+      "distance": 1010.9236734547795,
+      "source": "Theux",
+      "target": "Juslenville"
+    },
+    {
+      "distance": 10389.401943154291,
+      "source": "Trois-Ponts",
+      "target": "Vielsalm"
+    },
+    {
+      "distance": 1331.643572459358,
+      "source": "Kalmthout",
+      "target": "Kijkuit"
+    },
+    {
+      "distance": 1005.1530854233692,
+      "source": "Sint-Mariaburg",
+      "target": "Ekeren"
+    },
+    {
+      "distance": 15643.657328138099,
+      "source": "Sint-Mariaburg",
+      "target": "Noorderkempen"
+    },
+    {
+      "distance": 13036.398913489535,
+      "source": "Athus",
+      "target": "Arlon"
+    },
+    {
+      "distance": 22403.958131189924,
+      "source": "Athus",
+      "target": "Virton"
+    },
+    {
+      "distance": 11854.968329874546,
+      "source": "Wolfstee",
+      "target": "Kessel"
+    },
+    {
+      "distance": 7105.693319732356,
+      "source": "Tienen",
+      "target": "Vertrijk"
+    },
+    {
+      "distance": 12737.493031469696,
+      "source": "Tienen",
+      "target": "Landen"
+    },
+    {
+      "distance": 6313.128246056762,
+      "source": "Tienen",
+      "target": "Ezemaal"
+    },
+    {
+      "distance": 5974.411541315596,
+      "source": "Lier",
+      "target": "Kontich-Lint"
+    },
+    {
+      "distance": 4262.019585514622,
+      "source": "Lier",
+      "target": "Kessel"
+    },
+    {
+      "distance": 10408.440972855016,
+      "source": "Gouvy",
+      "target": "Vielsalm"
+    },
+    {
+      "distance": 7352.693486032765,
+      "source": "Hamoir",
+      "target": "Rivage"
+    },
+    {
+      "distance": 5023.290231020558,
+      "source": "Esneux",
+      "target": "Rivage"
+    },
+    {
+      "distance": 6371.066211794215,
+      "source": "Rivage",
+      "target": "Aywaille"
+    },
+    {
+      "distance": 5645.245976177363,
+      "source": "Herstal",
+      "target": "Liers"
+    },
+    {
+      "distance": 11689.858707934218,
+      "source": "Liers",
+      "target": "Tongeren"
+    },
+    {
+      "distance": 11275.603018853491,
+      "source": "Alken",
+      "target": "Sint-Truiden"
+    },
+    {
+      "distance": 10250.2077980728,
+      "source": "Sint-Truiden",
+      "target": "Landen"
+    },
+    {
+      "distance": 13362.830909326209,
+      "source": "Landen",
+      "target": "Waremme"
+    },
+    {
+      "distance": 6552.364270758568,
+      "source": "Landen",
+      "target": "Ezemaal"
+    },
+    {
+      "distance": 25684.32354223742,
+      "source": "Schulen",
+      "target": "Mol"
+    },
+    {
+      "distance": 17785.722599841352,
+      "source": "Schulen",
+      "target": "Leopoldsburg"
+    },
+    {
+      "distance": 3433.082936531832,
+      "source": "Langdorp",
+      "target": "Aarschot"
+    },
+    {
+      "distance": 13194.883921194307,
+      "source": "Langdorp",
+      "target": "Diest"
+    },
+    {
+      "distance": 13999.53895053498,
+      "source": "Mol",
+      "target": "Lommel"
+    },
+    {
+      "distance": 9063.806719758853,
+      "source": "Mol",
+      "target": "Geel"
+    },
+    {
+      "distance": 12933.138102519717,
+      "source": "Mol",
+      "target": "Leopoldsburg"
+    },
+    {
+      "distance": 6138.841807789159,
+      "source": "Geel",
+      "target": "Olen"
+    },
+    {
+      "distance": 8343.354569303983,
+      "source": "Ans",
+      "target": "Fl\u00e9malle-Haute"
+    },
+    {
+      "distance": 4820.153377736178,
+      "source": "Ans",
+      "target": "Jemeppe-sur-Meuse"
+    },
+    {
+      "distance": 13502.165723728018,
+      "source": "Ans",
+      "target": "Remicourt"
+    },
+    {
+      "distance": 13417.557814683429,
+      "source": "Remicourt",
+      "target": "Fl\u00e9malle-Haute"
+    },
+    {
+      "distance": 5326.19979107899,
+      "source": "Remicourt",
+      "target": "Waremme"
+    },
+    {
+      "distance": 8319.527543146729,
+      "source": "\u00c9caussinnes",
+      "target": "Manage"
+    },
+    {
+      "distance": 5027.455562079287,
+      "source": "\u00c9caussinnes",
+      "target": "Braine-le-Comte"
+    },
+    {
+      "distance": 10090.311372337037,
+      "source": "Qui\u00e9vrain",
+      "target": "Saint-Ghislain"
+    },
+    {
+      "distance": 12892.265397593555,
+      "source": "Saint-Ghislain",
+      "target": "Blaton"
+    },
+    {
+      "distance": 5564.916089598171,
+      "source": "Genly",
+      "target": "Qu\u00e9vy"
+    },
+    {
+      "distance": 15650.861459792824,
+      "source": "Tournai",
+      "target": "Leuze"
+    },
+    {
+      "distance": 5740.6648986478485,
+      "source": "Hennuy\u00e8res",
+      "target": "Braine-le-Comte"
+    },
+    {
+      "distance": 4955.508834953934,
+      "source": "Hennuy\u00e8res",
+      "target": "Tubize"
+    },
+    {
+      "distance": 3181.578517494244,
+      "source": "Lot",
+      "target": "Ruisbroek"
+    },
+    {
+      "distance": 5833.629032607418,
+      "source": "Beernem",
+      "target": "Oostkamp"
+    },
+    {
+      "distance": 6428.9457766669775,
+      "source": "Bellem",
+      "target": "Landegem"
+    },
+    {
+      "distance": 9356.632955335213,
+      "source": "Ath",
+      "target": "Houraing"
+    },
+    {
+      "distance": 6466.3292007953905,
+      "source": "Ath",
+      "target": "Brugelette"
+    },
+    {
+      "distance": 11723.067872997983,
+      "source": "Ath",
+      "target": "Leuze"
+    },
+    {
+      "distance": 11135.752326884272,
+      "source": "Leuze",
+      "target": "Blaton"
+    },
+    {
+      "distance": 11707.507500532633,
+      "source": "Geraardsbergen",
+      "target": "Zottegem"
+    },
+    {
+      "distance": 14776.533440777517,
+      "source": "Geraardsbergen",
+      "target": "Enghien - Edingen"
+    },
+    {
+      "distance": 8621.741206563107,
+      "source": "Zottegem",
+      "target": "Burst"
+    },
+    {
+      "distance": 14916.789411879963,
+      "source": "Zottegem",
+      "target": "Melle"
+    },
+    {
+      "distance": 4178.2194649664725,
+      "source": "Eppegem",
+      "target": "Vilvoorde"
+    },
+    {
+      "distance": 3950.9292604761777,
+      "source": "Vilvoorde",
+      "target": "Diegem"
+    },
+    {
+      "distance": 2119.4248765760717,
+      "source": "Vilvoorde",
+      "target": "Buda"
+    },
+    {
+      "distance": 8469.148542781035,
+      "source": "Vilvoorde",
+      "target": "Hofstade"
+    },
+    {
+      "distance": 2802.977817984992,
+      "source": "Buda",
+      "target": "Diegem"
+    },
+    {
+      "distance": 2233.7697275079104,
+      "source": "Weerde",
+      "target": "Hofstade"
+    },
+    {
+      "distance": 2314.2986210866457,
+      "source": "Duffel",
+      "target": "Sint-Katelijne-Waver"
+    },
+    {
+      "distance": 4870.425899545782,
+      "source": "Duffel",
+      "target": "Kontich-Lint"
+    },
+    {
+      "distance": 7157.019657980035,
+      "source": "Duffel",
+      "target": "Hove"
+    },
+    {
+      "distance": 952.898000366521,
+      "source": "Mortsel-Oude-God",
+      "target": "Mortsel-Liersesteenweg"
+    },
+    {
+      "distance": 1460.1999376271222,
+      "source": "Mortsel-Oude-God",
+      "target": "Mortsel"
+    },
+    {
+      "distance": 2092.2197624328633,
+      "source": "Mortsel-Oude-God",
+      "target": "Hove"
+    },
+    {
+      "distance": 1814.0299836655706,
+      "source": "Hove",
+      "target": "Mortsel-Liersesteenweg"
+    },
+    {
+      "distance": 2295.700561022071,
+      "source": "Hove",
+      "target": "Kontich-Lint"
+    },
+    {
+      "distance": 14682.047632150396,
+      "source": "Diksmuide",
+      "target": "Veurne"
+    },
+    {
+      "distance": 1342.7157449161634,
+      "source": "Koksijde",
+      "target": "Veurne"
+    },
+    {
+      "distance": 7987.188691831065,
+      "source": "Torhout",
+      "target": "Zedelgem"
+    },
+    {
+      "distance": 11240.41246437436,
+      "source": "Opwijk",
+      "target": "Ternat"
+    },
+    {
+      "distance": 2153.0647426251944,
+      "source": "Mortsel-Liersesteenweg",
+      "target": "Mortsel"
+    },
+    {
+      "distance": 2490.4523441734073,
+      "source": "Hofstade",
+      "target": "Muizen"
+    },
+    {
+      "distance": 6190.166663296864,
+      "source": "Willebroek",
+      "target": "Kapelle-op-den-Bos"
+    },
+    {
+      "distance": 6944.856664611451,
+      "source": "Puurs",
+      "target": "Temse"
+    },
+    {
+      "distance": 9028.353778432944,
+      "source": "Sint-Niklaas",
+      "target": "Beveren"
+    },
+    {
+      "distance": 3233.978299008999,
+      "source": "Sint-Niklaas",
+      "target": "Nieuwkerken-Waas"
+    },
+    {
+      "distance": 4010.401305666642,
+      "source": "Fl\u00e9malle-Haute",
+      "target": "Jemeppe-sur-Meuse"
+    },
+    {
+      "distance": 4036.8171408402845,
+      "source": "Fl\u00e9malle-Haute",
+      "target": "Engis"
+    },
+    {
+      "distance": 1504.9077710973745,
+      "source": "Jemeppe-sur-Meuse",
+      "target": "Seraing"
+    },
+    {
+      "distance": 3049.486892284087,
+      "source": "Jemeppe-sur-Meuse",
+      "target": "Ougr\u00e9e"
+    },
+    {
+      "distance": 7085.023802901933,
+      "source": "Engis",
+      "target": "Amay"
+    },
+    {
+      "distance": 12130.69841013848,
+      "source": "Herent",
+      "target": "Nossegem"
+    },
+    {
+      "distance": 2804.620956285025,
+      "source": "Herent",
+      "target": "Wijgmaal"
+    },
+    {
+      "distance": 2318.121978164982,
+      "source": "Nossegem",
+      "target": "Zaventem"
+    },
+    {
+      "distance": 2346.950697101259,
+      "source": "Nossegem",
+      "target": "Brussels Airport-Zaventem"
+    },
+    {
+      "distance": 3231.021581105808,
+      "source": "Kortenberg",
+      "target": "Erps-Kwerps"
+    },
+    {
+      "distance": 2025.428502828538,
+      "source": "Diegem",
+      "target": "Zaventem"
+    },
+    {
+      "distance": 2772.0837802737483,
+      "source": "Diegem",
+      "target": "Brussels Airport-Zaventem"
+    },
+    {
+      "distance": 1623.8530488612037,
+      "source": "Zaventem",
+      "target": "Brussels Airport-Zaventem"
+    },
+    {
+      "distance": 2154.3726486877295,
+      "source": "Muizen",
+      "target": "Hever"
+    },
+    {
+      "distance": 1683.073072227227,
+      "source": "Ougr\u00e9e",
+      "target": "Seraing"
+    },
+    {
+      "distance": 4903.621823806416,
+      "source": "Malderen",
+      "target": "Londerzeel"
+    },
+    {
+      "distance": 4284.7728941235455,
+      "source": "Londerzeel",
+      "target": "Kapelle-op-den-Bos"
+    },
+    {
+      "distance": 3465.9736992987214,
+      "source": "Wichelen",
+      "target": "Schellebelle"
+    },
+    {
+      "distance": 6716.773002439096,
+      "source": "Wichelen",
+      "target": "Oudegem"
+    },
+    {
+      "distance": 9961.053252183206,
+      "source": "Sint-Joris-Weert",
+      "target": "Wavre"
+    },
+    {
+      "distance": 10981.536592131455,
+      "source": "Bertrix",
+      "target": "Libramont"
+    },
+    {
+      "distance": 24012.520964243602,
+      "source": "Bertrix",
+      "target": "Marbehan"
+    },
+    {
+      "distance": 24345.142150155352,
+      "source": "Libramont",
+      "target": "Marbehan"
+    },
+    {
+      "distance": 14600.090673929046,
+      "source": "Gedinne",
+      "target": "Beauraing"
+    },
+    {
+      "distance": 9087.62213466104,
+      "source": "Beauraing",
+      "target": "Houyet"
+    },
+    {
+      "distance": 3724.9719878501683,
+      "source": "Houyet",
+      "target": "Gendron-Celles"
+    },
+    {
+      "distance": 3225.2455685284613,
+      "source": "Arlon",
+      "target": "Stockem"
+    },
+    {
+      "distance": 16972.607789665122,
+      "source": "Stockem",
+      "target": "Marbehan"
+    },
+    {
+      "distance": 2272.1366990514052,
+      "source": "Jemeppe-sur-Sambre",
+      "target": "Auvelais"
+    },
+    {
+      "distance": 13370.696559772703,
+      "source": "Jemeppe-sur-Sambre",
+      "target": "Gembloux"
+    },
+    {
+      "distance": 2425.839580989419,
+      "source": "Auvelais",
+      "target": "Tamines"
+    },
+    {
+      "distance": 8812.824200123183,
+      "source": "Manage",
+      "target": "Pi\u00e9ton"
+    },
+    {
+      "distance": 10583.90018579481,
+      "source": "Manage",
+      "target": "Luttre"
+    },
+    {
+      "distance": 6807.139920579303,
+      "source": "Ch\u00e2telet",
+      "target": "Tamines"
+    },
+    {
+      "distance": 10683.477868263819,
+      "source": "Mariembourg",
+      "target": "Philippeville"
+    },
+    {
+      "distance": 4953.061567178016,
+      "source": "Mariembourg",
+      "target": "Couvin"
+    },
+    {
+      "distance": 10379.41049176368,
+      "source": "Philippeville",
+      "target": "Walcourt"
+    },
+    {
+      "distance": 12473.616964517607,
+      "source": "Erquelinnes",
+      "target": "Binche"
+    },
+    {
+      "distance": 7498.673862187874,
+      "source": "Roux",
+      "target": "Pi\u00e9ton"
+    },
+    {
+      "distance": 7069.485007324716,
+      "source": "Roux",
+      "target": "Luttre"
+    },
+    {
+      "distance": 4417.795295186682,
+      "source": "Lillois",
+      "target": "Braine-l'Alleud"
+    },
+    {
+      "distance": 2523.1540900464493,
+      "source": "Melle",
+      "target": "Kwatrecht"
+    },
+    {
+      "distance": 8739.9050600125,
+      "source": "Binche",
+      "target": "Pi\u00e9ton"
+    },
+    {
+      "distance": 2663.5309213029796,
+      "source": "Ruisbroek-Sauvegarde",
+      "target": "Boom"
+    },
+    {
+      "distance": 1208.5248844029018,
+      "source": "Schelle",
+      "target": "Hemiksem"
+    },
+    {
+      "distance": 4106.8479048298495,
+      "source": "Schelle",
+      "target": "Boom"
+    },
+    {
+      "distance": 2729.452758202861,
+      "source": "Niel",
+      "target": "Boom"
+    },
+    {
+      "distance": 5233.83488758135,
+      "source": "Hoboken-Polder",
+      "target": "Hemiksem"
+    },
+    {
+      "distance": 3087.8183643377165,
+      "source": "Zwijndrecht",
+      "target": "Melsele"
+    },
+    {
+      "distance": 5794.890012978364,
+      "source": "Nieuwkerken-Waas",
+      "target": "Beveren"
+    },
+    {
+      "distance": 1911.9749782168803,
+      "source": "Beveren",
+      "target": "Melsele"
+    }
+  ]
+}

@@ -1,0 +1,7694 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2447045,
+          52.376736
+        ]
+      },
+      "id": "Almere Parkwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2779576,
+          52.3941912
+        ]
+      },
+      "id": "Almere Buiten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8519491,
+          51.9544945
+        ]
+      },
+      "id": "Arnhem Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9689735,
+          52.2092784
+        ]
+      },
+      "id": "Apeldoorn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9744218,
+          52.2956478
+        ]
+      },
+      "id": "Reigersbos"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7936282,
+          52.4892769
+        ]
+      },
+      "id": "Wormerveer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4934339,
+          52.0463461
+        ]
+      },
+      "id": "Zoetermeer Oost"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8530913,
+          51.8431362
+        ]
+      },
+      "id": "Nijmegen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0330252,
+          52.135947
+        ]
+      },
+      "id": "Maarssen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7929849,
+          53.1964772
+        ]
+      },
+      "id": "Leeuwarden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7872368,
+          50.9477918
+        ]
+      },
+      "id": "Beek-Elsloo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1433761,
+          51.3392858
+        ]
+      },
+      "id": "Tegelen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7366435,
+          50.8967761
+        ]
+      },
+      "id": "Bunde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.585821,
+          53.2047056
+        ]
+      },
+      "id": "Groningen Europapark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4929317,
+          52.1467516
+        ]
+      },
+      "id": "Leiden Lammenschans"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3191158,
+          51.7005543
+        ]
+      },
+      "id": "'s-Hertogenbosch Oost"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6347677,
+          53.1777182
+        ]
+      },
+      "id": "Dronryp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7280592,
+          53.1887582
+        ]
+      },
+      "id": "Deinum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92163,
+          52.5597878
+        ]
+      },
+      "id": "Kampen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6861262,
+          52.4946348
+        ]
+      },
+      "id": "Heemskerk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4038593,
+          52.1748604
+        ]
+      },
+      "id": "Amersfoort Schothorst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3198989,
+          51.8333189
+        ]
+      },
+      "id": "De Akkers"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4211684,
+          52.2840788
+        ]
+      },
+      "id": "Holten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1873161,
+          52.2164296
+        ]
+      },
+      "id": "Hilversum Sportpark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0413246,
+          51.4270926
+        ]
+      },
+      "id": "Horst-Sevenum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9522364,
+          52.3066107
+        ]
+      },
+      "id": "Bullewijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6713542,
+          52.3828478
+        ]
+      },
+      "id": "Haarlem Spaarnwoude"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2220279,
+          52.4269658
+        ]
+      },
+      "id": "Heino"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0572213,
+          50.8613851
+        ]
+      },
+      "id": "Kerkrade Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0315749,
+          51.2354149
+        ]
+      },
+      "id": "Swalmen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9008788,
+          52.3713176
+        ]
+      },
+      "id": "Nieuwmarkt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0307364,
+          52.0099982
+        ]
+      },
+      "id": "Rheden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6490359,
+          52.0272134
+        ]
+      },
+      "id": "Waddinxveen Triangel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9011598,
+          51.9844332
+        ]
+      },
+      "id": "Arnhem Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9153474,
+          52.9607031
+        ]
+      },
+      "id": "Heerenveen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3820605,
+          52.0775803
+        ]
+      },
+      "id": "Leidschendam-Voorburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9365267,
+          52.3235787
+        ]
+      },
+      "id": "Duivendrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0142546,
+          51.526454
+        ]
+      },
+      "id": "Venray"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9395217,
+          51.6444304
+        ]
+      },
+      "id": "Boxmeer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7041339,
+          51.2486962
+        ]
+      },
+      "id": "Weert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5694204,
+          51.3853329
+        ]
+      },
+      "id": "Heeze"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8788214,
+          51.1001607
+        ]
+      },
+      "id": "Echt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4834971,
+          52.0606493
+        ]
+      },
+      "id": "Centrum-West"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6616714,
+          51.4755665
+        ]
+      },
+      "id": "Helmond"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.583255,
+          51.9315803
+        ]
+      },
+      "id": "Kesteren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531271,
+          51.7652868
+        ]
+      },
+      "id": "Oss"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7233591,
+          51.9197801
+        ]
+      },
+      "id": "Zetten-Andelst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7406979,
+          52.6381293
+        ]
+      },
+      "id": "Alkmaar"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3892206,
+          51.5098165
+        ]
+      },
+      "id": "Best"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7552412,
+          52.4950503
+        ]
+      },
+      "id": "Krommenie-Assendelft"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4457004,
+          51.9099946
+        ]
+      },
+      "id": "Delfshaven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0912373,
+          52.5050086
+        ]
+      },
+      "id": "Zwolle"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9305189,
+          52.3294483
+        ]
+      },
+      "id": "Van der Madeweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3344573,
+          51.8465462
+        ]
+      },
+      "id": "Spijkenisse Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8980547,
+          50.8330395
+        ]
+      },
+      "id": "Wijlre"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.155296,
+          51.3724162
+        ]
+      },
+      "id": "Blerick"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.549098,
+          52.0200045
+        ]
+      },
+      "id": "Veenendaal Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3028921,
+          52.1651988
+        ]
+      },
+      "id": "Soest Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3565807,
+          52.0075518
+        ]
+      },
+      "id": "Delft"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5526538,
+          51.8552885
+        ]
+      },
+      "id": "Barendrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.540409,
+          53.2915652
+        ]
+      },
+      "id": "Sauwerd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4624207,
+          52.366378
+        ]
+      },
+      "id": "Nijverdal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6544143,
+          52.3577052
+        ]
+      },
+      "id": "Almelo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9340349,
+          52.3062438
+        ]
+      },
+      "id": "Oldenzaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6637116,
+          51.6901564
+        ]
+      },
+      "id": "Lage Zwaluwe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5760173,
+          52.4411354
+        ]
+      },
+      "id": "Daarlerveen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1134201,
+          52.3354376
+        ]
+      },
+      "id": "Olst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6518895,
+          53.0326201
+        ]
+      },
+      "id": "Sneek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.948315,
+          52.352926
+        ]
+      },
+      "id": "Amsterdam Science Park"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7151462,
+          52.2600838
+        ]
+      },
+      "id": "Delden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0440484,
+          52.3122067
+        ]
+      },
+      "id": "Weesp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8488011,
+          52.7183661
+        ]
+      },
+      "id": "Nieuw Amsterdam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.003111,
+          52.4543848
+        ]
+      },
+      "id": "Wezep"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7360253,
+          52.6630362
+        ]
+      },
+      "id": "Coevorden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8997205,
+          52.7906288
+        ]
+      },
+      "id": "Emmen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6681895,
+          52.0432539
+        ]
+      },
+      "id": "Ede Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4114962,
+          53.1746159
+        ]
+      },
+      "id": "Harlingen Haven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8197673,
+          52.2690072
+        ]
+      },
+      "id": "Hengelo Oost"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1794728,
+          52.0168609
+        ]
+      },
+      "id": "Houten Castellum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.295763,
+          51.9584492
+        ]
+      },
+      "id": "Doetinchem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2137189,
+          51.9571754
+        ]
+      },
+      "id": "Wehl"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4172206,
+          52.5097013
+        ]
+      },
+      "id": "Ommen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.482286,
+          52.166319
+        ]
+      },
+      "id": "Leiden Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7429954,
+          51.8293478
+        ]
+      },
+      "id": "Sliedrecht Baanhoek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3700691,
+          52.0909985
+        ]
+      },
+      "id": "Den Haag Mariahoeve"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7621813,
+          52.309523
+        ]
+      },
+      "id": "Schiphol Airport"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9311934,
+          52.3608341
+        ]
+      },
+      "id": "Amsterdam Muiderpoort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3245487,
+          52.0808443
+        ]
+      },
+      "id": "Den Haag Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8339612,
+          52.3642921
+        ]
+      },
+      "id": "Postjesweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8352937,
+          52.3726582
+        ]
+      },
+      "id": "Jan van Galenstraat"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3085449,
+          52.054519
+        ]
+      },
+      "id": "Den Haag Moerwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9843223,
+          52.3113175
+        ]
+      },
+      "id": "Gaasperplas"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3595644,
+          52.0665882
+        ]
+      },
+      "id": "Voorburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9890129,
+          52.296338
+        ]
+      },
+      "id": "Gein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5095883,
+          52.0690131
+        ]
+      },
+      "id": "Leidsewallen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6453582,
+          52.2588593
+        ]
+      },
+      "id": "Nieuw Vennep"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4336799,
+          52.1262326
+        ]
+      },
+      "id": "Voorschoten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4921412,
+          52.0544224
+        ]
+      },
+      "id": "Dorp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9735502,
+          52.3230792
+        ]
+      },
+      "id": "Ganzenhoef"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9176266,
+          52.3317318
+        ]
+      },
+      "id": "Overamstel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6462703,
+          52.067341
+        ]
+      },
+      "id": "Boskoop Snijdelwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4949009,
+          52.0719449
+        ]
+      },
+      "id": "De Leyens"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6314176,
+          52.4193488
+        ]
+      },
+      "id": "Santpoort Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9674612,
+          51.8335723
+        ]
+      },
+      "id": "Gorinchem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5314622,
+          52.3757259
+        ]
+      },
+      "id": "Zandvoort aan Zee"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9662522,
+          52.328939
+        ]
+      },
+      "id": "Verrijn Stuartweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.648369,
+          52.0552626
+        ]
+      },
+      "id": "Waddinxveen Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7639556,
+          52.6437653
+        ]
+      },
+      "id": "Alkmaar Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3220394,
+          52.03755
+        ]
+      },
+      "id": "Rijswijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3646868,
+          51.9911036
+        ]
+      },
+      "id": "Delft Campus"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8507911,
+          52.3951713
+        ]
+      },
+      "id": "Isolatorweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9670882,
+          52.5112223
+        ]
+      },
+      "id": "Purmerend Overwhere"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0435521,
+          52.1002155
+        ]
+      },
+      "id": "Utrecht Terwijde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0076189,
+          52.1029729
+        ]
+      },
+      "id": "Vleuten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5850946,
+          52.2302772
+        ]
+      },
+      "id": "Goor"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7381799,
+          52.1584703
+        ]
+      },
+      "id": "Haaksbergen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8053789,
+          52.7852715
+        ]
+      },
+      "id": "Schagen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2363181,
+          52.6950724
+        ]
+      },
+      "id": "Bovenkarspel-Grootebroek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9092183,
+          52.6780448
+        ]
+      },
+      "id": "Obdam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2533431,
+          52.6961115
+        ]
+      },
+      "id": "Bovenkarspel Flora"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70259,
+          52.5214311
+        ]
+      },
+      "id": "Uitgeest"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4785118,
+          51.9232371
+        ]
+      },
+      "id": "Stadhuis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5921524,
+          52.36154
+        ]
+      },
+      "id": "Wierden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5192167,
+          52.3117493
+        ]
+      },
+      "id": "Rijssen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.676362,
+          52.6098651
+        ]
+      },
+      "id": "Gramsbergen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0718372,
+          52.7501954
+        ]
+      },
+      "id": "Twisk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6003816,
+          51.9359471
+        ]
+      },
+      "id": "De Terp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5960921,
+          52.0120311
+        ]
+      },
+      "id": "Lichtenvoorde-Groenlo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3171531,
+          52.1073107
+        ]
+      },
+      "id": "Vorden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9350292,
+          52.4963796
+        ]
+      },
+      "id": "Purmerend Weidevenne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1432619,
+          52.0664082
+        ]
+      },
+      "id": "Utrecht Lunetten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0893544,
+          52.1032324
+        ]
+      },
+      "id": "Utrecht Zuilen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1257618,
+          52.1101212
+        ]
+      },
+      "id": "Utrecht Overvecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0061053,
+          52.2157325
+        ]
+      },
+      "id": "Apeldoorn Osseveld"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5758773,
+          52.2654979
+        ]
+      },
+      "id": "Putten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3143067,
+          52.0772798
+        ]
+      },
+      "id": "Spui"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4727185,
+          52.5079328
+        ]
+      },
+      "id": "Lelystad Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1740114,
+          52.2378723
+        ]
+      },
+      "id": "Hilversum Media Park"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1311656,
+          52.0879425
+        ]
+      },
+      "id": "Utrecht Maliebaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.190341,
+          52.367558
+        ]
+      },
+      "id": "Almere Muziekwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5315679,
+          52.0281017
+        ]
+      },
+      "id": "Veenendaal West"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0652431,
+          52.0989682
+        ]
+      },
+      "id": "Utrecht Leidsche Rijn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1218783,
+          52.0787573
+        ]
+      },
+      "id": "Utrecht Vaartsche Rijn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7641527,
+          52.9326177
+        ]
+      },
+      "id": "Den Helder Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7606663,
+          52.9568469
+        ]
+      },
+      "id": "Den Helder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4935229,
+          52.2220274
+        ]
+      },
+      "id": "Nijkerk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2420971,
+          52.1402279
+        ]
+      },
+      "id": "Den Dolder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.390848,
+          52.0558168
+        ]
+      },
+      "id": "Den Haag Ypenburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8137421,
+          52.4382493
+        ]
+      },
+      "id": "Zaandam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8056834,
+          52.4578263
+        ]
+      },
+      "id": "Koog aan de Zaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9544121,
+          52.5039525
+        ]
+      },
+      "id": "Purmerend"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0516776,
+          51.5652341
+        ]
+      },
+      "id": "Tilburg Universiteit"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5378303,
+          52.0537378
+        ]
+      },
+      "id": "Javalaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8789752,
+          51.7665425
+        ]
+      },
+      "id": "Mook-Molenhoek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0842046,
+          52.1780369
+        ]
+      },
+      "id": "Klarenbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3006021,
+          52.4032804
+        ]
+      },
+      "id": "Almere Oostvaarders"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2602392,
+          52.0652455
+        ]
+      },
+      "id": "Driebergen-Zeist"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.287993,
+          52.69956
+        ]
+      },
+      "id": "Enkhuizen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5897695,
+          52.1404556
+        ]
+      },
+      "id": "Barneveld Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2817232,
+          52.2080875
+        ]
+      },
+      "id": "Baarn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3706605,
+          52.0640966
+        ]
+      },
+      "id": "Maarn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4232131,
+          51.8896753
+        ]
+      },
+      "id": "Tiel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4336126,
+          52.1925513
+        ]
+      },
+      "id": "Amersfoort Vathorst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1957958,
+          52.0632104
+        ]
+      },
+      "id": "Bunnik"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4697987,
+          51.9239677
+        ]
+      },
+      "id": "Rotterdam Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0719818,
+          51.9231973
+        ]
+      },
+      "id": "Zevenaar"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0144531,
+          51.9434452
+        ]
+      },
+      "id": "Duiven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1033427,
+          52.0454027
+        ]
+      },
+      "id": "Dieren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7147769,
+          51.968013
+        ]
+      },
+      "id": "Winterswijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7679488,
+          52.2616919
+        ]
+      },
+      "id": "Hengelo Gezondheidspark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1611049,
+          52.2572928
+        ]
+      },
+      "id": "Deventer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0293573,
+          52.1293679
+        ]
+      },
+      "id": "Loenen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9514664,
+          52.2212722
+        ]
+      },
+      "id": "Enschede De Eschmarke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5213108,
+          52.8550649
+        ]
+      },
+      "id": "Beilen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4263786,
+          52.1668016
+        ]
+      },
+      "id": "Lochem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1007009,
+          52.2383228
+        ]
+      },
+      "id": "Twello"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1439192,
+          52.1575224
+        ]
+      },
+      "id": "Voorst-Empe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9199033,
+          51.9851244
+        ]
+      },
+      "id": "Arnhem Velperpoort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.147059,
+          52.0907483
+        ]
+      },
+      "id": "Brummen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5565819,
+          53.2301283
+        ]
+      },
+      "id": "Groningen Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7061636,
+          52.0174245
+        ]
+      },
+      "id": "Gouda"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1164515,
+          52.7911743
+        ]
+      },
+      "id": "Steenwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9970961,
+          51.5920221
+        ]
+      },
+      "id": "Vierlingsbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7949086,
+          52.2617754
+        ]
+      },
+      "id": "Hengelo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5668637,
+          53.3901502
+        ]
+      },
+      "id": "Warffum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6095178,
+          53.4009642
+        ]
+      },
+      "id": "Usquert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6499035,
+          52.0440583
+        ]
+      },
+      "id": "Waddinxveen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0006634,
+          52.2052214
+        ]
+      },
+      "id": "Apeldoorn De Maten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9751061,
+          50.8908484
+        ]
+      },
+      "id": "Heerlen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9866783,
+          52.1599795
+        ]
+      },
+      "id": "Beekbergen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6144134,
+          52.3011045
+        ]
+      },
+      "id": "Ermelo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4067456,
+          53.2481468
+        ]
+      },
+      "id": "Zuidhorn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1410453,
+          52.3909959
+        ]
+      },
+      "id": "Wijhe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7583767,
+          53.4210157
+        ]
+      },
+      "id": "Roodeschool"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7709176,
+          53.1597953
+        ]
+      },
+      "id": "Hoogezand-Sappemeer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3642821,
+          51.9226255
+        ]
+      },
+      "id": "Terborg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6566186,
+          52.4785365
+        ]
+      },
+      "id": "Beverwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4252094,
+          53.1703923
+        ]
+      },
+      "id": "Harlingen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6180871,
+          53.174863
+        ]
+      },
+      "id": "Haren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1057898,
+          52.7740477
+        ]
+      },
+      "id": "Medemblik"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627603,
+          52.5723383
+        ]
+      },
+      "id": "Hardenberg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4107682,
+          52.9024767
+        ]
+      },
+      "id": "Koudum-Molkwerum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8236817,
+          52.6702428
+        ]
+      },
+      "id": "Heerhugowaard"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0047673,
+          52.8802422
+        ]
+      },
+      "id": "Wolvega"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.549851,
+          53.1824012
+        ]
+      },
+      "id": "Franeker"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4705733,
+          52.0627697
+        ]
+      },
+      "id": "Voorweg Laag"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7011338,
+          52.6000225
+        ]
+      },
+      "id": "Heiloo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.977959,
+          53.1654348
+        ]
+      },
+      "id": "Scheemda"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2005246,
+          53.1847702
+        ]
+      },
+      "id": "Bad Nieuweschans"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8222898,
+          53.0898834
+        ]
+      },
+      "id": "Grou-Jirnsum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9344245,
+          53.2188842
+        ]
+      },
+      "id": "Hurdegaryp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0332337,
+          52.6825447
+        ]
+      },
+      "id": "Wognum-Nibbixwoud"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7132668,
+          53.1297366
+        ]
+      },
+      "id": "Mantgum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9773816,
+          52.2785602
+        ]
+      },
+      "id": "Abcoude"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6377036,
+          51.7947915
+        ]
+      },
+      "id": "Ravenstein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3098856,
+          53.2557864
+        ]
+      },
+      "id": "Grijpskerk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7052501,
+          50.8501783
+        ]
+      },
+      "id": "Maastricht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7176213,
+          50.8376341
+        ]
+      },
+      "id": "Maastricht Randwyck"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7100788,
+          50.7720454
+        ]
+      },
+      "id": "Eijsden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0849124,
+          52.6533353
+        ]
+      },
+      "id": "Hoorn Kersenboogerd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4711784,
+          52.0629362
+        ]
+      },
+      "id": "Voorweg Hoog"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1942652,
+          52.1446293
+        ]
+      },
+      "id": "Zutphen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1628737,
+          52.2658951
+        ]
+      },
+      "id": "Bussum Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6004536,
+          52.4020925
+        ]
+      },
+      "id": "Vriezenveen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4565133,
+          52.9720548
+        ]
+      },
+      "id": "Workum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9323589,
+          52.4019931
+        ]
+      },
+      "id": "Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6873925,
+          53.3263606
+        ]
+      },
+      "id": "Stedum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9429188,
+          51.9876005
+        ]
+      },
+      "id": "Arnhem Presikhaaf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7297547,
+          51.8112191
+        ]
+      },
+      "id": "Wijchen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1825103,
+          52.690467
+        ]
+      },
+      "id": "Hoogkarspel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.578324,
+          51.9284776
+        ]
+      },
+      "id": "Slotlaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6988698,
+          52.2928668
+        ]
+      },
+      "id": "Hoofddorp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4499208,
+          52.0807573
+        ]
+      },
+      "id": "Ruurlo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3483665,
+          51.9308536
+        ]
+      },
+      "id": "Gaanderen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5712455,
+          52.992265
+        ]
+      },
+      "id": "Assen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7484512,
+          52.2986128
+        ]
+      },
+      "id": "Borne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9346023,
+          51.7778349
+        ]
+      },
+      "id": "Grenzland-Draisine"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.811522,
+          52.867721
+        ]
+      },
+      "id": "Anna Paulowna"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0739151,
+          52.7602798
+        ]
+      },
+      "id": "Opperdoes"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7405089,
+          53.1608102
+        ]
+      },
+      "id": "Martenshoek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2156789,
+          52.25035
+        ]
+      },
+      "id": "Deventer Colmschate"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6666467,
+          52.3420988
+        ]
+      },
+      "id": "Almelo de Riet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2594892,
+          52.4982281
+        ]
+      },
+      "id": "Dalfsen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1979382,
+          52.6919049
+        ]
+      },
+      "id": "Meppel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9897322,
+          53.2350543
+        ]
+      },
+      "id": "Feanw\u00e2lden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5895585,
+          51.9313801
+        ]
+      },
+      "id": "Capelle Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1571557,
+          52.280646
+        ]
+      },
+      "id": "Naarden-Bussum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5696271,
+          52.457312
+        ]
+      },
+      "id": "Vroomshoop"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5787107,
+          51.9213392
+        ]
+      },
+      "id": "Aalten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.27823,
+          52.3914177
+        ]
+      },
+      "id": "Raalte"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7585202,
+          52.6946895
+        ]
+      },
+      "id": "Dalen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8387936,
+          52.237419
+        ]
+      },
+      "id": "Enschede Kennispark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.109821,
+          52.0893925
+        ]
+      },
+      "id": "Utrecht Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8588913,
+          51.0020038
+        ]
+      },
+      "id": "Sittard"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9070228,
+          53.3320112
+        ]
+      },
+      "id": "Delfzijl West"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2600315,
+          51.9591802
+        ]
+      },
+      "id": "Doetinchem De Huet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.193898,
+          51.5821442
+        ]
+      },
+      "id": "Oisterwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6677478,
+          51.8075316
+        ]
+      },
+      "id": "Dordrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8340268,
+          52.3578369
+        ]
+      },
+      "id": "Amsterdam Lelylaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3767716,
+          51.8626297
+        ]
+      },
+      "id": "Tussenwater"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3667811,
+          51.8606168
+        ]
+      },
+      "id": "Hoogvliet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7162093,
+          51.8019721
+        ]
+      },
+      "id": "Dordrecht Stadspolders"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9560598,
+          52.3302613
+        ]
+      },
+      "id": "Diemen Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.392994,
+          52.0698797
+        ]
+      },
+      "id": "Forepark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9601712,
+          52.2979886
+        ]
+      },
+      "id": "Amsterdam Holendrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.400391,
+          52.0647304
+        ]
+      },
+      "id": "Leidschenveen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3432643,
+          52.0789705
+        ]
+      },
+      "id": "Den Haag Laan van NOI"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8897811,
+          52.2223649
+        ]
+      },
+      "id": "Enschede"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5345966,
+          52.0652767
+        ]
+      },
+      "id": "Willem Dreeslaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4870404,
+          52.0508275
+        ]
+      },
+      "id": "Delftsewallen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8629282,
+          51.0609667
+        ]
+      },
+      "id": "Susteren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8244583,
+          50.9753479
+        ]
+      },
+      "id": "Geleen-Lutterade"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0927911,
+          51.8946156
+        ]
+      },
+      "id": "Leerdam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4087428,
+          51.9220349
+        ]
+      },
+      "id": "Schiedam Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9242259,
+          51.5840224
+        ]
+      },
+      "id": "Gilze-Rijen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8596868,
+          51.862468
+        ]
+      },
+      "id": "Nijmegen Lent"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8930152,
+          52.4091474
+        ]
+      },
+      "id": "'t Harde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5840957,
+          51.9541176
+        ]
+      },
+      "id": "Capelle Schollevaar"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.595722,
+          51.4440529
+        ]
+      },
+      "id": "Vlissingen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4584702,
+          51.5403292
+        ]
+      },
+      "id": "Roosendaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6695432,
+          51.5015317
+        ]
+      },
+      "id": "Arnemuiden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9566104,
+          51.4805125
+        ]
+      },
+      "id": "Kapelle-Biezelinge"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1171144,
+          51.4333216
+        ]
+      },
+      "id": "Krabbendijke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1607921,
+          51.4226196
+        ]
+      },
+      "id": "Rilland-Bath"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7844187,
+          52.3708164
+        ]
+      },
+      "id": "Nunspeet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1522517,
+          52.3429466
+        ]
+      },
+      "id": "Almere Poort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7215719,
+          52.5343316
+        ]
+      },
+      "id": "Dronten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8433715,
+          53.0473583
+        ]
+      },
+      "id": "Akkrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8425552,
+          53.2021437
+        ]
+      },
+      "id": "Leeuwarden Camminghaburen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.70137,
+          51.4706226
+        ]
+      },
+      "id": "Helmond Brouwhuis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8549331,
+          51.9172427
+        ]
+      },
+      "id": "Elst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7800231,
+          51.5951433
+        ]
+      },
+      "id": "Breda"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7923944,
+          52.0056717
+        ]
+      },
+      "id": "Wolfheze"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8404874,
+          51.9947831
+        ]
+      },
+      "id": "Oosterbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3316246,
+          51.8377526
+        ]
+      },
+      "id": "Heemraadlaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9692518,
+          51.9629903
+        ]
+      },
+      "id": "Westervoort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8679526,
+          51.8267778
+        ]
+      },
+      "id": "Nijmegen Heyendaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4729673,
+          52.7335031
+        ]
+      },
+      "id": "Hoogeveen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8308031,
+          53.4586109
+        ]
+      },
+      "id": "Eemshaven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.862006,
+          53.3257678
+        ]
+      },
+      "id": "Appingedam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5203056,
+          53.330093
+        ]
+      },
+      "id": "Winsum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5188465,
+          53.361054
+        ]
+      },
+      "id": "Baflo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7202534,
+          53.4139462
+        ]
+      },
+      "id": "Uithuizermeeden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2046838,
+          52.1301876
+        ]
+      },
+      "id": "Bilthoven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5428712,
+          51.9615094
+        ]
+      },
+      "id": "Romeynshof"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4699165,
+          52.0554285
+        ]
+      },
+      "id": "Meerzicht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.515322,
+          52.0630519
+        ]
+      },
+      "id": "Seghwaert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9120253,
+          52.3544624
+        ]
+      },
+      "id": "Wibautstraat"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8893261,
+          52.3377124
+        ]
+      },
+      "id": "Station RAI"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8906926,
+          52.3539754
+        ]
+      },
+      "id": "De Pijp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3740976,
+          52.153898
+        ]
+      },
+      "id": "Amersfoort Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2999111,
+          52.1838566
+        ]
+      },
+      "id": "Soestdijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5310527,
+          51.8803596
+        ]
+      },
+      "id": "Rotterdam Lombardijen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6715744,
+          51.79017
+        ]
+      },
+      "id": "Dordrecht Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7782401,
+          51.8296105
+        ]
+      },
+      "id": "Sliedrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8355964,
+          51.8303521
+        ]
+      },
+      "id": "Hardinxveld-Giessendam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4661162,
+          51.9122378
+        ]
+      },
+      "id": "Dijkzigt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4737376,
+          51.916333
+        ]
+      },
+      "id": "Eendrachtsplein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4777323,
+          51.8745879
+        ]
+      },
+      "id": "Slinge"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4967979,
+          51.9035842
+        ]
+      },
+      "id": "Rijnhaven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3957931,
+          51.8617237
+        ]
+      },
+      "id": "Poortugaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4194918,
+          51.8591359
+        ]
+      },
+      "id": "Rhoon"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3817895,
+          51.8849426
+        ]
+      },
+      "id": "Pernis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3719899,
+          51.9091538
+        ]
+      },
+      "id": "Vijfsluizen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3846339,
+          51.9155498
+        ]
+      },
+      "id": "Troelstralaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5098521,
+          51.9049018
+        ]
+      },
+      "id": "Rotterdam Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4815812,
+          51.9422622
+        ]
+      },
+      "id": "Rotterdam Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5356539,
+          51.9603316
+        ]
+      },
+      "id": "Binnenhof"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1681345,
+          52.0340078
+        ]
+      },
+      "id": "Houten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6088392,
+          51.4624634
+        ]
+      },
+      "id": "Helmond Brandevoort"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6312015,
+          51.4681099
+        ]
+      },
+      "id": "Helmond 't Hout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8720575,
+          50.8562824
+        ]
+      },
+      "id": "Schin op Geul"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2248525,
+          51.9325971
+        ]
+      },
+      "id": "Steendijkpolder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9175567,
+          52.3464656
+        ]
+      },
+      "id": "Amsterdam Amstel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.967465,
+          52.3452067
+        ]
+      },
+      "id": "Diemen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9463398,
+          52.3267669
+        ]
+      },
+      "id": "Venserpolder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9413557,
+          52.3185355
+        ]
+      },
+      "id": "Strandvliet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4969859,
+          51.9233607
+        ]
+      },
+      "id": "Oostplein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5502017,
+          51.420289
+        ]
+      },
+      "id": "Geldrop"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7040281,
+          51.9745937
+        ]
+      },
+      "id": "Winterswijk West"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3625084,
+          51.8549462
+        ]
+      },
+      "id": "Zalmplaat"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6181236,
+          51.4952465
+        ]
+      },
+      "id": "Middelburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5950865,
+          51.4647139
+        ]
+      },
+      "id": "Vlissingen Souburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8893972,
+          51.498193
+        ]
+      },
+      "id": "Goes"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2961899,
+          51.4947862
+        ]
+      },
+      "id": "Bergen op Zoom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0794073,
+          51.2829798
+        ]
+      },
+      "id": "Reuver"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8826993,
+          51.4150204
+        ]
+      },
+      "id": "Baarland"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6364804,
+          51.5752127
+        ]
+      },
+      "id": "Etten-Leur"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8891869,
+          51.4409246
+        ]
+      },
+      "id": "Kwadendamme"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.892375,
+          51.4620883
+        ]
+      },
+      "id": "'s-Gravenpolder-'s-Heer Abtskerke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9137769,
+          51.4206086
+        ]
+      },
+      "id": "Hoedekenskerke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.037626,
+          51.4650521
+        ]
+      },
+      "id": "Kruiningen-Yerseke"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5338512,
+          51.9214103
+        ]
+      },
+      "id": "Kralingse Zoom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4772981,
+          52.0484521
+        ]
+      },
+      "id": "Driemanspolder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3653147,
+          52.0823292
+        ]
+      },
+      "id": "Voorburg 't Loo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5426551,
+          52.0603312
+        ]
+      },
+      "id": "Oosterheem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3101531,
+          52.1731316
+        ]
+      },
+      "id": "Soest"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7878984,
+          51.4562278
+        ]
+      },
+      "id": "Deurne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5739271,
+          52.0459528
+        ]
+      },
+      "id": "Veenendaal-De Klomp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.171433,
+          51.3650504
+        ]
+      },
+      "id": "Venlo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7966263,
+          50.8733866
+        ]
+      },
+      "id": "Houthem-Sint Gerlach"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4808632,
+          51.9179985
+        ]
+      },
+      "id": "Beurs"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4819906,
+          51.9140336
+        ]
+      },
+      "id": "Leuvehaven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4947569,
+          51.8971935
+        ]
+      },
+      "id": "Maashaven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4581761,
+          51.9306162
+        ]
+      },
+      "id": "Blijdorp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0512888,
+          52.5278636
+        ]
+      },
+      "id": "Zwolle Stadshagen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1324299,
+          51.9333033
+        ]
+      },
+      "id": "Didam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5169358,
+          52.2152104
+        ]
+      },
+      "id": "Sassenheim"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9906222,
+          52.1708294
+        ]
+      },
+      "id": "Breukelen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.838877,
+          52.3890161
+        ]
+      },
+      "id": "Station Sloterdijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.484053,
+          52.2253573
+        ]
+      },
+      "id": "Voorhout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6068322,
+          52.3910774
+        ]
+      },
+      "id": "Overveen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8924874,
+          52.0850884
+        ]
+      },
+      "id": "Woerden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4563018,
+          52.1471818
+        ]
+      },
+      "id": "De Vink"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7462503,
+          52.0814538
+        ]
+      },
+      "id": "Bodegraven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2267808,
+          51.9470421
+        ]
+      },
+      "id": "Culemborg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6030939,
+          52.1280783
+        ]
+      },
+      "id": "Barneveld Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6411824,
+          51.8152743
+        ]
+      },
+      "id": "Zwijndrecht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6736223,
+          51.9224135
+        ]
+      },
+      "id": "Hemmen-Dodewaard"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3918894,
+          51.8736724
+        ]
+      },
+      "id": "Tiel Passewaaij"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2633823,
+          51.8078029
+        ]
+      },
+      "id": "Zaltbommel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2714789,
+          51.8825577
+        ]
+      },
+      "id": "Geldermalsen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9927723,
+          51.8721203
+        ]
+      },
+      "id": "Arkel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6100851,
+          51.6413438
+        ]
+      },
+      "id": "Zevenbergen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1958729,
+          51.8994088
+        ]
+      },
+      "id": "Beesd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8785268,
+          51.8323509
+        ]
+      },
+      "id": "Boven Hardinxveld"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8157538,
+          51.8295797
+        ]
+      },
+      "id": "Hardinxveld Blauwe Zoom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8828193,
+          51.4971093
+        ]
+      },
+      "id": "Goes (SGB)"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8801356,
+          51.4539408
+        ]
+      },
+      "id": "Nisse"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369582,
+          51.7151523
+        ]
+      },
+      "id": "Rosmalen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9934935,
+          51.573665
+        ]
+      },
+      "id": "Tilburg Reeshof"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2937086,
+          51.6905164
+        ]
+      },
+      "id": "'s-Hertogenbosch"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7942393,
+          51.8239417
+        ]
+      },
+      "id": "Nijmegen Dukenburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6303829,
+          51.3042309
+        ]
+      },
+      "id": "Maarheeze"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3190301,
+          51.5844429
+        ]
+      },
+      "id": "Boxtel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4570165,
+          51.4503696
+        ]
+      },
+      "id": "Eindhoven Strijp-S"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3151182,
+          51.9037705
+        ]
+      },
+      "id": "Vlaardingen West"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3438134,
+          51.9031357
+        ]
+      },
+      "id": "Vlaardingen Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2537315,
+          51.9164305
+        ]
+      },
+      "id": "Maassluis Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.383435,
+          51.9227659
+        ]
+      },
+      "id": "Schiedam Nieuwland"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8495905,
+          50.9434247
+        ]
+      },
+      "id": "Spaubeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9809858,
+          51.9950101
+        ]
+      },
+      "id": "Velp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4883271,
+          51.8868946
+        ]
+      },
+      "id": "Zuidplein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.505848,
+          51.925903
+        ]
+      },
+      "id": "Gerdesiaweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5130582,
+          51.9250006
+        ]
+      },
+      "id": "Voorschoterlaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5579589,
+          51.9214526
+        ]
+      },
+      "id": "Capelsebrug"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5742267,
+          52.509025
+        ]
+      },
+      "id": "Mari\u00ebnberg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4579565,
+          52.1664319
+        ]
+      },
+      "id": "Hoevelaken"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175501,
+          50.8705194
+        ]
+      },
+      "id": "Maastricht Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8328817,
+          50.8692901
+        ]
+      },
+      "id": "Valkenburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9470883,
+          52.3122449
+        ]
+      },
+      "id": "Amsterdam Bijlmer ArenA"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9742518,
+          52.218722
+        ]
+      },
+      "id": "Glanerbrug"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6374111,
+          51.9260391
+        ]
+      },
+      "id": "Opheusden"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3095253,
+          52.0755925
+        ]
+      },
+      "id": "Grote Markt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9009058,
+          52.3791977
+        ]
+      },
+      "id": "Centraal Station"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6168787,
+          51.9653044
+        ]
+      },
+      "id": "Nieuwerkerk aan den IJssel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3349578,
+          52.0799782
+        ]
+      },
+      "id": "Beatrixkwartier"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8743301,
+          52.7487147
+        ]
+      },
+      "id": "Emmen Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4795265,
+          51.4429623
+        ]
+      },
+      "id": "Eindhoven Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8191929,
+          52.4567546
+        ]
+      },
+      "id": "Zaandam Kogerveld"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8849785,
+          53.1039225
+        ]
+      },
+      "id": "Veendam"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9938511,
+          51.1925659
+        ]
+      },
+      "id": "Roermond"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9356835,
+          52.996217
+        ]
+      },
+      "id": "Stadskanaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0546461,
+          52.6450893
+        ]
+      },
+      "id": "Hoorn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0356099,
+          53.139151
+        ]
+      },
+      "id": "Winschoten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.003991,
+          52.1482881
+        ]
+      },
+      "id": "Immenbergweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.445805,
+          52.0050029
+        ]
+      },
+      "id": "Pijnacker Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5476727,
+          51.919502
+        ]
+      },
+      "id": "'s-Gravenweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5191922,
+          52.0415172
+        ]
+      },
+      "id": "Lansingerland-Zoetermeer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7229343,
+          53.1615882
+        ]
+      },
+      "id": "Kropswolde"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7474514,
+          53.3347918
+        ]
+      },
+      "id": "Loppersum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9237352,
+          53.3337339
+        ]
+      },
+      "id": "Delfzijl"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8667625,
+          53.1593423
+        ]
+      },
+      "id": "Zuidbroek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4584952,
+          51.9372071
+        ]
+      },
+      "id": "Varsseveld"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6387141,
+          52.4427409
+        ]
+      },
+      "id": "Driehuis"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0354836,
+          53.2482864
+        ]
+      },
+      "id": "De Westereen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4231314,
+          52.9464538
+        ]
+      },
+      "id": "Hindeloopen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6161316,
+          53.0147424
+        ]
+      },
+      "id": "IJlst"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.66273,
+          53.0401281
+        ]
+      },
+      "id": "Sneek Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.44381,
+          52.1594303
+        ]
+      },
+      "id": "Museum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6466297,
+          52.0770639
+        ]
+      },
+      "id": "Boskoop"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8745796,
+          50.9390309
+        ]
+      },
+      "id": "Schinnen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9784646,
+          50.8315487
+        ]
+      },
+      "id": "Simpelveld"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0055661,
+          50.8170574
+        ]
+      },
+      "id": "Bocholtz"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0566467,
+          50.8590632
+        ]
+      },
+      "id": "Kerkrade ZLSM"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89267,
+          50.9198085
+        ]
+      },
+      "id": "Nuth"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0577972,
+          50.896103
+        ]
+      },
+      "id": "Eygelshoven Markt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0196861,
+          50.896491
+        ]
+      },
+      "id": "Landgraaf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0456023,
+          50.8901122
+        ]
+      },
+      "id": "Eygelshoven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0595563,
+          50.8762291
+        ]
+      },
+      "id": "Chevremont"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9302573,
+          50.9055737
+        ]
+      },
+      "id": "Hoensbroek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9294168,
+          50.8868406
+        ]
+      },
+      "id": "Voerendaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8901666,
+          50.8662625
+        ]
+      },
+      "id": "Klimmen-Ransdaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6571053,
+          52.1248061
+        ]
+      },
+      "id": "Alphen aan den Rijn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6276629,
+          52.4043478
+        ]
+      },
+      "id": "Bloemendaal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9134595,
+          51.4216751
+        ]
+      },
+      "id": "Pluimweide"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8345528,
+          51.7548458
+        ]
+      },
+      "id": "Middelplaat Haven (RTM)"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8431636,
+          50.9670581
+        ]
+      },
+      "id": "Geleen Oost"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0837958,
+          51.5606465
+        ]
+      },
+      "id": "Tilburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0662863,
+          52.1027606
+        ]
+      },
+      "id": "Eerbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8224752,
+          51.8272972
+        ]
+      },
+      "id": "Nijmegen Goffert"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6385788,
+          52.3880778
+        ]
+      },
+      "id": "Haarlem"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1275061,
+          51.976668
+        ]
+      },
+      "id": "Hoek van Holland Haven"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8911646,
+          52.3608169
+        ]
+      },
+      "id": "Vijzelgracht"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2921497,
+          51.6556224
+        ]
+      },
+      "id": "Vught"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3598419,
+          52.886647
+        ]
+      },
+      "id": "Stavoren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8575769,
+          52.3384028
+        ]
+      },
+      "id": "Amstelveenseweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.235402,
+          51.9260714
+        ]
+      },
+      "id": "Maassluis West"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8382223,
+          52.3796134
+        ]
+      },
+      "id": "De Vlugtlaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1793156,
+          52.1780793
+        ]
+      },
+      "id": "Hollandsche Rading"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5660754,
+          52.30314
+        ]
+      },
+      "id": "Hillegom"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9791233,
+          52.3170313
+        ]
+      },
+      "id": "Kraaiennest"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5927288,
+          53.3069316
+        ]
+      },
+      "id": "Bedum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5783079,
+          51.9579068
+        ]
+      },
+      "id": "Rhenen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7214222,
+          51.6057193
+        ]
+      },
+      "id": "Breda-Prinsenbeek"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9187004,
+          52.3889316
+        ]
+      },
+      "id": "Noorderpark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3222758,
+          52.0701372
+        ]
+      },
+      "id": "Den Haag HS"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2193265,
+          52.3752735
+        ]
+      },
+      "id": "Almere Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.393958,
+          51.9212698
+        ]
+      },
+      "id": "Parkweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9132744,
+          52.5329839
+        ]
+      },
+      "id": "Kampen Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9527975,
+          50.8961435
+        ]
+      },
+      "id": "Heerlen Woonboulevard"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7501291,
+          50.8826069
+        ]
+      },
+      "id": "Meerssen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9005805,
+          52.378901
+        ]
+      },
+      "id": "Amsterdam Centraal"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8345025,
+          52.3464029
+        ]
+      },
+      "id": "Henk Sneevlietweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1054542,
+          51.9869919
+        ]
+      },
+      "id": "Hoek van Holland Strand"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4923761,
+          51.9078083
+        ]
+      },
+      "id": "Wilhelminaplein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6328181,
+          52.4338437
+        ]
+      },
+      "id": "Santpoort Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5494492,
+          51.957222
+        ]
+      },
+      "id": "Graskruid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5546319,
+          51.9452288
+        ]
+      },
+      "id": "Oosterflank"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5519103,
+          51.9514281
+        ]
+      },
+      "id": "Alexander"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8051566,
+          52.4692791
+        ]
+      },
+      "id": "Zaandijk Zaanse Schans"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4890736,
+          51.9200723
+        ]
+      },
+      "id": "Rotterdam Blaak"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.598379,
+          52.1611568
+        ]
+      },
+      "id": "Barneveld Noord"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6243005,
+          52.0851185
+        ]
+      },
+      "id": "Lunteren"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6199961,
+          52.3377999
+        ]
+      },
+      "id": "Harderwijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5524827,
+          51.9517162
+        ]
+      },
+      "id": "Rotterdam Alexander"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8343026,
+          52.3524713
+        ]
+      },
+      "id": "Heemstedestraat"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7853221,
+          52.1917806
+        ]
+      },
+      "id": "Zoutindustrie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8008997,
+          52.2048225
+        ]
+      },
+      "id": "Boekelo"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7651956,
+          52.4417294
+        ]
+      },
+      "id": "Station Crazy River"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1812974,
+          52.2265342
+        ]
+      },
+      "id": "Hilversum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8746127,
+          52.3392032
+        ]
+      },
+      "id": "Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8381062,
+          52.3890317
+        ]
+      },
+      "id": "Amsterdam Sloterdijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8902289,
+          52.3370349
+        ]
+      },
+      "id": "Amsterdam RAI"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8734324,
+          52.3390172
+        ]
+      },
+      "id": "Amsterdam Zuid"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6067862,
+          52.3595052
+        ]
+      },
+      "id": "Heemstede-Aerdenhout"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6591148,
+          52.5453379
+        ]
+      },
+      "id": "Castricum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4622246,
+          51.9559206
+        ]
+      },
+      "id": "Meijersplein / Airport"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6741136,
+          52.0274114
+        ]
+      },
+      "id": "Ede-Wageningen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9210115,
+          52.3399595
+        ]
+      },
+      "id": "Spaklerweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5334608,
+          51.5878989
+        ]
+      },
+      "id": "Oudenbosch"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5641028,
+          53.2109237
+        ]
+      },
+      "id": "Groningen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8914727,
+          52.3416064
+        ]
+      },
+      "id": "Europaplein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7468736,
+          52.3859763
+        ]
+      },
+      "id": "Halfweg-Zwanenburg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8741958,
+          51.7266248
+        ]
+      },
+      "id": "Cuijk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5064191,
+          52.0596852
+        ]
+      },
+      "id": "Palenstein"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4543595,
+          51.9900765
+        ]
+      },
+      "id": "Berkel Westpolder"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4147041,
+          52.0475517
+        ]
+      },
+      "id": "Nootdorp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4369745,
+          52.0205662
+        ]
+      },
+      "id": "Pijnacker Centrum"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4608354,
+          51.9754013
+        ]
+      },
+      "id": "Rodenrijs"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5702668,
+          51.9657663
+        ]
+      },
+      "id": "Ambachtsland"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5784685,
+          51.9688713
+        ]
+      },
+      "id": "De Tochten"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5531639,
+          51.9632093
+        ]
+      },
+      "id": "Hesseplaats"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5865432,
+          51.979685
+        ]
+      },
+      "id": "Nesselande"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5614524,
+          51.964821
+        ]
+      },
+      "id": "Nieuw Verlaat"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5565395,
+          51.9407693
+        ]
+      },
+      "id": "Prinsenlaan"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5634734,
+          51.9319373
+        ]
+      },
+      "id": "Schenkel"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.361647,
+          51.9101567
+        ]
+      },
+      "id": "Vlaardingen Oost"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.476916,
+          52.0475562
+        ]
+      },
+      "id": "Zoetermeer"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6746834,
+          53.4096293
+        ]
+      },
+      "id": "Uithuizen"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4786685,
+          52.0667621
+        ]
+      },
+      "id": "Buytenwegh"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4646343,
+          51.948473
+        ]
+      },
+      "id": "Melanchthonweg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5289842,
+          52.0470643
+        ]
+      },
+      "id": "Van Tuyllpark"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5069444,
+          51.7584414
+        ]
+      },
+      "id": "Oss West"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8707393,
+          53.0838251
+        ]
+      },
+      "id": "Wildervank"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.850223,
+          53.0535756
+        ]
+      },
+      "id": "Bareveld"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4582888,
+          51.9094712
+        ]
+      },
+      "id": "Coolhaven"
+    }
+  ],
+  "links": [
+    {
+      "distance": 2983.071355884458,
+      "source": "Almere Parkwijk",
+      "target": "Almere Buiten"
+    },
+    {
+      "distance": 1735.9154320237894,
+      "source": "Almere Parkwijk",
+      "target": "Almere Centrum"
+    },
+    {
+      "distance": 1843.531845791226,
+      "source": "Almere Buiten",
+      "target": "Almere Oostvaarders"
+    },
+    {
+      "distance": 4149.941481947191,
+      "source": "Arnhem Zuid",
+      "target": "Elst"
+    },
+    {
+      "distance": 4551.451021541733,
+      "source": "Arnhem Zuid",
+      "target": "Oosterbeek"
+    },
+    {
+      "distance": 2212.8696162259835,
+      "source": "Apeldoorn",
+      "target": "Apeldoorn De Maten"
+    },
+    {
+      "distance": 8612.393260982108,
+      "source": "Apeldoorn",
+      "target": "Klarenbeek"
+    },
+    {
+      "distance": 21946.99455497692,
+      "source": "Apeldoorn",
+      "target": "Nunspeet"
+    },
+    {
+      "distance": 2440.2911566044922,
+      "source": "Zoetermeer Oost",
+      "target": "Van Tuyllpark"
+    },
+    {
+      "distance": 5403.01347039605,
+      "source": "Zoetermeer Oost",
+      "target": "Nootdorp"
+    },
+    {
+      "distance": 1847.1686746922012,
+      "source": "Zoetermeer Oost",
+      "target": "Lansingerland-Zoetermeer"
+    },
+    {
+      "distance": 1903.6816659548733,
+      "source": "Zoetermeer Oost",
+      "target": "Meerzicht"
+    },
+    {
+      "distance": 2198.427943649633,
+      "source": "Nijmegen",
+      "target": "Nijmegen Lent"
+    },
+    {
+      "distance": 2088.57920379847,
+      "source": "Nijmegen",
+      "target": "Nijmegen Heyendaal"
+    },
+    {
+      "distance": 2749.4343408132445,
+      "source": "Nijmegen",
+      "target": "Nijmegen Goffert"
+    },
+    {
+      "distance": 4669.081018131885,
+      "source": "Maarssen",
+      "target": "Utrecht Leidsche Rijn"
+    },
+    {
+      "distance": 4846.418181559974,
+      "source": "Maarssen",
+      "target": "Breukelen"
+    },
+    {
+      "distance": 12023.694556127957,
+      "source": "Leeuwarden",
+      "target": "Grou-Jirnsum"
+    },
+    {
+      "distance": 4423.718496542129,
+      "source": "Leeuwarden",
+      "target": "Deinum"
+    },
+    {
+      "distance": 4029.3819821021025,
+      "source": "Beek-Elsloo",
+      "target": "Geleen-Lutterade"
+    },
+    {
+      "distance": 6698.1290079691025,
+      "source": "Beek-Elsloo",
+      "target": "Bunde"
+    },
+    {
+      "distance": 7689.995607371322,
+      "source": "Tegelen",
+      "target": "Reuver"
+    },
+    {
+      "distance": 3469.4199386136966,
+      "source": "Tegelen",
+      "target": "Venlo"
+    },
+    {
+      "distance": 3215.1826761546367,
+      "source": "Bunde",
+      "target": "Maastricht Noord"
+    },
+    {
+      "distance": 1607.6509711455121,
+      "source": "Groningen Europapark",
+      "target": "Groningen"
+    },
+    {
+      "distance": 3960.022106831011,
+      "source": "Groningen Europapark",
+      "target": "Haren"
+    },
+    {
+      "distance": 10201.669374468369,
+      "source": "Leiden Lammenschans",
+      "target": "Oosterheem"
+    },
+    {
+      "distance": 7792.4062012429395,
+      "source": "Leiden Lammenschans",
+      "target": "Sassenheim"
+    },
+    {
+      "distance": 2295.9370555179007,
+      "source": "Leiden Lammenschans",
+      "target": "Leiden Centraal"
+    },
+    {
+      "distance": 9504.498646124503,
+      "source": "Leiden Lammenschans",
+      "target": "Willem Dreeslaan"
+    },
+    {
+      "distance": 2081.684702163726,
+      "source": "'s-Hertogenbosch Oost",
+      "target": "'s-Hertogenbosch"
+    },
+    {
+      "distance": 3848.0127667441448,
+      "source": "'s-Hertogenbosch Oost",
+      "target": "Rosmalen"
+    },
+    {
+      "distance": 5701.196104731091,
+      "source": "Dronryp",
+      "target": "Franeker"
+    },
+    {
+      "distance": 6642.577894095265,
+      "source": "Deinum",
+      "target": "Mantgum"
+    },
+    {
+      "distance": 9486.650942616638,
+      "source": "Kampen",
+      "target": "Zwolle Stadshagen"
+    },
+    {
+      "distance": 2688.292263160855,
+      "source": "Heemskerk",
+      "target": "Beverwijk"
+    },
+    {
+      "distance": 3096.415152287237,
+      "source": "Amersfoort Schothorst",
+      "target": "Amersfoort Centraal"
+    },
+    {
+      "distance": 2831.2957253304835,
+      "source": "Amersfoort Schothorst",
+      "target": "Amersfoort Vathorst"
+    },
+    {
+      "distance": 3818.117828022872,
+      "source": "Amersfoort Schothorst",
+      "target": "Hoevelaken"
+    },
+    {
+      "distance": 7363.588521891656,
+      "source": "Holten",
+      "target": "Rijssen"
+    },
+    {
+      "distance": 14521.786195983152,
+      "source": "Holten",
+      "target": "Deventer Colmschate"
+    },
+    {
+      "distance": 1197.2253649078475,
+      "source": "Hilversum Sportpark",
+      "target": "Hilversum"
+    },
+    {
+      "distance": 4302.2007612991765,
+      "source": "Hilversum Sportpark",
+      "target": "Hollandsche Rading"
+    },
+    {
+      "distance": 6519.4015481397655,
+      "source": "Hilversum Sportpark",
+      "target": "Baarn"
+    },
+    {
+      "distance": 9995.686665863028,
+      "source": "Horst-Sevenum",
+      "target": "Blerick"
+    },
+    {
+      "distance": 11213.529242922832,
+      "source": "Horst-Sevenum",
+      "target": "Venray"
+    },
+    {
+      "distance": 17916.168528582475,
+      "source": "Horst-Sevenum",
+      "target": "Deurne"
+    },
+    {
+      "distance": 2306.2016858448023,
+      "source": "Haarlem Spaarnwoude",
+      "target": "Haarlem"
+    },
+    {
+      "distance": 5502.195041007628,
+      "source": "Heino",
+      "target": "Raalte"
+    },
+    {
+      "distance": 12426.951627653434,
+      "source": "Heino",
+      "target": "Zwolle"
+    },
+    {
+      "distance": 261.4502408540635,
+      "source": "Kerkrade Centrum",
+      "target": "Kerkrade ZLSM"
+    },
+    {
+      "distance": 3298.751404459996,
+      "source": "Kerkrade Centrum",
+      "target": "Eygelshoven"
+    },
+    {
+      "distance": 6257.107694992732,
+      "source": "Swalmen",
+      "target": "Reuver"
+    },
+    {
+      "distance": 5447.282246526821,
+      "source": "Swalmen",
+      "target": "Roermond"
+    },
+    {
+      "distance": 1875.244222505734,
+      "source": "Waddinxveen Triangel",
+      "target": "Waddinxveen"
+    },
+    {
+      "distance": 4069.917021699468,
+      "source": "Waddinxveen Triangel",
+      "target": "Gouda"
+    },
+    {
+      "distance": 7233.874547289484,
+      "source": "Waddinxveen Triangel",
+      "target": "Nieuwerkerk aan den IJssel"
+    },
+    {
+      "distance": 6810.589258817092,
+      "source": "Waddinxveen Triangel",
+      "target": "Nesselande"
+    },
+    {
+      "distance": 1289.9975447081429,
+      "source": "Arnhem Centraal",
+      "target": "Arnhem Velperpoort"
+    },
+    {
+      "distance": 4323.997489936086,
+      "source": "Arnhem Centraal",
+      "target": "Oosterbeek"
+    },
+    {
+      "distance": 10786.50728624046,
+      "source": "Heerenveen",
+      "target": "Wolvega"
+    },
+    {
+      "distance": 10786.299356104702,
+      "source": "Heerenveen",
+      "target": "Akkrum"
+    },
+    {
+      "distance": 1138.4874133211747,
+      "source": "Leidschendam-Voorburg",
+      "target": "Forepark"
+    },
+    {
+      "distance": 7391.452586982056,
+      "source": "Venray",
+      "target": "Vierlingsbeek"
+    },
+    {
+      "distance": 7064.084802340259,
+      "source": "Boxmeer",
+      "target": "Vierlingsbeek"
+    },
+    {
+      "distance": 10200.13951907782,
+      "source": "Boxmeer",
+      "target": "Cuijk"
+    },
+    {
+      "distance": 8040.9981629482345,
+      "source": "Weert",
+      "target": "Maarheeze"
+    },
+    {
+      "distance": 21182.246865644378,
+      "source": "Weert",
+      "target": "Roermond"
+    },
+    {
+      "distance": 4112.605638805956,
+      "source": "Heeze",
+      "target": "Geldrop"
+    },
+    {
+      "distance": 9972.800574794152,
+      "source": "Heeze",
+      "target": "Maarheeze"
+    },
+    {
+      "distance": 4500.315277564243,
+      "source": "Echt",
+      "target": "Susteren"
+    },
+    {
+      "distance": 13056.59190252019,
+      "source": "Echt",
+      "target": "Roermond"
+    },
+    {
+      "distance": 2273.886404953594,
+      "source": "Helmond",
+      "target": "Helmond 't Hout"
+    },
+    {
+      "distance": 2812.6226955126454,
+      "source": "Helmond",
+      "target": "Helmond Brouwhuis"
+    },
+    {
+      "distance": 11959.55622879871,
+      "source": "Kesteren",
+      "target": "Tiel"
+    },
+    {
+      "distance": 3775.9067917483076,
+      "source": "Kesteren",
+      "target": "Opheusden"
+    },
+    {
+      "distance": 8045.54878645459,
+      "source": "Oss",
+      "target": "Ravenstein"
+    },
+    {
+      "distance": 9057.039780205807,
+      "source": "Zetten-Andelst",
+      "target": "Elst"
+    },
+    {
+      "distance": 5953.742029844647,
+      "source": "Zetten-Andelst",
+      "target": "Opheusden"
+    },
+    {
+      "distance": 5016.143918169451,
+      "source": "Alkmaar",
+      "target": "Heiloo"
+    },
+    {
+      "distance": 8119.503010602274,
+      "source": "Best",
+      "target": "Eindhoven Strijp-S"
+    },
+    {
+      "distance": 9625.20742149685,
+      "source": "Best",
+      "target": "Boxtel"
+    },
+    {
+      "distance": 868.2394446934572,
+      "source": "Delfshaven",
+      "target": "Coolhaven"
+    },
+    {
+      "distance": 5939.574297362918,
+      "source": "Delfshaven",
+      "target": "Rhoon"
+    },
+    {
+      "distance": 2449.7677184835043,
+      "source": "Delfshaven",
+      "target": "Blijdorp"
+    },
+    {
+      "distance": 2874.2259711969164,
+      "source": "Delfshaven",
+      "target": "Schiedam Centrum"
+    },
+    {
+      "distance": 8220.870046206663,
+      "source": "Zwolle",
+      "target": "Wezep"
+    },
+    {
+      "distance": 13131.051671326604,
+      "source": "Zwolle",
+      "target": "Wijhe"
+    },
+    {
+      "distance": 3717.857838470223,
+      "source": "Zwolle",
+      "target": "Zwolle Stadshagen"
+    },
+    {
+      "distance": 11450.489410513781,
+      "source": "Zwolle",
+      "target": "Dalfsen"
+    },
+    {
+      "distance": 6504.868747102674,
+      "source": "Spijkenisse Centrum",
+      "target": "Vlaardingen West"
+    },
+    {
+      "distance": 2722.3630593034113,
+      "source": "Spijkenisse Centrum",
+      "target": "Hoogvliet"
+    },
+    {
+      "distance": 5667.339043349072,
+      "source": "Wijlre",
+      "target": "Simpelveld"
+    },
+    {
+      "distance": 3168.3316937197424,
+      "source": "Wijlre",
+      "target": "Schin op Geul"
+    },
+    {
+      "distance": 1390.8382957046385,
+      "source": "Blerick",
+      "target": "Venlo"
+    },
+    {
+      "distance": 1503.2048051662393,
+      "source": "Veenendaal Centrum",
+      "target": "Veenendaal West"
+    },
+    {
+      "distance": 7194.901058453423,
+      "source": "Veenendaal Centrum",
+      "target": "Rhenen"
+    },
+    {
+      "distance": 1012.8850337240565,
+      "source": "Soest Zuid",
+      "target": "Soest"
+    },
+    {
+      "distance": 5032.47569090192,
+      "source": "Soest Zuid",
+      "target": "Amersfoort Centraal"
+    },
+    {
+      "distance": 5003.454821062545,
+      "source": "Soest Zuid",
+      "target": "Den Dolder"
+    },
+    {
+      "distance": 4094.2569511911893,
+      "source": "Delft",
+      "target": "Rijswijk"
+    },
+    {
+      "distance": 1912.9495613436552,
+      "source": "Delft",
+      "target": "Delft Campus"
+    },
+    {
+      "distance": 7553.752375864356,
+      "source": "Barendrecht",
+      "target": "Zwijndrecht"
+    },
+    {
+      "distance": 3161.5332999134894,
+      "source": "Barendrecht",
+      "target": "Rotterdam Lombardijen"
+    },
+    {
+      "distance": 3884.9284970023314,
+      "source": "Sauwerd",
+      "target": "Bedum"
+    },
+    {
+      "distance": 6922.03776708446,
+      "source": "Sauwerd",
+      "target": "Groningen Noord"
+    },
+    {
+      "distance": 7206.698294048345,
+      "source": "Nijverdal",
+      "target": "Rijssen"
+    },
+    {
+      "distance": 12848.519343019278,
+      "source": "Nijverdal",
+      "target": "Raalte"
+    },
+    {
+      "distance": 4263.083897882797,
+      "source": "Almelo",
+      "target": "Wierden"
+    },
+    {
+      "distance": 6156.0646744373535,
+      "source": "Almelo",
+      "target": "Vriezenveen"
+    },
+    {
+      "distance": 1926.2675710895546,
+      "source": "Almelo",
+      "target": "Almelo de Riet"
+    },
+    {
+      "distance": 8829.804259022914,
+      "source": "Oldenzaal",
+      "target": "Hengelo Oost"
+    },
+    {
+      "distance": 6577.356799187526,
+      "source": "Lage Zwaluwe",
+      "target": "Zevenbergen"
+    },
+    {
+      "distance": 10208.470914295107,
+      "source": "Lage Zwaluwe",
+      "target": "Breda-Prinsenbeek"
+    },
+    {
+      "distance": 11141.00068955055,
+      "source": "Lage Zwaluwe",
+      "target": "Dordrecht Zuid"
+    },
+    {
+      "distance": 13288.223826022988,
+      "source": "Lage Zwaluwe",
+      "target": "Breda"
+    },
+    {
+      "distance": 4651.7139316141265,
+      "source": "Daarlerveen",
+      "target": "Vriezenveen"
+    },
+    {
+      "distance": 1851.7532923135725,
+      "source": "Daarlerveen",
+      "target": "Vroomshoop"
+    },
+    {
+      "distance": 6462.279269041857,
+      "source": "Olst",
+      "target": "Wijhe"
+    },
+    {
+      "distance": 3116.937463138799,
+      "source": "Sneek",
+      "target": "IJlst"
+    },
+    {
+      "distance": 1107.6711882906632,
+      "source": "Sneek",
+      "target": "Sneek Noord"
+    },
+    {
+      "distance": 1562.257842727831,
+      "source": "Amsterdam Science Park",
+      "target": "Diemen"
+    },
+    {
+      "distance": 1461.1888822305,
+      "source": "Amsterdam Science Park",
+      "target": "Amsterdam Muiderpoort"
+    },
+    {
+      "distance": 9481.790383939151,
+      "source": "Delden",
+      "target": "Goor"
+    },
+    {
+      "distance": 3609.6968570958743,
+      "source": "Delden",
+      "target": "Hengelo Gezondheidspark"
+    },
+    {
+      "distance": 4074.5155511065673,
+      "source": "Weesp",
+      "target": "Gaasperplas"
+    },
+    {
+      "distance": 8131.272992265469,
+      "source": "Weesp",
+      "target": "Almere Poort"
+    },
+    {
+      "distance": 8478.123503483359,
+      "source": "Weesp",
+      "target": "Naarden-Bussum"
+    },
+    {
+      "distance": 3792.032640554176,
+      "source": "Nieuw Amsterdam",
+      "target": "Emmen Zuid"
+    },
+    {
+      "distance": 8807.014779653433,
+      "source": "Wezep",
+      "target": "Zwolle Stadshagen"
+    },
+    {
+      "distance": 9022.88381723179,
+      "source": "Wezep",
+      "target": "'t Harde"
+    },
+    {
+      "distance": 10664.312769744174,
+      "source": "Wezep",
+      "target": "Kampen Zuid"
+    },
+    {
+      "distance": 7164.0891043765405,
+      "source": "Coevorden",
+      "target": "Gramsbergen"
+    },
+    {
+      "distance": 4969.133496383882,
+      "source": "Emmen",
+      "target": "Emmen Zuid"
+    },
+    {
+      "distance": 5546.028758125932,
+      "source": "Ede Centrum",
+      "target": "Lunteren"
+    },
+    {
+      "distance": 1809.034693146408,
+      "source": "Ede Centrum",
+      "target": "Ede-Wageningen"
+    },
+    {
+      "distance": 6474.28646504045,
+      "source": "Ede Centrum",
+      "target": "Veenendaal-De Klomp"
+    },
+    {
+      "distance": 1030.4441365372484,
+      "source": "Harlingen Haven",
+      "target": "Harlingen"
+    },
+    {
+      "distance": 1878.2433797907688,
+      "source": "Hengelo Oost",
+      "target": "Hengelo"
+    },
+    {
+      "distance": 3747.348463266402,
+      "source": "Hengelo Oost",
+      "target": "Enschede Kennispark"
+    },
+    {
+      "distance": 2060.5218905776796,
+      "source": "Houten Castellum",
+      "target": "Houten"
+    },
+    {
+      "distance": 6188.5822938483025,
+      "source": "Wehl",
+      "target": "Didam"
+    },
+    {
+      "distance": 10660.319197088946,
+      "source": "Ommen",
+      "target": "Mari\u00ebnberg"
+    },
+    {
+      "distance": 6570.3658998109195,
+      "source": "Leiden Centraal",
+      "target": "Voorhout"
+    },
+    {
+      "distance": 5933.841730088867,
+      "source": "Leiden Centraal",
+      "target": "Sassenheim"
+    },
+    {
+      "distance": 2774.2960717627325,
+      "source": "Leiden Centraal",
+      "target": "De Vink"
+    },
+    {
+      "distance": 3562.2568170078207,
+      "source": "Sliedrecht Baanhoek",
+      "target": "Dordrecht Stadspolders"
+    },
+    {
+      "distance": 5728.441150291438,
+      "source": "Sliedrecht Baanhoek",
+      "target": "Dordrecht"
+    },
+    {
+      "distance": 5015.934247034689,
+      "source": "Sliedrecht Baanhoek",
+      "target": "Hardinxveld Blauwe Zoom"
+    },
+    {
+      "distance": 2429.8980640062045,
+      "source": "Sliedrecht Baanhoek",
+      "target": "Sliedrecht"
+    },
+    {
+      "distance": 1018.1874104426616,
+      "source": "Den Haag Mariahoeve",
+      "target": "Voorburg 't Loo"
+    },
+    {
+      "distance": 5861.998346797116,
+      "source": "Den Haag Mariahoeve",
+      "target": "Voorschoten"
+    },
+    {
+      "distance": 4699.7494162535,
+      "source": "Schiphol Airport",
+      "target": "Hoofddorp"
+    },
+    {
+      "distance": 3240.2302832680043,
+      "source": "Amsterdam Muiderpoort",
+      "target": "Noorderpark"
+    },
+    {
+      "distance": 720.0726622522876,
+      "source": "Den Haag Centraal",
+      "target": "Beatrixkwartier"
+    },
+    {
+      "distance": 51506.0300938216,
+      "source": "Den Haag Centraal",
+      "target": "Centraal Station"
+    },
+    {
+      "distance": 935.3461007136474,
+      "source": "Postjesweg",
+      "target": "Jan van Galenstraat"
+    },
+    {
+      "distance": 1976.5623401699895,
+      "source": "Den Haag Moerwijk",
+      "target": "Den Haag HS"
+    },
+    {
+      "distance": 2102.8819561082278,
+      "source": "Den Haag Moerwijk",
+      "target": "Rijswijk"
+    },
+    {
+      "distance": 1774.0785149538374,
+      "source": "Voorburg",
+      "target": "Den Haag Laan van NOI"
+    },
+    {
+      "distance": 2457.6189695552107,
+      "source": "Voorburg",
+      "target": "Den Haag Ypenburg"
+    },
+    {
+      "distance": 10027.826096757915,
+      "source": "Nieuw Vennep",
+      "target": "Sassenheim"
+    },
+    {
+      "distance": 5259.25171462248,
+      "source": "Nieuw Vennep",
+      "target": "Hoofddorp"
+    },
+    {
+      "distance": 2798.6957931661823,
+      "source": "Voorschoten",
+      "target": "De Vink"
+    },
+    {
+      "distance": 1351.631598784344,
+      "source": "Boskoop Snijdelwijk",
+      "target": "Waddinxveen Noord"
+    },
+    {
+      "distance": 1082.1353157418846,
+      "source": "Boskoop Snijdelwijk",
+      "target": "Boskoop"
+    },
+    {
+      "distance": 4630.044863739499,
+      "source": "Gorinchem",
+      "target": "Arkel"
+    },
+    {
+      "distance": 6132.050938652706,
+      "source": "Gorinchem",
+      "target": "Boven Hardinxveld"
+    },
+    {
+      "distance": 1812.054538396737,
+      "source": "Verrijn Stuartweg",
+      "target": "Diemen"
+    },
+    {
+      "distance": 710.2489994621063,
+      "source": "Verrijn Stuartweg",
+      "target": "Diemen Zuid"
+    },
+    {
+      "distance": 1251.1199634163218,
+      "source": "Waddinxveen Noord",
+      "target": "Waddinxveen"
+    },
+    {
+      "distance": 5001.545455269965,
+      "source": "Alkmaar Noord",
+      "target": "Heerhugowaard"
+    },
+    {
+      "distance": 7712.1531872706655,
+      "source": "Delft Campus",
+      "target": "Schiedam Nieuwland"
+    },
+    {
+      "distance": 1101.1099555372728,
+      "source": "Isolatorweg",
+      "target": "Amsterdam Sloterdijk"
+    },
+    {
+      "distance": 3843.0487853937557,
+      "source": "Isolatorweg",
+      "target": "Amsterdam Centraal"
+    },
+    {
+      "distance": 16035.457919207098,
+      "source": "Purmerend Overwhere",
+      "target": "Hoorn"
+    },
+    {
+      "distance": 1181.1873408891072,
+      "source": "Purmerend Overwhere",
+      "target": "Purmerend"
+    },
+    {
+      "distance": 1492.8520111728294,
+      "source": "Utrecht Terwijde",
+      "target": "Utrecht Leidsche Rijn"
+    },
+    {
+      "distance": 2481.2725374451334,
+      "source": "Utrecht Terwijde",
+      "target": "Vleuten"
+    },
+    {
+      "distance": 8137.497673249626,
+      "source": "Vleuten",
+      "target": "Woerden"
+    },
+    {
+      "distance": 12948.05133259795,
+      "source": "Goor",
+      "target": "Lochem"
+    },
+    {
+      "distance": 4913.080572121908,
+      "source": "Haaksbergen",
+      "target": "Zoutindustrie"
+    },
+    {
+      "distance": 12860.108585309044,
+      "source": "Schagen",
+      "target": "Heerhugowaard"
+    },
+    {
+      "distance": 9184.566808020732,
+      "source": "Schagen",
+      "target": "Anna Paulowna"
+    },
+    {
+      "distance": 1156.8276348627205,
+      "source": "Bovenkarspel-Grootebroek",
+      "target": "Bovenkarspel Flora"
+    },
+    {
+      "distance": 3674.01669733665,
+      "source": "Bovenkarspel-Grootebroek",
+      "target": "Hoogkarspel"
+    },
+    {
+      "distance": 10500.973688743981,
+      "source": "Obdam",
+      "target": "Hoorn"
+    },
+    {
+      "distance": 5850.609565831981,
+      "source": "Obdam",
+      "target": "Heerhugowaard"
+    },
+    {
+      "distance": 2373.7314679883484,
+      "source": "Bovenkarspel Flora",
+      "target": "Enkhuizen"
+    },
+    {
+      "distance": 604.9036283032002,
+      "source": "Stadhuis",
+      "target": "Rotterdam Centraal"
+    },
+    {
+      "distance": 807.4579180408471,
+      "source": "Stadhuis",
+      "target": "Rotterdam Blaak"
+    },
+    {
+      "distance": 7443.855741503223,
+      "source": "Wierden",
+      "target": "Rijssen"
+    },
+    {
+      "distance": 4547.727646707078,
+      "source": "Wierden",
+      "target": "Vriezenveen"
+    },
+    {
+      "distance": 5325.161315642818,
+      "source": "Gramsbergen",
+      "target": "Hardenberg"
+    },
+    {
+      "distance": 7967.402863519291,
+      "source": "Twisk",
+      "target": "Wognum-Nibbixwoud"
+    },
+    {
+      "distance": 1130.9439859626348,
+      "source": "Twisk",
+      "target": "Opperdoes"
+    },
+    {
+      "distance": 8504.014532099964,
+      "source": "Lichtenvoorde-Groenlo",
+      "target": "Winterswijk West"
+    },
+    {
+      "distance": 12611.321967119586,
+      "source": "Lichtenvoorde-Groenlo",
+      "target": "Ruurlo"
+    },
+    {
+      "distance": 9987.280311767103,
+      "source": "Vorden",
+      "target": "Lochem"
+    },
+    {
+      "distance": 9384.641349105414,
+      "source": "Vorden",
+      "target": "Zutphen"
+    },
+    {
+      "distance": 9566.77470539189,
+      "source": "Vorden",
+      "target": "Ruurlo"
+    },
+    {
+      "distance": 9021.601645149054,
+      "source": "Purmerend Weidevenne",
+      "target": "Zaandam Kogerveld"
+    },
+    {
+      "distance": 1562.9296411321052,
+      "source": "Purmerend Weidevenne",
+      "target": "Purmerend"
+    },
+    {
+      "distance": 2009.434583154683,
+      "source": "Utrecht Lunetten",
+      "target": "Utrecht Vaartsche Rijn"
+    },
+    {
+      "distance": 3988.538525119869,
+      "source": "Utrecht Lunetten",
+      "target": "Houten"
+    },
+    {
+      "distance": 3620.239447587367,
+      "source": "Utrecht Lunetten",
+      "target": "Bunnik"
+    },
+    {
+      "distance": 2082.956925381487,
+      "source": "Utrecht Zuilen",
+      "target": "Utrecht Centraal"
+    },
+    {
+      "distance": 1718.9635203738806,
+      "source": "Utrecht Zuilen",
+      "target": "Utrecht Leidsche Rijn"
+    },
+    {
+      "distance": 8403.570239149813,
+      "source": "Utrecht Overvecht",
+      "target": "Hollandsche Rading"
+    },
+    {
+      "distance": 5848.650488941914,
+      "source": "Utrecht Overvecht",
+      "target": "Bilthoven"
+    },
+    {
+      "distance": 2552.0603488556303,
+      "source": "Utrecht Overvecht",
+      "target": "Utrecht Centraal"
+    },
+    {
+      "distance": 11554.656710280527,
+      "source": "Apeldoorn Osseveld",
+      "target": "Deventer"
+    },
+    {
+      "distance": 6935.285400361202,
+      "source": "Apeldoorn Osseveld",
+      "target": "Twello"
+    },
+    {
+      "distance": 1227.3137890603723,
+      "source": "Apeldoorn Osseveld",
+      "target": "Apeldoorn De Maten"
+    },
+    {
+      "distance": 7418.861252411647,
+      "source": "Putten",
+      "target": "Nijkerk"
+    },
+    {
+      "distance": 4755.403716915725,
+      "source": "Putten",
+      "target": "Ermelo"
+    },
+    {
+      "distance": 16507.822221525872,
+      "source": "Lelystad Centrum",
+      "target": "Almere Oostvaarders"
+    },
+    {
+      "distance": 17145.11173020203,
+      "source": "Lelystad Centrum",
+      "target": "Dronten"
+    },
+    {
+      "distance": 3209.585022212356,
+      "source": "Hilversum Media Park",
+      "target": "Bussum Zuid"
+    },
+    {
+      "distance": 1356.2670840574847,
+      "source": "Hilversum Media Park",
+      "target": "Hilversum"
+    },
+    {
+      "distance": 3772.8956677642523,
+      "source": "Almere Muziekwijk",
+      "target": "Almere Poort"
+    },
+    {
+      "distance": 2152.755002548678,
+      "source": "Almere Muziekwijk",
+      "target": "Almere Centrum"
+    },
+    {
+      "distance": 3520.5658074479793,
+      "source": "Veenendaal West",
+      "target": "Veenendaal-De Klomp"
+    },
+    {
+      "distance": 11743.510215939063,
+      "source": "Veenendaal West",
+      "target": "Maarn"
+    },
+    {
+      "distance": 1443.4309096575778,
+      "source": "Utrecht Vaartsche Rijn",
+      "target": "Utrecht Centraal"
+    },
+    {
+      "distance": 2706.518406639149,
+      "source": "Den Helder Zuid",
+      "target": "Den Helder"
+    },
+    {
+      "distance": 7894.159547847059,
+      "source": "Den Helder Zuid",
+      "target": "Anna Paulowna"
+    },
+    {
+      "distance": 5246.942017569602,
+      "source": "Nijkerk",
+      "target": "Amersfoort Vathorst"
+    },
+    {
+      "distance": 2794.7312019307315,
+      "source": "Den Dolder",
+      "target": "Bilthoven"
+    },
+    {
+      "distance": 1188.3018029232767,
+      "source": "Den Haag Ypenburg",
+      "target": "Leidschenveen"
+    },
+    {
+      "distance": 1877.201115386026,
+      "source": "Den Haag Ypenburg",
+      "target": "Nootdorp"
+    },
+    {
+      "distance": 5722.1116919425895,
+      "source": "Zaandam",
+      "target": "Amsterdam Sloterdijk"
+    },
+    {
+      "distance": 7384.9369766528225,
+      "source": "Zaandam",
+      "target": "Halfweg-Zwanenburg"
+    },
+    {
+      "distance": 2246.2950649716445,
+      "source": "Zaandam",
+      "target": "Koog aan de Zaan"
+    },
+    {
+      "distance": 926.0329638330298,
+      "source": "Koog aan de Zaan",
+      "target": "Zaandam Kogerveld"
+    },
+    {
+      "distance": 4141.806489183353,
+      "source": "Tilburg Universiteit",
+      "target": "Tilburg Reeshof"
+    },
+    {
+      "distance": 2284.9678396409104,
+      "source": "Tilburg Universiteit",
+      "target": "Tilburg"
+    },
+    {
+      "distance": 804.8245865630034,
+      "source": "Javalaan",
+      "target": "Oosterheem"
+    },
+    {
+      "distance": 1866.5354303762354,
+      "source": "Javalaan",
+      "target": "Lansingerland-Zoetermeer"
+    },
+    {
+      "distance": 958.9818193034338,
+      "source": "Javalaan",
+      "target": "Van Tuyllpark"
+    },
+    {
+      "distance": 8892.49291801426,
+      "source": "Javalaan",
+      "target": "Nesselande"
+    },
+    {
+      "distance": 6744.992569844442,
+      "source": "Mook-Molenhoek",
+      "target": "Nijmegen Heyendaal"
+    },
+    {
+      "distance": 4453.594011249539,
+      "source": "Mook-Molenhoek",
+      "target": "Cuijk"
+    },
+    {
+      "distance": 4680.141733627626,
+      "source": "Klarenbeek",
+      "target": "Voorst-Empe"
+    },
+    {
+      "distance": 4425.305211150409,
+      "source": "Driebergen-Zeist",
+      "target": "Bunnik"
+    },
+    {
+      "distance": 7573.6611852159895,
+      "source": "Driebergen-Zeist",
+      "target": "Maarn"
+    },
+    {
+      "distance": 2377.6130661912334,
+      "source": "Barneveld Centrum",
+      "target": "Barneveld Noord"
+    },
+    {
+      "distance": 1652.0065688234147,
+      "source": "Barneveld Centrum",
+      "target": "Barneveld Zuid"
+    },
+    {
+      "distance": 2969.199025313113,
+      "source": "Baarn",
+      "target": "Soestdijk"
+    },
+    {
+      "distance": 2796.9089125169057,
+      "source": "Tiel",
+      "target": "Tiel Passewaaij"
+    },
+    {
+      "distance": 1089.242131171265,
+      "source": "Rotterdam Centraal",
+      "target": "Blijdorp"
+    },
+    {
+      "distance": 4307.447430659991,
+      "source": "Zevenaar",
+      "target": "Didam"
+    },
+    {
+      "distance": 4553.244652352494,
+      "source": "Zevenaar",
+      "target": "Duiven"
+    },
+    {
+      "distance": 3792.9376078773807,
+      "source": "Duiven",
+      "target": "Westervoort"
+    },
+    {
+      "distance": 12677.844243827229,
+      "source": "Dieren",
+      "target": "Zutphen"
+    },
+    {
+      "distance": 6869.292854138147,
+      "source": "Dieren",
+      "target": "Eerbeek"
+    },
+    {
+      "distance": 1040.0875230164556,
+      "source": "Winterswijk",
+      "target": "Winterswijk West"
+    },
+    {
+      "distance": 1840.75128973689,
+      "source": "Hengelo Gezondheidspark",
+      "target": "Hengelo"
+    },
+    {
+      "distance": 4318.418183772547,
+      "source": "Hengelo Gezondheidspark",
+      "target": "Borne"
+    },
+    {
+      "distance": 3806.028094970002,
+      "source": "Deventer",
+      "target": "Deventer Colmschate"
+    },
+    {
+      "distance": 4634.134360660436,
+      "source": "Deventer",
+      "target": "Twello"
+    },
+    {
+      "distance": 3894.118306116791,
+      "source": "Loenen",
+      "target": "Eerbeek"
+    },
+    {
+      "distance": 4487.531490350884,
+      "source": "Loenen",
+      "target": "Beekbergen"
+    },
+    {
+      "distance": 1582.817591307964,
+      "source": "Enschede De Eschmarke",
+      "target": "Glanerbrug"
+    },
+    {
+      "distance": 4217.205939512767,
+      "source": "Enschede De Eschmarke",
+      "target": "Enschede"
+    },
+    {
+      "distance": 13915.199930964702,
+      "source": "Beilen",
+      "target": "Hoogeveen"
+    },
+    {
+      "distance": 15633.278939424468,
+      "source": "Beilen",
+      "target": "Assen"
+    },
+    {
+      "distance": 3732.7101273595927,
+      "source": "Voorst-Empe",
+      "target": "Zutphen"
+    },
+    {
+      "distance": 1604.9629028379936,
+      "source": "Arnhem Velperpoort",
+      "target": "Arnhem Presikhaaf"
+    },
+    {
+      "distance": 10202.923197670707,
+      "source": "Groningen Noord",
+      "target": "Zuidhorn"
+    },
+    {
+      "distance": 2195.5320918107473,
+      "source": "Groningen Noord",
+      "target": "Groningen"
+    },
+    {
+      "distance": 7636.768741965529,
+      "source": "Gouda",
+      "target": "Bodegraven"
+    },
+    {
+      "distance": 12341.800175054092,
+      "source": "Steenwijk",
+      "target": "Meppel"
+    },
+    {
+      "distance": 12445.58422709683,
+      "source": "Steenwijk",
+      "target": "Wolvega"
+    },
+    {
+      "distance": 4549.559367659695,
+      "source": "Warffum",
+      "target": "Baflo"
+    },
+    {
+      "distance": 5124.177537960232,
+      "source": "Apeldoorn De Maten",
+      "target": "Beekbergen"
+    },
+    {
+      "distance": 1676.4898044297352,
+      "source": "Heerlen",
+      "target": "Heerlen Woonboulevard"
+    },
+    {
+      "distance": 3198.7554675378155,
+      "source": "Heerlen",
+      "target": "Landgraaf"
+    },
+    {
+      "distance": 4100.928922721134,
+      "source": "Ermelo",
+      "target": "Harderwijk"
+    },
+    {
+      "distance": 6377.422860707442,
+      "source": "Roodeschool",
+      "target": "Eemshaven"
+    },
+    {
+      "distance": 6411.209501289418,
+      "source": "Hoogezand-Sappemeer",
+      "target": "Zuidbroek"
+    },
+    {
+      "distance": 2037.119808812228,
+      "source": "Hoogezand-Sappemeer",
+      "target": "Martenshoek"
+    },
+    {
+      "distance": 6680.476131213086,
+      "source": "Terborg",
+      "target": "Varsseveld"
+    },
+    {
+      "distance": 4164.959520237186,
+      "source": "Beverwijk",
+      "target": "Driehuis"
+    },
+    {
+      "distance": 8440.425233773893,
+      "source": "Harlingen",
+      "target": "Franeker"
+    },
+    {
+      "distance": 20561.90975013577,
+      "source": "Haren",
+      "target": "Assen"
+    },
+    {
+      "distance": 7165.70375964154,
+      "source": "Haren",
+      "target": "Kropswolde"
+    },
+    {
+      "distance": 7921.608514574532,
+      "source": "Hardenberg",
+      "target": "Mari\u00ebnberg"
+    },
+    {
+      "distance": 3853.5846565710553,
+      "source": "Koudum-Molkwerum",
+      "target": "Stavoren"
+    },
+    {
+      "distance": 6719.035495607232,
+      "source": "Heiloo",
+      "target": "Castricum"
+    },
+    {
+      "distance": 7468.2259324680435,
+      "source": "Scheemda",
+      "target": "Zuidbroek"
+    },
+    {
+      "distance": 4840.640898104017,
+      "source": "Scheemda",
+      "target": "Winschoten"
+    },
+    {
+      "distance": 12142.722169962819,
+      "source": "Bad Nieuweschans",
+      "target": "Winschoten"
+    },
+    {
+      "distance": 4938.988539552058,
+      "source": "Grou-Jirnsum",
+      "target": "Akkrum"
+    },
+    {
+      "distance": 6414.331829810886,
+      "source": "Hurdegaryp",
+      "target": "Leeuwarden Camminghaburen"
+    },
+    {
+      "distance": 4108.762747958508,
+      "source": "Hurdegaryp",
+      "target": "Feanw\u00e2lden"
+    },
+    {
+      "distance": 4412.626312479759,
+      "source": "Wognum-Nibbixwoud",
+      "target": "Hoorn"
+    },
+    {
+      "distance": 10531.578298612092,
+      "source": "Mantgum",
+      "target": "Sneek Noord"
+    },
+    {
+      "distance": 6607.437585203536,
+      "source": "Ravenstein",
+      "target": "Wijchen"
+    },
+    {
+      "distance": 18334.128132542268,
+      "source": "Grijpskerk",
+      "target": "De Westereen"
+    },
+    {
+      "distance": 1645.1768104421585,
+      "source": "Maastricht",
+      "target": "Maastricht Randwyck"
+    },
+    {
+      "distance": 2422.915150482094,
+      "source": "Maastricht",
+      "target": "Maastricht Noord"
+    },
+    {
+      "distance": 7315.730703864817,
+      "source": "Maastricht Randwyck",
+      "target": "Eijsden"
+    },
+    {
+      "distance": 7788.464051145017,
+      "source": "Hoorn Kersenboogerd",
+      "target": "Hoogkarspel"
+    },
+    {
+      "distance": 2244.562506357854,
+      "source": "Hoorn Kersenboogerd",
+      "target": "Hoorn"
+    },
+    {
+      "distance": 11854.427838653126,
+      "source": "Zutphen",
+      "target": "Deventer Colmschate"
+    },
+    {
+      "distance": 1687.1378008295553,
+      "source": "Bussum Zuid",
+      "target": "Naarden-Bussum"
+    },
+    {
+      "distance": 3626.183824885143,
+      "source": "Workum",
+      "target": "Hindeloopen"
+    },
+    {
+      "distance": 11723.578623718033,
+      "source": "Workum",
+      "target": "IJlst"
+    },
+    {
+      "distance": 6669.1285683316355,
+      "source": "Stedum",
+      "target": "Bedum"
+    },
+    {
+      "distance": 3282.1570575988976,
+      "source": "Arnhem Presikhaaf",
+      "target": "Westervoort"
+    },
+    {
+      "distance": 2741.7636973004855,
+      "source": "Arnhem Presikhaaf",
+      "target": "Velp"
+    },
+    {
+      "distance": 4666.534929906325,
+      "source": "Wijchen",
+      "target": "Nijmegen Dukenburg"
+    },
+    {
+      "distance": 7384.319080052563,
+      "source": "Borne",
+      "target": "Almelo de Riet"
+    },
+    {
+      "distance": 1178.6949770832919,
+      "source": "Martenshoek",
+      "target": "Kropswolde"
+    },
+    {
+      "distance": 21951.97077342847,
+      "source": "Dalfsen",
+      "target": "Meppel"
+    },
+    {
+      "distance": 19154.773364238416,
+      "source": "Meppel",
+      "target": "Hoogeveen"
+    },
+    {
+      "distance": 3390.900633273263,
+      "source": "Feanw\u00e2lden",
+      "target": "De Westereen"
+    },
+    {
+      "distance": 5762.920307429406,
+      "source": "Vroomshoop",
+      "target": "Mari\u00ebnberg"
+    },
+    {
+      "distance": 8455.548468684965,
+      "source": "Aalten",
+      "target": "Varsseveld"
+    },
+    {
+      "distance": 10457.305423730022,
+      "source": "Aalten",
+      "target": "Winterswijk West"
+    },
+    {
+      "distance": 3865.5514840883,
+      "source": "Enschede Kennispark",
+      "target": "Enschede"
+    },
+    {
+      "distance": 6565.666643535031,
+      "source": "Sittard",
+      "target": "Susteren"
+    },
+    {
+      "distance": 4041.468302323785,
+      "source": "Sittard",
+      "target": "Geleen Oost"
+    },
+    {
+      "distance": 3826.094032750668,
+      "source": "Sittard",
+      "target": "Geleen-Lutterade"
+    },
+    {
+      "distance": 1129.762465990249,
+      "source": "Delfzijl West",
+      "target": "Delfzijl"
+    },
+    {
+      "distance": 3078.7215982407697,
+      "source": "Delfzijl West",
+      "target": "Appingedam"
+    },
+    {
+      "distance": 8677.15803277514,
+      "source": "Oisterwijk",
+      "target": "Boxtel"
+    },
+    {
+      "distance": 7999.54053468269,
+      "source": "Oisterwijk",
+      "target": "Tilburg"
+    },
+    {
+      "distance": 2024.549394574561,
+      "source": "Dordrecht",
+      "target": "Zwijndrecht"
+    },
+    {
+      "distance": 3399.4515935375675,
+      "source": "Dordrecht",
+      "target": "Dordrecht Stadspolders"
+    },
+    {
+      "distance": 1949.6665922269142,
+      "source": "Dordrecht",
+      "target": "Dordrecht Zuid"
+    },
+    {
+      "distance": 597.3478981950337,
+      "source": "Amsterdam Lelylaan",
+      "target": "Heemstedestraat"
+    },
+    {
+      "distance": 2897.2739174164667,
+      "source": "Hoogvliet",
+      "target": "Pernis"
+    },
+    {
+      "distance": 768.3104136653106,
+      "source": "Diemen Zuid",
+      "target": "Venserpolder"
+    },
+    {
+      "distance": 765.2317879697292,
+      "source": "Forepark",
+      "target": "Leidschenveen"
+    },
+    {
+      "distance": 2148.834952987548,
+      "source": "Leidschenveen",
+      "target": "Nootdorp"
+    },
+    {
+      "distance": 580.3967939940964,
+      "source": "Den Haag Laan van NOI",
+      "target": "Beatrixkwartier"
+    },
+    {
+      "distance": 1557.1659831688362,
+      "source": "Den Haag Laan van NOI",
+      "target": "Voorburg 't Loo"
+    },
+    {
+      "distance": 779.9021108296295,
+      "source": "Willem Dreeslaan",
+      "target": "Oosterheem"
+    },
+    {
+      "distance": 1605.234010253748,
+      "source": "Geleen-Lutterade",
+      "target": "Geleen Oost"
+    },
+    {
+      "distance": 7115.701344135941,
+      "source": "Leerdam",
+      "target": "Beesd"
+    },
+    {
+      "distance": 7327.654121239285,
+      "source": "Leerdam",
+      "target": "Arkel"
+    },
+    {
+      "distance": 1020.7185650404754,
+      "source": "Schiedam Centrum",
+      "target": "Parkweg"
+    },
+    {
+      "distance": 4938.015562420474,
+      "source": "Gilze-Rijen",
+      "target": "Tilburg Reeshof"
+    },
+    {
+      "distance": 10070.173487563956,
+      "source": "Gilze-Rijen",
+      "target": "Breda"
+    },
+    {
+      "distance": 6103.302211814756,
+      "source": "Nijmegen Lent",
+      "target": "Elst"
+    },
+    {
+      "distance": 8535.342043083827,
+      "source": "'t Harde",
+      "target": "Nunspeet"
+    },
+    {
+      "distance": 1607.3342413231599,
+      "source": "Capelle Schollevaar",
+      "target": "Ambachtsland"
+    },
+    {
+      "distance": 2574.402225856624,
+      "source": "Capelle Schollevaar",
+      "target": "Nieuwerkerk aan den IJssel"
+    },
+    {
+      "distance": 2299.1045169921404,
+      "source": "Vlissingen",
+      "target": "Vlissingen Souburg"
+    },
+    {
+      "distance": 12351.664307050363,
+      "source": "Roosendaal",
+      "target": "Bergen op Zoom"
+    },
+    {
+      "distance": 7419.701577193139,
+      "source": "Roosendaal",
+      "target": "Oudenbosch"
+    },
+    {
+      "distance": 19628.38629980102,
+      "source": "Roosendaal",
+      "target": "Breda-Prinsenbeek"
+    },
+    {
+      "distance": 12941.169292769482,
+      "source": "Roosendaal",
+      "target": "Etten-Leur"
+    },
+    {
+      "distance": 3638.557049589661,
+      "source": "Arnemuiden",
+      "target": "Middelburg"
+    },
+    {
+      "distance": 14818.388370926754,
+      "source": "Arnemuiden",
+      "target": "Goes (SGB)"
+    },
+    {
+      "distance": 5886.053062561911,
+      "source": "Kapelle-Biezelinge",
+      "target": "Kruiningen-Yerseke"
+    },
+    {
+      "distance": 5065.912021078021,
+      "source": "Kapelle-Biezelinge",
+      "target": "Goes"
+    },
+    {
+      "distance": 12370.311323160857,
+      "source": "Rilland-Bath",
+      "target": "Bergen op Zoom"
+    },
+    {
+      "distance": 9778.3292025453,
+      "source": "Rilland-Bath",
+      "target": "Kruiningen-Yerseke"
+    },
+    {
+      "distance": 26562.58740158608,
+      "source": "Nunspeet",
+      "target": "Barneveld Noord"
+    },
+    {
+      "distance": 11789.876514886226,
+      "source": "Nunspeet",
+      "target": "Harderwijk"
+    },
+    {
+      "distance": 13009.47812860492,
+      "source": "Dronten",
+      "target": "Kampen Zuid"
+    },
+    {
+      "distance": 6222.995542442781,
+      "source": "Helmond Brouwhuis",
+      "target": "Deurne"
+    },
+    {
+      "distance": 9365.645378520532,
+      "source": "Elst",
+      "target": "Westervoort"
+    },
+    {
+      "distance": 4227.390919278834,
+      "source": "Breda",
+      "target": "Breda-Prinsenbeek"
+    },
+    {
+      "distance": 3518.1089541156493,
+      "source": "Wolfheze",
+      "target": "Oosterbeek"
+    },
+    {
+      "distance": 8472.92117678537,
+      "source": "Wolfheze",
+      "target": "Ede-Wageningen"
+    },
+    {
+      "distance": 3447.1053037608317,
+      "source": "Winsum",
+      "target": "Baflo"
+    },
+    {
+      "distance": 3068.1059968793115,
+      "source": "Uithuizermeeden",
+      "target": "Uithuizen"
+    },
+    {
+      "distance": 3887.6081492227872,
+      "source": "Meerzicht",
+      "target": "Nootdorp"
+    },
+    {
+      "distance": 4870.904380965532,
+      "source": "Amersfoort Centraal",
+      "target": "Soest"
+    },
+    {
+      "distance": 6072.5528907579965,
+      "source": "Amersfoort Centraal",
+      "target": "Soestdijk"
+    },
+    {
+      "distance": 3096.260081038063,
+      "source": "Rotterdam Lombardijen",
+      "target": "Rotterdam Zuid"
+    },
+    {
+      "distance": 3727.662033223562,
+      "source": "Rotterdam Lombardijen",
+      "target": "Slinge"
+    },
+    {
+      "distance": 3492.4109807945974,
+      "source": "Dordrecht Zuid",
+      "target": "Zwijndrecht"
+    },
+    {
+      "distance": 2586.139698015896,
+      "source": "Sliedrecht",
+      "target": "Hardinxveld Blauwe Zoom"
+    },
+    {
+      "distance": 1370.6044406768672,
+      "source": "Hardinxveld-Giessendam",
+      "target": "Hardinxveld Blauwe Zoom"
+    },
+    {
+      "distance": 2967.785805670579,
+      "source": "Hardinxveld-Giessendam",
+      "target": "Boven Hardinxveld"
+    },
+    {
+      "distance": 4364.582559508414,
+      "source": "Slinge",
+      "target": "Rhoon"
+    },
+    {
+      "distance": 4105.632162037188,
+      "source": "Slinge",
+      "target": "Coolhaven"
+    },
+    {
+      "distance": 1657.8317285899873,
+      "source": "Poortugaal",
+      "target": "Rhoon"
+    },
+    {
+      "distance": 2757.6037982231906,
+      "source": "Poortugaal",
+      "target": "Pernis"
+    },
+    {
+      "distance": 3871.3888998060256,
+      "source": "Rhoon",
+      "target": "Pernis"
+    },
+    {
+      "distance": 2777.041576965863,
+      "source": "Pernis",
+      "target": "Vijfsluizen"
+    },
+    {
+      "distance": 2469.5990319895695,
+      "source": "Rotterdam Noord",
+      "target": "Gerdesiaweg"
+    },
+    {
+      "distance": 1354.7945313063665,
+      "source": "Rotterdam Noord",
+      "target": "Melanchthonweg"
+    },
+    {
+      "distance": 4227.085419740451,
+      "source": "Binnenhof",
+      "target": "Voorschoterlaan"
+    },
+    {
+      "distance": 4344.589533829291,
+      "source": "Binnenhof",
+      "target": "Gerdesiaweg"
+    },
+    {
+      "distance": 1493.4316845443489,
+      "source": "Binnenhof",
+      "target": "Alexander"
+    },
+    {
+      "distance": 1676.2036392925702,
+      "source": "Helmond Brandevoort",
+      "target": "Helmond 't Hout"
+    },
+    {
+      "distance": 6216.01584187056,
+      "source": "Helmond Brandevoort",
+      "target": "Geldrop"
+    },
+    {
+      "distance": 1690.6427467919002,
+      "source": "Schin op Geul",
+      "target": "Klimmen-Ransdaal"
+    },
+    {
+      "distance": 3114.7012726683392,
+      "source": "Schin op Geul",
+      "target": "Valkenburg"
+    },
+    {
+      "distance": 8296.534181825573,
+      "source": "Steendijkpolder",
+      "target": "Hoek van Holland Haven"
+    },
+    {
+      "distance": 1026.5406149329192,
+      "source": "Steendijkpolder",
+      "target": "Maassluis West"
+    },
+    {
+      "distance": 5524.591199357976,
+      "source": "Geldrop",
+      "target": "Eindhoven Centraal"
+    },
+    {
+      "distance": 3755.1000569561347,
+      "source": "Middelburg",
+      "target": "Vlissingen Souburg"
+    },
+    {
+      "distance": 472.4404281036372,
+      "source": "Goes",
+      "target": "Goes (SGB)"
+    },
+    {
+      "distance": 2249.545079669576,
+      "source": "Baarland",
+      "target": "Hoedekenskerke"
+    },
+    {
+      "distance": 6795.122668110491,
+      "source": "Etten-Leur",
+      "target": "Breda-Prinsenbeek"
+    },
+    {
+      "distance": 2726.912301856731,
+      "source": "Kwadendamme",
+      "target": "Pluimweide"
+    },
+    {
+      "distance": 1578.9452335954022,
+      "source": "Kwadendamme",
+      "target": "Nisse"
+    },
+    {
+      "distance": 1243.1238574373915,
+      "source": "'s-Gravenpolder-'s-Heer Abtskerke",
+      "target": "Nisse"
+    },
+    {
+      "distance": 120.69149351485329,
+      "source": "Hoedekenskerke",
+      "target": "Pluimweide"
+    },
+    {
+      "distance": 10629.925990637652,
+      "source": "Oosterheem",
+      "target": "Alphen aan den Rijn"
+    },
+    {
+      "distance": 2592.4461258470265,
+      "source": "Houthem-Sint Gerlach",
+      "target": "Valkenburg"
+    },
+    {
+      "distance": 2829.2564213921037,
+      "source": "Blijdorp",
+      "target": "Meijersplein / Airport"
+    },
+    {
+      "distance": 2035.8931143408295,
+      "source": "Blijdorp",
+      "target": "Melanchthonweg"
+    },
+    {
+      "distance": 10343.454868349143,
+      "source": "Sassenheim",
+      "target": "Hillegom"
+    },
+    {
+      "distance": 2514.914265309023,
+      "source": "Sassenheim",
+      "target": "Voorhout"
+    },
+    {
+      "distance": 3513.1812959824583,
+      "source": "Overveen",
+      "target": "Heemstede-Aerdenhout"
+    },
+    {
+      "distance": 2186.9378350837633,
+      "source": "Overveen",
+      "target": "Haarlem"
+    },
+    {
+      "distance": 10032.780799997969,
+      "source": "Woerden",
+      "target": "Bodegraven"
+    },
+    {
+      "distance": 7783.26605728232,
+      "source": "Bodegraven",
+      "target": "Alphen aan den Rijn"
+    },
+    {
+      "distance": 7806.3157374007715,
+      "source": "Culemborg",
+      "target": "Geldermalsen"
+    },
+    {
+      "distance": 4996.054561892437,
+      "source": "Barneveld Zuid",
+      "target": "Lunteren"
+    },
+    {
+      "distance": 8350.720368586517,
+      "source": "Tiel Passewaaij",
+      "target": "Geldermalsen"
+    },
+    {
+      "distance": 8336.24326366718,
+      "source": "Zaltbommel",
+      "target": "Geldermalsen"
+    },
+    {
+      "distance": 13216.59604645362,
+      "source": "Zaltbommel",
+      "target": "'s-Hertogenbosch"
+    },
+    {
+      "distance": 5532.467701905394,
+      "source": "Geldermalsen",
+      "target": "Beesd"
+    },
+    {
+      "distance": 14309.843872703097,
+      "source": "Arkel",
+      "target": "Beesd"
+    },
+    {
+      "distance": 7970.414705376991,
+      "source": "Zevenbergen",
+      "target": "Oudenbosch"
+    },
+    {
+      "distance": 3883.843435028302,
+      "source": "'s-Hertogenbosch",
+      "target": "Vught"
+    },
+    {
+      "distance": 1982.1888971895419,
+      "source": "Nijmegen Dukenburg",
+      "target": "Nijmegen Goffert"
+    },
+    {
+      "distance": 8135.317035622566,
+      "source": "Boxtel",
+      "target": "Vught"
+    },
+    {
+      "distance": 1768.6624410619247,
+      "source": "Eindhoven Strijp-S",
+      "target": "Eindhoven Centraal"
+    },
+    {
+      "distance": 4453.022231939504,
+      "source": "Vlaardingen West",
+      "target": "Maassluis Centrum"
+    },
+    {
+      "distance": 1976.2287685182737,
+      "source": "Vlaardingen West",
+      "target": "Vlaardingen Centrum"
+    },
+    {
+      "distance": 1454.8493670176379,
+      "source": "Vlaardingen Centrum",
+      "target": "Vlaardingen Oost"
+    },
+    {
+      "distance": 1655.57151742026,
+      "source": "Maassluis Centrum",
+      "target": "Maassluis West"
+    },
+    {
+      "distance": 742.845708518043,
+      "source": "Schiedam Nieuwland",
+      "target": "Parkweg"
+    },
+    {
+      "distance": 506.0649792333558,
+      "source": "Gerdesiaweg",
+      "target": "Voorschoterlaan"
+    },
+    {
+      "distance": 9626.610942715168,
+      "source": "Hoevelaken",
+      "target": "Barneveld Noord"
+    },
+    {
+      "distance": 2658.2282522379346,
+      "source": "Maastricht Noord",
+      "target": "Meerssen"
+    },
+    {
+      "distance": 39.7580385642403,
+      "source": "Centraal Station",
+      "target": "Amsterdam Centraal"
+    },
+    {
+      "distance": 1398.2404902385815,
+      "source": "Beatrixkwartier",
+      "target": "Den Haag HS"
+    },
+    {
+      "distance": 2431.525503039732,
+      "source": "Veendam",
+      "target": "Wildervank"
+    },
+    {
+      "distance": 6286.959362070596,
+      "source": "Veendam",
+      "target": "Zuidbroek"
+    },
+    {
+      "distance": 8377.080847185807,
+      "source": "Lansingerland-Zoetermeer",
+      "target": "Rodenrijs"
+    },
+    {
+      "distance": 912.3116613488786,
+      "source": "Lansingerland-Zoetermeer",
+      "target": "Van Tuyllpark"
+    },
+    {
+      "distance": 1068.153104345586,
+      "source": "Driehuis",
+      "target": "Santpoort Noord"
+    },
+    {
+      "distance": 5360.518878554677,
+      "source": "Boskoop",
+      "target": "Alphen aan den Rijn"
+    },
+    {
+      "distance": 2499.1061239395453,
+      "source": "Simpelveld",
+      "target": "Bocholtz"
+    },
+    {
+      "distance": 5897.7522565076315,
+      "source": "Bocholtz",
+      "target": "Kerkrade ZLSM"
+    },
+    {
+      "distance": 3081.5163372407,
+      "source": "Nuth",
+      "target": "Hoensbroek"
+    },
+    {
+      "distance": 6303.666630509892,
+      "source": "Nuth",
+      "target": "Geleen Oost"
+    },
+    {
+      "distance": 2214.3564521696976,
+      "source": "Eygelshoven Markt",
+      "target": "Chevremont"
+    },
+    {
+      "distance": 2681.617365329183,
+      "source": "Eygelshoven Markt",
+      "target": "Landgraaf"
+    },
+    {
+      "distance": 1956.6401902319406,
+      "source": "Landgraaf",
+      "target": "Eygelshoven"
+    },
+    {
+      "distance": 1901.2657637737902,
+      "source": "Hoensbroek",
+      "target": "Heerlen Woonboulevard"
+    },
+    {
+      "distance": 1943.5494171131995,
+      "source": "Voerendaal",
+      "target": "Heerlen Woonboulevard"
+    },
+    {
+      "distance": 3587.813728252651,
+      "source": "Voerendaal",
+      "target": "Klimmen-Ransdaal"
+    },
+    {
+      "distance": 17888.53861331439,
+      "source": "Tilburg",
+      "target": "Vught"
+    },
+    {
+      "distance": 1901.3265642345655,
+      "source": "Hoek van Holland Haven",
+      "target": "Hoek van Holland Strand"
+    },
+    {
+      "distance": 1082.8471027248895,
+      "source": "Amstelveenseweg",
+      "target": "Amsterdam Zuid"
+    },
+    {
+      "distance": 6858.534437039818,
+      "source": "Hillegom",
+      "target": "Heemstede-Aerdenhout"
+    },
+    {
+      "distance": 50.75718674987995,
+      "source": "Alexander",
+      "target": "Rotterdam Alexander"
+    },
+    {
+      "distance": 1984.5481420819513,
+      "source": "Rotterdam Alexander",
+      "target": "Ambachtsland"
+    },
+    {
+      "distance": 1800.1088128652132,
+      "source": "Zoutindustrie",
+      "target": "Boekelo"
+    },
+    {
+      "distance": 2169.6551504026347,
+      "source": "Meijersplein / Airport",
+      "target": "Rodenrijs"
+    },
+    {
+      "distance": 3636.4588203632406,
+      "source": "Wildervank",
+      "target": "Bareveld"
+    }
+  ]
+}
