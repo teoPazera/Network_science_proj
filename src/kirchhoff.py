@@ -13,7 +13,7 @@ def normalized_kirchhoff_index(G: nx.Graph) -> float:
     eigenvalues = np.linalg.eigvalsh(L)
 
     eigenvalues = np.sort(eigenvalues)
-    nonzero_eigenvalues = eigenvalues[eigenvalues != 0]
+    nonzero_eigenvalues = eigenvalues[1:]
 
     n = G.number_of_nodes()
     return (2 / (n - 1)) * np.sum(1.0 / nonzero_eigenvalues)
