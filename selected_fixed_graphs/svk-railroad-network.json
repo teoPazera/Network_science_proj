@@ -5101,6 +5101,11 @@
       "target": "Haniska pri Ko\u0161iciach"
     },
     {
+      "distance": 7603.910274016592,
+      "source": "Ve\u013ek\u00e1 Ida",
+      "target": "\u010ce\u010dejovce"
+    },
+    {
       "distance": 8865.399177280548,
       "source": "Vl\u00e1rsk\u00fd pr\u016fsmyk",
       "target": "Nem\u0161ov\u00e1"
@@ -5284,6 +5289,11 @@
       "distance": 11122.683369247128,
       "source": "Dunajsk\u00e1 Streda",
       "target": "Doln\u00fd \u0160t\u00e1l"
+    },
+    {
+      "distance": 6324.1711688614305,
+      "source": "Dunajsk\u00e1 Streda",
+      "target": "Orechov\u00e1 Pot\u00f4\u0148"
     },
     {
       "distance": 7588.680905269516,
