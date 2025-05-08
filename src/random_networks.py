@@ -1,6 +1,7 @@
 import math
 from multiprocessing import Pool
 import random
+import time
 import sqlite3
 from geopy.distance import geodesic
 import networkx as nx
@@ -8,7 +9,7 @@ import numpy as np
 from src.util import graph_from_geojson, largest_connected_component
 
 
-db_name = "src/random_networks_data/random_networks.sqlite"
+db_name = "src/random_networks_data/networks.sqlite"
 
 def normalized_kirchhoff_index(G: nx.Graph) -> float:
     if not nx.is_connected(G):
@@ -25,66 +26,66 @@ def normalized_kirchhoff_index(G: nx.Graph) -> float:
 
 
 def connected_double_edge_swap_distance(G: nx.Graph, nswap: int) -> int:
-        def edge_length(G, u, v):
-            point_u = G.nodes[u]['geometry']
-            point_v = G.nodes[v]['geometry']
-            coords_u = point_u.coords[0]
-            coords_v = point_v.coords[0]
-            latlon_u = (coords_u[1], coords_u[0])
-            latlon_v = (coords_v[1], coords_v[0])
-            return geodesic(latlon_u, latlon_v).meters
+    def edge_length(G, u, v):
+        point_u = G.nodes[u]['geometry']
+        point_v = G.nodes[v]['geometry']
+        coords_u = point_u.coords[0]
+        coords_v = point_v.coords[0]
+        latlon_u = (coords_u[1], coords_u[0])
+        latlon_v = (coords_v[1], coords_v[0])
+        return geodesic(latlon_u, latlon_v).meters
 
-        def is_almost_square(G, a, b, c, d, rel_tol):
-            ab = G[a][b]["distance"]
-            cd = G[c][d]["distance"]
-            ad = edge_length(G, a, d)
-            bc = edge_length(G, b, c)
-            
-            return (
-                math.isclose(ab, cd, rel_tol=rel_tol) and
-                math.isclose(ad, bc, rel_tol=rel_tol) and
-                math.isclose(ab, ad, rel_tol=rel_tol)
-            )
-
-        def sample_almost_square(G, max_tries=1000, rel_tol=0.5):
-            edges = list(G.edges())
-            for _ in range(max_tries):
-                (a, b), (c, d) = random.sample(edges, 2)
-                if len({a, b, c, d}) < 4:
-                    continue
-                if is_almost_square(G, a, b, c, d, rel_tol):
-                    return (a, b, c, d)
-            return None
+    def is_almost_square(G, a, b, c, d, rel_tol):
+        ab = G[a][b]["distance"]
+        cd = G[c][d]["distance"]
+        ad = edge_length(G, a, d)
+        bc = edge_length(G, b, c)
         
-        swaps = 0
-        for _ in range(nswap):
-            square = sample_almost_square(G)
-            if not square:
+        return (
+            math.isclose(ab, cd, rel_tol=rel_tol) and
+            math.isclose(ad, bc, rel_tol=rel_tol) and
+            math.isclose(ab, ad, rel_tol=rel_tol)
+        )
+
+    def sample_almost_square(G, max_tries=1000, rel_tol=0.5):
+        edges = list(G.edges())
+        for _ in range(max_tries):
+            (a, b), (c, d) = random.sample(edges, 2)
+            if len({a, b, c, d}) < 4:
                 continue
+            if is_almost_square(G, a, b, c, d, rel_tol):
+                return (a, b, c, d)
+        return None
+    
+    swaps = 0
+    for _ in range(nswap):
+        square = sample_almost_square(G)
+        if not square:
+            continue
 
-            a, b, c, d = square
-            G_tmp = G.copy()
-            G_tmp.remove_edge(a, b)
-            G_tmp.remove_edge(c, d)
-            G_tmp.add_edge(a, d)
-            G_tmp.add_edge(b, c)
+        a, b, c, d = square
+        G_tmp = G.copy()
+        G_tmp.remove_edge(a, b)
+        G_tmp.remove_edge(c, d)
+        G_tmp.add_edge(a, d)
+        G_tmp.add_edge(b, c)
 
-            if nx.is_connected(G_tmp):
-                G.remove_edge(a, b)
-                G.remove_edge(c, d)
-                G.add_edge(a, d)
-                G.add_edge(b, c)
-            else:
-                continue
+        if nx.is_connected(G_tmp):
+            G.remove_edge(a, b)
+            G.remove_edge(c, d)
+            G.add_edge(a, d)
+            G.add_edge(b, c)
+        else:
+            continue
 
-            for u, v in zip([a, b], [d, c]):
-                G[u][v]['distance'] = edge_length(G, u, v)
+        for u, v in zip([a, b], [d, c]):
+            G[u][v]['distance'] = edge_length(G, u, v)
 
-            swaps += 1
-        return swaps
+        swaps += 1
+    return swaps
 
 
-def generate_random_graphs(country, n = 200, nswap=100):
+def generate_random_graphs(country, n=1000, nswap=100) -> None:
     G = largest_connected_component(graph_from_geojson(f"selected_fixed_graphs/{country}-railroad-network.json"))
     with sqlite3.connect(db_name) as conn:
         for i in range(n):
@@ -106,10 +107,12 @@ def generate_random_graphs(country, n = 200, nswap=100):
 
 
 def main() -> None:
-    countries = ["svk"] * 5 + ["cze"] * 5
-    with Pool(processes=10) as pool:
-        pool.map(generate_random_graphs, countries)
-  
+    start = time.time()
+    country = "cze"
+    processes = 10
+    with Pool(processes=processes) as pool:
+        pool.map(generate_random_graphs, [country] * processes)
+    print(time.time() - start)
 
 if __name__ == "__main__":
     main()
