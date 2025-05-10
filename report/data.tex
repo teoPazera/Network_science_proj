@@ -6,7 +6,7 @@
 
 Pre každú krajinu sme získali dva typy súborov. Prvý typ obsahoval údaje o jednotlivých staniciach v danej krajine, teda názvy staníc a ich zemepisné šírky a dĺžky. Druhý typ obsahoval údaje o prepojeniach medzi stanicami, teda dvojice bodov vyjadrené pomocou zemepisných šírok a dĺžok.
 
-Bohužiaľ, tieto typy údajov nebolo možné priamo namapovať na seba kvôli nekonzistenciám v údajoch. Preto sme použili heuristický prístup, pri ktorom sme pre každé spojenie určili začiatočnú a konečnú stanicu ako tie stanice z datasetu, ktoré sú najbližšie k začiatočnému a konečnému bodu spojenia. Týmto spôsobom sa nám podarilo vytvoriť graf reprezentujúci železničné siete pomocou knižnice NetworkX. Následne, pre doplnenie údajov, sme do grafu pridali váhy hrán reprezentujúce vzdušnú vzdialenosť medzi stanicami, keďže naše údaje neposkytovali presné vzdialenosti medzi prepojenými stanicami.
+Bohužiaľ, tieto typy údajov nebolo možné priamo namapovať na seba kvôli nekonzistenciám v údajoch. Preto sme použili heuristický prístup, pri ktorom sme pre každé spojenie určili začiatočnú a konečnú stanicu ako tie stanice z datasetu, ktoré sú najbližšie k začiatočnému a konečnému bodu spojenia. Týmto spôsobom sa nám podarilo vytvoriť graf reprezentujúci železničné siete pomocou knižnice \texttt{NetworkX}. Následne, pre doplnenie údajov, sme do grafu pridali váhy hrán reprezentujúce vzdušnú vzdialenosť medzi stanicami, keďže naše údaje neposkytovali presné vzdialenosti medzi prepojenými stanicami.
 
 \begin{figure}
 \centerline{\includegraphics[width=1\textwidth]{images/first_attempt_slovakia.png}}
@@ -16,7 +16,7 @@ Bohužiaľ, tieto typy údajov nebolo možné priamo namapovať na seba kvôli n
 
 \begin{figure}
 \centerline{\includegraphics[width=1\textwidth]{images/first_attempt_bratislava.png}}
-\caption{Prvotný pohľad na našu reprezentáciu slovenskej železničnej siete v okolí Bratislavy}
+\caption{Prvotný pohľad na reprezentáciu slovenskej železničnej siete v okolí Bratislavy}
 \label{obr:Bratislava_first}
 \end{figure}
 
@@ -34,7 +34,7 @@ Z prvotného pohľadu na našu reprezentáciu slovenskej železničnej siete (ob
 \label{obr:Praha_first}
 \end{figure}
 
-Pre českú železničnú sieť, ktorá je rozsiahlejšia, vzniklo výrazne viac nekonzistencií s realitou. Prvým problémom, ktorý sme identifikovali, bolo, že sa do nášho datasetu dostali zastávky pražského metra (obrázok \ref{obr:Praha_first}). Rozhodli sme sa ich nepoužiť, keďže metro nepatrí priamo k vlakovej doprave, ale skôr k mestskej hromadnej doprave. Toto však narušilo sieť v okolí Prahy, a preto sme museli manuálne pridať množstvo hrán a tiež niekoľko staníc. Okrem toho, na obrázku \ref{obr:Czechia_first} môžeme vidieť viacero staníc, ktoré nie sú prepojené so žiadnymi inými stanicami, napríklad v okolí Českých Budějovíc. Pri bližšom pohľade sme však zistili, že v realite existujú spojenia pre tieto stanice. Takýchto nepravidelných vypadkov bolo v sieti pomerne veľa. Keďže sme nenašli lepšie riešenie, rozhodli sme sa manuálne doplniť väčšinu siete, aby sme zabezpečili, že naša reprezentácia je čo najbližšie k realite. Nakoniec sme do českej siete pridali viac ako 170 spojení, odstránili 59 staníc a tiež odstránili niekoľko neexistujúcich spojení.
+Pre českú železničnú sieť, ktorá je rozsiahlejšia, vzniklo výrazne viac nekonzistencií s realitou. Prvým problémom, ktorý sme identifikovali, bolo, že sa do nášho datasetu dostali zastávky pražského metra (obrázok \ref{obr:Praha_first}). Rozhodli sme sa ich nepoužiť, keďže metro nepatrí priamo k vlakovej doprave, ale skôr k mestskej hromadnej doprave. Toto však narušilo sieť v okolí Prahy, a preto sme museli manuálne pridať množstvo hrán a tiež niekoľko staníc. Okrem toho, na obrázku \ref{obr:Czechia_first} môžeme vidieť viacero staníc, ktoré nie sú prepojené so žiadnymi inými stanicami, napríklad v okolí Českých Budějovíc. Pri bližšom pohľade sme však zistili, že v realite existujú spojenia pre tieto stanice. Takýchto nepravidelných výpadkov bolo v sieti pomerne veľa. Keďže sme nenašli lepšie riešenie, rozhodli sme sa manuálne doplniť väčšinu siete, aby sme zabezpečili, že naša reprezentácia je čo najbližšie k realite. Nakoniec sme do českej siete pridali viac ako 170 spojení, odstránili 59 staníc a tiež odstránili niekoľko neexistujúcich spojení.
 
 
 

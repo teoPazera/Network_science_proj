@@ -5,40 +5,36 @@
 \section{Deskriptívna analýza}
 Ako prvé sa pozrieme na základné štatistické ukazovatele pre obe železničné siete – slovenskú aj českú. Obe tieto siete môžeme vidieť na obrázkoch \ref{obr:1} a \ref{obr:2}.
 \begin{figure}
-    \centerline{\includegraphics[width=1\textwidth]{images/sk_railroads.png}}
+    \centerline{\includegraphics[width=1.2\textwidth]{images/sk_railroads.png}}
     \caption{Železničná trať Slovenska}
     \label{obr:1}
 \end{figure}
 
 \begin{figure}
-    \centerline{\includegraphics[width=1\textwidth]{images/cze_railroads.png}}
+    \centerline{\includegraphics[width=1.2\textwidth]{images/cze_railroads.png}}
     \caption{Železničná trať Česka}
     \label{obr:2}
 \end{figure}
 
-
-Okrem iných metrík uvádzame aj vážený polomer a vážený priemer grafu (tzv. diameter), ktoré bližšie charakterizujú štruktúru siete z hľadiska vzdialeností medzi stanicami.
+Okrem iných metrík uvádzame aj \emph{vážený polomer} a \emph{vážený priemer grafu} (tzv.~\emph{diameter}), ktoré bližšie charakterizujú štruktúru siete z hľadiska vzdialeností medzi stanicami.
 
 Tieto metriky definujeme nasledovne:
+\begin{align*}
+  \text{vážený polomer grafu:}\quad
+  \operatorname{rad}(G) &= \min_{v \in V} e(v)
+                         = \min_{v \in V} \Bigl(\max_{u \in V} d(v, u)\Bigr), \\[6pt]
+  \text{vážený priemer grafu (diameter):}\quad
+  \operatorname{diam}(G) &= \max_{v \in V} e(v)
+                          = \max_{v \in V} \Bigl(\max_{u \in V} d(v, u)\Bigr),
+\end{align*}
 
-vážený polomer grafu:
-\[
-\operatorname{rad}(G) = \min_{v \in V} e(v) = \min_{v \in V} \left( \max_{u \in V} d(v, u) \right),
-\]
-
-vážený priemer grafu (diameter):
-\[
-\operatorname{diam}(G) = \max_{v \in V} e(v) = \max_{v \in V} \left( \max_{u \in V} d(v, u) \right),
-\]
-
-kde \( d(u, v) \) predstavuje váženú vzdialenosť (v našom prípade dĺžku trate) medzi stanicami \( u \) a \( v \) a \( e(v) \) je excentricita vrcholu \( v \), teda najväčšia vzdialenosť z tohto vrcholu do ľubovoľného iného vrcholu v grafe.
+\noindent
+kde $d(u, v)$ predstavuje váženú vzdialenosť (v našom prípade dĺžku trate) medzi stanicami $u$ a $v$ a $e(v)$ je excentricita vrcholu $v$, teda najväčšia vzdialenosť z tohto vrcholu do ľubovoľného iného vrcholu v grafe.
 
 Základné štatistiky uvádzame v tabuľke \ref{tab:statistics}. Okrem prvých troch metrík uvádzame hodnoty len pre najväčší komponent danáho grafu.
 
 \begin{table}[h!]
-\label{tab:statistics}
 \centering
-\caption{Základné štatistiky železničných sietí Slovenska a Česka}
 \begin{tabular}{@{}lcc@{}}
 \toprule
  & Česko & Slovensko \\
@@ -54,6 +50,8 @@ $\operatorname{diam}(G)$ [km] & 613 & 562 \\
 $\operatorname{rad}(G)$ [km] & 311 & 282 \\
 \bottomrule
 \end{tabular}
+\caption{Základné štatistiky železničných sietí Slovenska a Česka}
+\label{tab:statistics}
 \end{table}
 Priemerný stupeň vrchola označujeme $\mathbb{E}(k)$ a definujeme ho ako:
 \begin{equation*}
@@ -67,36 +65,34 @@ Na druhej strane však v prípade Česka pozorujeme výrazne väčší počet ko
 
 V hodnotách priemerného stupňa vrcholu a hustoty siete nepozorujeme výrazné rozdiely medzi oboma krajinami. Naopak, polomer a priemer železničných sietí zodpovedajú veľkostnému rozdielu medzi Českom a Slovenskom, pričom väčšie územie sa prirodzene prejavuje vo väčších hodnotách týchto metrík.
 
-Na obrázku \ref{obr:degree_distrib} je znázornené rozdelenie stupňa vrcholov. V oboch krajinách pozorujeme podobný trend – najčastejšie sa vyskytujú stanice, ktoré sú prepojené s tromi ďalšími stanicami. Rozdiel však spočíva v tom, že v Česku sa vyskytujú aj stanice so stupňom až šesť, čo na Slovensku zaznamenané nebolo.
+Na obrázku \ref{obr:degree_distrib} je znázornené rozdelenie stupňa vrcholov. V oboch krajinách pozorujeme podobný trend – najčastejšie sa vyskytujú stanice, ktoré sú prepojené s dvomi ďalšími stanicami. Rozdiel však spočíva v tom, že v Česku sa vyskytujú aj stanice so stupňom až päť, čo na Slovensku zaznamenané nebolo.
 
 \begin{figure}
-    \centerline{\includegraphics[width=1\textwidth]{images/degree_distrib.png}}
+    \centerline{\includegraphics[width=1.2\textwidth]{images/degree_distrib.png}}
     \caption{Rozdelenie stupňa vrcholov}
     \label{obr:degree_distrib}
 \end{figure}
 
 Ako ďalšie si uvedieme porovnanie oboch krajín na základe rôznych centralít.
 
-\textbf{Centralita prepojenosti} - táto metrika nám hovorí o tom na koľko je daný uzol prepojovacím článkom v celej sieti, teda koľko dôležitých ciest cezeň vedie. Formálne pre každý vrchol $v$ definujeme 
+\textbf{Centralita prepojenosti} -- táto metrika nám hovorí o tom na koľko je daný uzol prepojovacím článkom v celej sieti, teda koľko dôležitých ciest cezeň vedie. Formálne pre každý vrchol $v$ definujeme 
 \begin{equation*}
-    c_B(v) =\frac{\sum_{s,t \in V} \frac{\sigma(s, t|v)}{\sigma(s, t)}}{\frac{(n-1)(n-2)}{2}}
+    c_B(v) =\frac{\sum_{s,t \in V} \frac{\sigma(s, t|v)}{\sigma(s, t)}}{\frac{(n-1)(n-2)}{2}},
 \end{equation*}
-
 kde $V$ je množina uzlov, $\sigma(s, t)$ je počet najkratších ciest medzi $s$ a $t$ a $\sigma(s, t |v)$ je počet týchto ciest, ktoré vedú cez nejaký uzol $v$ odlišný od $s$ a $t$. Ak $s = t$, potom $\sigma(s, t) = 1$, a ak $v \in \{s, t \}$, potom $\sigma(s, t |v ) = 0$. 
 
 \begin{figure}
-    \centerline{\includegraphics[width=1\textwidth]{images/betweenes.png}}
+    \centerline{\includegraphics[width=1.2\textwidth]{images/betweenes.png}}
     \caption{Centralita prepojenosti}
     \label{obr:betweenes}
 \end{figure}
 
-Situáciu našich dát možno vidieť na obrázku \ref{obr:betweenes}. Najdôležitejšie stanice z hľadiska centrality prepojenosti na Slovensku sa nachádzajú na „strednej“ trati, konkrétne na úseku vedúcom z Nových Zámkov cez Banskú Bystricu až do Prešova. Tento trend je očakávaný, keďže „vrchná“ a „spodná“ trať sú oproti nej obchádzkovejšie a teda menej priame. V Česku pozorujeme podobný vzor: kľúčové uzly sa sústreďujú v strednej časti republiky, napríklad na trasách z Prahy cez Pardubice alebo z Prahy južnejšie smerom do Brna.
+Situáciu našich dát možno vidieť na obrázku \ref{obr:betweenes}. Najdôležitejšie stanice z hľadiska centrality prepojenosti na Slovensku sa nachádzajú na „strednej“ trati, konkrétne na úseku vedúcom z Nových Zámkov cez Banskú Bystricu až do Prešova. Tento trend je očakávaný, keďže severná a južná trať sú oproti nej obchádzkovejšie a teda menej priame. V Česku pozorujeme podobný vzor: kľúčové uzly sa sústreďujú v strednej časti republiky, napríklad na trasách z Prahy cez Pardubice alebo z Prahy južnejšie smerom do Brna.
 
-\textbf{Katzova centralita} - metrika, ktorá rožširuje ideu centrality vlastného vektora tak, že berie do úvahy nielen priame susedstvá,  ale aj všetky dlhšie cesty v grafe, pričom príspevok každej cesty klesá s jej dĺžkou. Pre vrchol $i$ ju definujeme ako:
+\textbf{Katzova centralita} -- metrika, ktorá rožširuje ideu centrality vlastného vektora tak, že berie do úvahy nielen priame susedstvá,  ale aj všetky dlhšie cesty v grafe, pričom príspevok každej cesty klesá s jej dĺžkou. Pre vrchol $i$ ju definujeme ako:
 \begin{equation*}
     x_i = \alpha \sum_{j} A_{ij} x_j + \beta,
 \end{equation*}
-
 kde $A$ je matica susedností s vlastnými hodnotami $\lambda$.
 Parameter $\beta$ určuje počiatočnú hodnotu centrality a platí
 \begin{equation*}
@@ -106,17 +102,20 @@ Parameter $\beta$ určuje počiatočnú hodnotu centrality a platí
 Pre parameter $\beta$ sme zvolili hodnotu $1$ a $\alpha$ sme nastavili na $\frac{0.8}{\lambda_{max}}$. Na obrázku \ref{obr:katz} môžeme vidieť výsledky pre obe krajiny.
 
 \begin{figure}
-    \centerline{\includegraphics[width=1\textwidth]{images/katz.png}}
+    \centerline{\includegraphics[width=1.2\textwidth]{images/katz.png}}
     \caption{Katzova centralita}
     \label{obr:katz}
 \end{figure}
 
-Vidíme, že pre Slovensko aj Česko sa ukazujú dôležité stanice v hlavných mestách. Na Slovensku sa však tentokrát javí ako dôležitá \uv{vrchná} trať vedúca cez Trenčín. \#NOTE neviem dalej... mozno toto cele vyhodit?
+Vidíme, že sa pre Slovensko aj Česko ukazujú dôležité stanice v hlavných mestách.
+Pre Česko tento výsledok nie je až taký prekvapivý, keďže Praha má okolo seba veľa zastávok. Na druhej strane však podobne dôležitou vychádza aj Bratislava, ktorá má v tesnej blízkosti menší počet zastávok.
+Taktiež si môžeme všimnúť, že Bratislava je podľa tejto metriky na rovnakej úrovni ako napríklad Vrútky alebo Šurany, ktoré sú pomerne významnými prestupnými stanicami.
+Okrem toho vidíme na Slovensku aj pomerne významnú časť severnej trate vedúcej cez Trenčín.
 
 Ako posledné sa pozrieme na skupiny vrcholov a to v južnej a severnej časti krajiny, keďže trate sa zdajú byť celkom odseparované. Sieť si najprv rozdelíme na severnú a južnú časť, tak ako na obrázku \ref{obr:split}.
 
 \begin{figure}
-    \centerline{\includegraphics[width=1\textwidth]{images/south_north_split.png}}
+    \centerline{\includegraphics[width=1.2\textwidth]{images/south_north_split.png}}
     \caption{Rozdelenie na južnú a severnú časť pre obe krajiny}
     \label{obr:split}
 \end{figure}
@@ -145,6 +144,6 @@ m = \frac{1}{2}\sum_{i,j}w_{ij},
 \end{cases}
 \]
 
-Vyšli nám hodnoty $0.96$ pre Češko a $0.90$ pre Slovensko čo znamená, že väčšina váhy, teda kilometrov trate sa nachádza vnútri daných skupín. Prekvapivo pre Česko je to o $6\%$ viac ako pre Slovensko, čo by sme nemuseli očakávať, keďže na obrázku \ref{obr:split} vidíme, že vrcholy sú bližšie pri sebe na nami zadefinovanej hranici oddeľujúcej \uv{juh} a \uv{sever}.
+Vyšli nám hodnoty $0.96$ pre Češko a $0.90$ pre Slovensko čo znamená, že väčšina váhy, teda kilometrov trate sa nachádza vnútri daných skupín. Prekvapivo pre Česko je to o $6\%$ viac ako pre Slovensko, čo by sme nemuseli očakávať, keďže na obrázku \ref{obr:split} vidíme, že vrcholy sú na nami zadefinovanej hranici oddeľujúcej \uv{juh} a \uv{sever} hustejšie, teda by sme mohli očakávať viacero prepojení (tratí), medzi týmito mestami.
 \end{document}
 
