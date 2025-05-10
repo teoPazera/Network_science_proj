@@ -108,14 +108,14 @@ def main() -> None:
     
     # plot the KDEs of these distributions along with the values of the actual network
     fig, ax = plt.subplots()
-    sns.kdeplot(k_G_svk_random, color="tab:blue", label=r"svk: $\mathit{Kf}$ distribution of randomized network", ax=ax)
-    sns.kdeplot(k_G_cze_random, color="tab:orange", label=r"cze: $\mathit{Kf}$ distribution of randomized network", ax=ax)
-    ax.axvline(k_G_svk, linestyle="--", color="tab:blue", label=r"svk: actual $\mathit{Kf}$")
-    ax.axvline(k_G_cze, linestyle="--", color="tab:orange", label=r"cze: actual $\mathit{Kf}$")
+    sns.kdeplot(k_G_svk_random, color="tab:blue", label=r"svk: rozdelenie $\mathit{Kf}_n(G)$ modifikovaných sietí", ax=ax)
+    sns.kdeplot(k_G_cze_random, color="tab:orange", label=r"cze: rozdelenie $\mathit{Kf}_n(G)$ modifikovaných sietí", ax=ax)
+    ax.axvline(k_G_svk, linestyle="--", color="tab:blue", label=r"svk: skutočný $\mathit{Kf}_n(G)$")
+    ax.axvline(k_G_cze, linestyle="--", color="tab:orange", label=r"cze: skutočný $\mathit{Kf}_n(G)$")
 
     ax.legend()
-    ax.set_xlabel("Kirchhoff index")
-    ax.set_ylabel("density")
+    ax.set_xlabel("Kirchhoffov index")
+    ax.set_ylabel("hustota")
     plt.tight_layout()
     plt.savefig("src/visualizations/kde_kirchhoff_randomized.png")
     plt.close(fig)
@@ -139,10 +139,10 @@ def main() -> None:
 
         # plot the distributions of centralities
         ax.hist(list(resistance_centrality.values()), bins=10, density=True, color=color,
-                 label=f"{country}: vertex resistance centrality", alpha=0.7)
+                 label=rf"{country}: distribúcia $R(v_i, G)$", alpha=0.7)
         ax.axvline(
             np.mean(list(resistance_centrality.values())), color=color,
-            label=f"{country}: mean vertex resistance centrality", linestyle="--"
+            label=rf"{country}: priemerná $R(v_i, G)$", linestyle="--"
             )
 
         # map the values to colors
@@ -174,8 +174,8 @@ def main() -> None:
     
     # save the visualized distributions
     ax.legend()
-    ax.set_xlabel("vertex resistance centrality")
-    ax.set_ylabel("density")
+    ax.set_xlabel("$R(v_i, G)$")
+    ax.set_ylabel("hustota")
     plt.savefig("src/visualizations/vertex_resistance_distribution.png")
     plt.close(fig)
 
@@ -198,10 +198,10 @@ def main() -> None:
         
         # plot the distributions of centralities
         ax.hist(list(resistance_centrality.values()), bins=10, density=True, color=color,
-                 label=f"{country}: edge resistance centrality", alpha=0.7)
+                 label=rf"{country}: distribúcia $R(e_{{i,j}}, G)$", alpha=0.7)
         ax.axvline(
             np.mean(list(resistance_centrality.values())), color=color,
-            label=f"{country}: mean edge resistance centrality", linestyle="--"
+            label=rf"{country}: priemerná $R(e_{{i,j}}, G)$", linestyle="--"
             )
         
         # map the centralities to colors
@@ -234,8 +234,8 @@ def main() -> None:
     
     # save the visualized distributions
     ax.legend()
-    ax.set_xlabel("edge resistance centrality")
-    ax.set_ylabel("density")
+    ax.set_xlabel(r"$R(e_{i,j}, G)$")
+    ax.set_ylabel("hustota")
     plt.savefig("src/visualizations/edge_resistance_distribution.png")
     plt.close(fig)
 
