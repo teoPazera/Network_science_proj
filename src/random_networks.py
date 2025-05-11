@@ -10,7 +10,7 @@ from src.util import graph_from_geojson, largest_connected_component, graph_to_f
 from src.kirchhoff import normalized_kirchhoff_index
 
 
-db_name: str = "src/random_networks_data/networks.sqlite"
+db_name: str = "src/generated_data/random_networks/networks.sqlite"
 
 
 def connected_double_edge_swap_distance(G: nx.Graph, max_swaps: int) -> int:
@@ -142,28 +142,6 @@ def main() -> None:
     with Pool(processes=processes) as pool:
         pool.map(generate_random_graphs, ["cze"]*processes)"""
     
-    G: nx.Graph = largest_connected_component(graph_from_geojson(f"selected_fixed_graphs/cze-railroad-network.json"))
-    k_G = normalized_kirchhoff_index(G)
-
-    graph_to_folium(G, "cze").save("test2.html")
-    return
-    print(k_G)
-    i = 0
-    while True:
-        print(i)
-        H = G.copy()
-        connected_double_edge_swap_distance(H, 100)
-        k_H = normalized_kirchhoff_index(H)
-        print(k_H)
-        if k_H < k_G:
-            graph_to_folium(H, "cze").save("test.html")
-            break
-        i += 1
-
-
-
-
-
     
 if __name__ == "__main__":
     main()
