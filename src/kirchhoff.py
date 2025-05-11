@@ -67,10 +67,10 @@ def main() -> None:
     with warnings.catch_warnings():
         warnings.simplefilter("ignore", category=FutureWarning)
         G_svk: nx.Graph = largest_connected_component(
-            graph_from_geojson("selected_fixed_graphs/svk-railroad-network.json")
+            graph_from_geojson("graphs/svk-railroad-network.json")
             )
         G_cze: nx.Graph = largest_connected_component(
-            graph_from_geojson("selected_fixed_graphs/cze-railroad-network.json")
+            graph_from_geojson("graphs/cze-railroad-network.json")
         )
     
     # compute kirchhoff indexes

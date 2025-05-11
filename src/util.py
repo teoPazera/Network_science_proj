@@ -1,11 +1,31 @@
 import json
 from shapely.geometry import shape, Point
+from shapely import to_geojson
 from networkx.readwrite import json_graph
 import networkx as nx
 import folium
 
 
-def graph_from_geojson(path, directed=False, multigraph=True):
+def graph_to_geojson(G, path) -> None:
+    """
+    Serialize NetworkX graph G (with Shapely geometries in node attrs)
+    to a JSON file at 'path', converting geometries via to_geojson.
+    """
+    # 1. Extract node-link data
+    data = json_graph.node_link_data(G)
+    # 2. Replace each geometry attribute with a GeoJSON dict
+    for node in data["nodes"]:
+        geom = node.get("geometry")
+        if geom is not None:
+            # to_geojson returns a JSON string; parse it
+            geojson_str = to_geojson(geom, indent=None)
+            node["geometry"] = json.loads(geojson_str)
+    # 3. Dump to file
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+
+
+def graph_from_geojson(path, directed=False, multigraph=True) -> nx.Graph:
     """
     Read a JSON file at 'path' produced by graph_to_geojson and
     reconstruct the original NetworkX graph with Shapely geometries.
@@ -36,12 +56,14 @@ def graph_from_geojson(path, directed=False, multigraph=True):
     return G
 
 
-def largest_connected_component(G):
+def largest_connected_component(G: nx.Graph) -> nx.Graph:
+    # keep only the largest component of G
     components = nx.connected_components(G)
     largest_component_nodes = max(components, key=len)
     return G.subgraph(largest_component_nodes).copy()
 
 def graph_to_folium(G: nx.Graph, country: str) -> folium.Map:
+    # visualizes G on the map
     geographical_centers = {
         "svk": [48.7, 19.5],
         "cze": [49.75, 15.5]
@@ -63,7 +85,7 @@ def graph_to_folium(G: nx.Graph, country: str) -> folium.Map:
             print(f"Warning: Skipping edge between {node1} and {node2} because one or both nodes are missing geometry information.")
 
     # Mark the nodes (stations) with red dots
-    for node, data in G.nodes(data=True):
+    for _, data in G.nodes(data=True):
         if 'geometry' in data and isinstance(data['geometry'], Point):
             folium.CircleMarker(
                 location=[data['geometry'].y, data['geometry'].x],

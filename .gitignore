@@ -4,3 +4,7 @@ report/*
 !report/images
 !report/*.tex
 !report/*.pdf
+!report/presentation
+report/presentation/*
+!report/presentation/*.tex
+!report/presentation/*.pdf
