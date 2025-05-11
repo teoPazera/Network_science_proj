@@ -207,6 +207,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.2154725,
+          49.1853567
+        ]
+      },
+      "id": "Balnica"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.6485018,
           47.97536
         ]
@@ -482,6 +492,26 @@
         ]
       },
       "id": "Martin"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1614713,
+          49.385463
+        ]
+      },
+      "id": "Tane\u010dn\u00edk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1278861,
+          49.3901606
+        ]
+      },
+      "id": "Sedlo Beskyd"
     },
     {
       "geometry": {
@@ -1037,6 +1067,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.644165,
+          48.7338184
+        ]
+      },
+      "id": "Vydrovo - Koliba"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.5690626,
           48.8052676
         ]
@@ -1392,6 +1432,26 @@
         ]
       },
       "id": "\u0160trba O\u017d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0638012,
+          49.1182187
+        ]
+      },
+      "id": "\u0160trbsk\u00e9 Pleso O\u017d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0635813,
+          49.1183719
+        ]
+      },
+      "id": "\u0160trbsk\u00e9 Pleso"
     },
     {
       "geometry": {
@@ -2267,6 +2327,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.10719,
+          49.3858419
+        ]
+      },
+      "id": "Chm\u00fara"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           20.3340088,
           49.0813831
         ]
@@ -2362,6 +2432,16 @@
         ]
       },
       "id": "Ma\u0165ovce"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2204254,
+          49.1415616
+        ]
+      },
+      "id": "Star\u00fd Smokovec"
     },
     {
       "geometry": {
@@ -4097,6 +4177,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.3057285,
+          49.0583812
+        ]
+      },
+      "id": "Ru\u017eomberok-Z\u00e1palk\u00e1re\u0148"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.9899188,
           48.5762672
         ]
@@ -4117,11 +4207,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.3058056,
+          49.0663263
+        ]
+      },
+      "id": "Ru\u017eomberok - Mal\u00e9 N\u00e1dra\u017eie"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.5212889,
           49.0910138
         ]
       },
       "id": "V\u00fdh. Paludza"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2246023,
+          49.1581046
+        ]
+      },
+      "id": "Hrebienok"
     },
     {
       "geometry": {
@@ -4242,2273 +4352,1764 @@
         ]
       },
       "id": "Torna\u013ea"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.10416625,
-          48.15499938
-        ]
-      },
-      "id": "Bratislava - Hlavn\u00e1 stanica"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.13387381009982,
-          48.18698557873771
-        ]
-      },
-      "id": "Bratislava - Vinohrady"
     }
   ],
   "links": [
     {
-      "distance": 1492.7756217574997,
       "source": "Spi\u0161sk\u00e1 Bel\u00e1",
       "target": "Spi\u0161sk\u00e1 Bel\u00e1 zast\u00e1vka"
     },
     {
-      "distance": 5665.013817742035,
       "source": "Spi\u0161sk\u00e1 Bel\u00e1",
       "target": "Ke\u017emarok"
     },
     {
-      "distance": 3697.8474397459836,
       "source": "Podhorany pri Ke\u017emarku",
       "target": "Podol\u00ednec"
     },
     {
-      "distance": 1404.9480222477969,
       "source": "Podhorany pri Ke\u017emarku",
       "target": "Bu\u0161ovce"
     },
     {
-      "distance": 12654.978866784819,
       "source": "Podol\u00ednec",
       "target": "Star\u00e1 \u013dubov\u0148a"
     },
     {
-      "distance": 4142.724689350939,
       "source": "Spi\u0161sk\u00e1 Bel\u00e1 zast\u00e1vka",
       "target": "Bu\u0161ovce"
     },
     {
-      "distance": 339.87643540208086,
       "source": "Hronec",
       "target": "Hronec zlievare\u0148"
     },
     {
-      "distance": 1277.7403602048564,
       "source": "Hronec",
       "target": "Chvatimech \u010cHZ"
     },
     {
-      "distance": 6745.231696664352,
       "source": "Dev\u00ednska Nov\u00e1 Ves",
       "target": "Bratislava-Lama\u010d"
     },
     {
-      "distance": 11914.030162569432,
       "source": "Dev\u00ednska Nov\u00e1 Ves",
       "target": "Zohor"
     },
     {
-      "distance": 3216.741105557128,
       "source": "Brezno",
       "target": "Brezno-Halny"
     },
     {
-      "distance": 3670.5165914746817,
       "source": "Brezno",
       "target": "Hronec zlievare\u0148"
     },
     {
-      "distance": 12098.921060812427,
       "source": "Malacky",
       "target": "Zohor"
     },
     {
-      "distance": 8516.283617117533,
       "source": "Malacky",
       "target": "Ve\u013ek\u00e9 Lev\u00e1re"
     },
     {
-      "distance": 8115.86501400466,
       "source": "\u010ca\u0148a",
       "target": "Barca"
     },
     {
-      "distance": 5523.403215854803,
       "source": "Kr\u00e1sna nad Horn\u00e1dom",
       "target": "Haniska pri Ko\u0161iciach"
     },
     {
-      "distance": 7189.90010795607,
       "source": "Kr\u00e1sna nad Horn\u00e1dom",
       "target": "Ni\u017en\u00e1 My\u0161\u013ea"
     },
     {
-      "distance": 1719.224895743627,
       "source": "Kr\u00e1sna nad Horn\u00e1dom",
       "target": "Barca"
     },
     {
-      "distance": 4783.736214195782,
       "source": "Barca",
       "target": "Ko\u0161ice"
     },
     {
-      "distance": 5693.488493104444,
       "source": "Barca",
       "target": "Haniska pri Ko\u0161iciach"
     },
     {
-      "distance": 24615.784283464054,
-      "source": "Mal\u00e9 Straciny",
-      "target": "Lu\u010denec"
-    },
-    {
-      "distance": 7562.245002404912,
       "source": "Star\u00e1 \u013dubov\u0148a",
       "target": "Plavnica"
     },
     {
-      "distance": 6110.888999393168,
       "source": "Hodejov",
       "target": "Jesensk\u00e9"
     },
     {
-      "distance": 2811.719082887098,
       "source": "Hodejov",
       "target": "Blhovce"
     },
     {
-      "distance": 4444.886200814397,
       "source": "\u010cerven\u00e1 Skala",
       "target": "Telg\u00e1rt"
     },
     {
-      "distance": 13164.090739477653,
       "source": "\u010cerven\u00e1 Skala",
       "target": "He\u013epa"
     },
     {
-      "distance": 7521.715092686419,
       "source": "Rimavsk\u00e1 Se\u010d",
       "target": "Lenartovce"
     },
     {
-      "distance": 12193.22317337647,
       "source": "Rimavsk\u00e1 Se\u010d",
       "target": "Jesensk\u00e9"
     },
     {
-      "distance": 4977.8006991893735,
       "source": "Blhovce",
       "target": "Hajn\u00e1\u010dka"
     },
     {
-      "distance": 1959.7528823631453,
       "source": "S\u00fctt\u0151",
       "target": "Piszke"
     },
     {
-      "distance": 15956.737154362656,
       "source": "S\u00fctt\u0151",
       "target": "Strekov"
     },
     {
-      "distance": 2766.2912281652457,
       "source": "Piszke",
       "target": "L\u00e1batlan"
     },
     {
-      "distance": 2125.7065379623878,
       "source": "Pohronsk\u00fd Ruskov",
       "target": "\u010cata"
     },
     {
-      "distance": 7659.721403482547,
       "source": "Pohronsk\u00fd Ruskov",
       "target": "\u017deliezovce"
     },
     {
-      "distance": 2370.347385496372,
       "source": "Likier",
       "target": "Rimavsk\u00e9 Brezovo"
     },
     {
-      "distance": 1818.3229424328754,
       "source": "Likier",
       "target": "Hn\u00fa\u0161\u0165a"
     },
     {
-      "distance": 6376.632751587206,
       "source": "Priben\u00edk",
       "target": "Ve\u013ek\u00fd Hore\u0161"
     },
     {
-      "distance": 2068.1737497540757,
       "source": "Priben\u00edk",
       "target": "Dobr\u00e1"
     },
     {
-      "distance": 4690.214598029126,
       "source": "Budkovce \u0160RT",
       "target": "Drah\u0148ov"
     },
     {
-      "distance": 543.1688692892454,
       "source": "Budkovce \u0160RT",
       "target": "Budkovce"
     },
     {
-      "distance": 8942.852372782892,
       "source": "Budkovce \u0160RT",
       "target": "B\u00e1novce nad Ondavou"
     },
     {
-      "distance": 13455.999743929655,
       "source": "Micha\u013eany",
       "target": "Slovensk\u00e9 Nov\u00e9 Mesto"
     },
     {
-      "distance": 7511.472005800111,
       "source": "Micha\u013eany",
       "target": "Kuzmice"
     },
     {
-      "distance": 7020.209557692565,
       "source": "Micha\u013eany",
       "target": "\u00dapor"
     },
     {
-      "distance": 2716.1658235306722,
       "source": "Ve\u013ek\u00e9 Kapu\u0161any",
       "target": "Ma\u0165ovce"
     },
     {
-      "distance": 4514.118313790327,
       "source": "Ve\u013ek\u00e9 Kapu\u0161any",
       "target": "Vojany \u0160RT"
     },
     {
-      "distance": 2360.864890578047,
       "source": "Vojany \u0160RT",
       "target": "Vojany"
     },
     {
-      "distance": 1044.2386200854457,
       "source": "\u010cierna nad Tisou",
       "target": "\u010cierna nad Tisou \u0160RT"
     },
     {
-      "distance": 4709.897607785646,
       "source": "\u010cierna nad Tisou",
       "target": "Dobr\u00e1"
     },
     {
-      "distance": 6549.8637210596835,
       "source": "Ro\u017e\u0148ava",
       "target": "Lipovn\u00edk"
     },
     {
-      "distance": 7279.840837724173,
       "source": "Ro\u017e\u0148ava",
       "target": "Betliar"
     },
     {
-      "distance": 6829.446761627928,
       "source": "Ro\u017e\u0148ava",
       "target": "Slavec jasky\u0148a"
     },
     {
-      "distance": 5642.8808757157885,
       "source": "Plavnica",
       "target": "Plave\u010d"
     },
     {
-      "distance": 6902.232695667592,
       "source": "Kunova Teplica",
       "target": "\u0160t\u00edtnik"
     },
     {
-      "distance": 6446.40743435573,
       "source": "Kunova Teplica",
       "target": "Ple\u0161ivec"
     },
     {
-      "distance": 3059.495850609254,
       "source": "\u0160t\u00edtnik",
       "target": "Ochtin\u00e1"
     },
     {
-      "distance": 10976.163858889826,
       "source": "Ve\u013ek\u00e9 Lev\u00e1re",
       "target": "Sekule"
     },
     {
-      "distance": 6385.0241884248635,
       "source": "Sekule",
       "target": "K\u00faty"
     },
     {
-      "distance": 8445.95940699352,
       "source": "Svit",
       "target": "Vy\u0161n\u00e9 H\u00e1gy"
     },
     {
-      "distance": 7085.371967327539,
       "source": "Svit",
       "target": "Poprad-Tatry"
     },
     {
-      "distance": 7532.851301303855,
       "source": "\u0160trkovec",
       "target": "Torna\u013ea"
     },
     {
-      "distance": 5816.299925790857,
       "source": "\u0160trkovec",
       "target": "Lenartovce"
     },
     {
-      "distance": 5797.3564151793835,
       "source": "Ochtin\u00e1",
       "target": "Slavo\u0161ovce"
     },
     {
-      "distance": 7378.963666910012,
       "source": "Hnilec",
       "target": "Mlynky"
     },
     {
-      "distance": 9525.129959152746,
       "source": "Hnilec",
       "target": "N\u00e1lepkovo"
     },
     {
-      "distance": 2126.685039025544,
       "source": "Vlachovo",
       "target": "Dob\u0161in\u00e1"
     },
     {
-      "distance": 6803.116332470112,
       "source": "Vlachovo",
       "target": "Ni\u017en\u00e1 Slan\u00e1"
     },
     {
-      "distance": 7208.198745332487,
       "source": "Ni\u017en\u00e1 Slan\u00e1",
       "target": "Betliar"
     },
     {
-      "distance": 8393.997309757178,
       "source": "Mur\u00e1\u0148",
       "target": "Rev\u00faca"
     },
     {
-      "distance": 8489.281963499741,
       "source": "Mlynky",
       "target": "Dob\u0161insk\u00e1 \u013dadov\u00e1 Jasky\u0148a"
     },
     {
-      "distance": 2762.034024842028,
       "source": "Gemersk\u00e1 H\u00f4rka",
       "target": "Ple\u0161ivec"
     },
     {
-      "distance": 13280.843731032212,
       "source": "Gemersk\u00e1 H\u00f4rka",
       "target": "Torna\u013ea"
     },
     {
-      "distance": 7340.001993047468,
       "source": "Gemersk\u00e1 H\u00f4rka",
       "target": "Huc\u00edn"
     },
     {
-      "distance": 4796.800059640713,
       "source": "Jel\u0161ava",
       "target": "Luben\u00edk"
     },
     {
-      "distance": 7624.629950086533,
       "source": "Jel\u0161ava",
       "target": "Huc\u00edn"
     },
     {
-      "distance": 8335.206313581302,
       "source": "Martin",
       "target": "Pr\u00edbovce-Rakovo"
     },
     {
-      "distance": 5412.326546806408,
       "source": "Martin",
       "target": "Vr\u00fatky n\u00e1kladn\u00e1 stanica"
     },
     {
-      "distance": 6391.325193116321,
       "source": "\u010cremo\u0161n\u00e9",
       "target": "Harmanec jasky\u0148a"
     },
     {
-      "distance": 7304.683397779177,
       "source": "\u010cremo\u0161n\u00e9",
       "target": "Horn\u00e1 \u0160tub\u0148a"
     },
     {
-      "distance": 2663.0128767410188,
       "source": "Radva\u0148",
       "target": "Bansk\u00e1 Bystrica"
     },
     {
-      "distance": 5275.027246024826,
       "source": "Radva\u0148",
       "target": "Vlkanov\u00e1"
     },
     {
-      "distance": 10665.250759063492,
       "source": "Po\u010dkaj",
       "target": "Moldava nad Bodvou mesto"
     },
     {
-      "distance": 2601.4978607870044,
       "source": "Po\u010dkaj",
       "target": "Medzev"
     },
     {
-      "distance": 2855.2420214291737,
       "source": "Kostiviarska",
       "target": "Bansk\u00e1 Bystrica"
     },
     {
-      "distance": 5941.508804433572,
       "source": "Kostiviarska",
       "target": "U\u013eanka"
     },
     {
-      "distance": 5351.967273383786,
       "source": "Harmanec jasky\u0148a",
       "target": "U\u013eanka"
     },
     {
-      "distance": 7407.698138137106,
       "source": "Jablonov nad Tur\u0148ou",
       "target": "Lipovn\u00edk"
     },
     {
-      "distance": 5872.541916213774,
       "source": "Jablonov nad Tur\u0148ou",
       "target": "Hrhov"
     },
     {
-      "distance": 7562.518936080873,
       "source": "Spi\u0161sk\u00e9 Podhradie",
       "target": "Spi\u0161sk\u00e9 Vlachy"
     },
     {
-      "distance": 8888.137571541403,
       "source": "Hrhov",
       "target": "Tur\u0148a nad Bodvou"
     },
     {
-      "distance": 779.3926449139145,
       "source": "Moldava nad Bodvou",
       "target": "Moldava nad Bodvou mesto"
     },
     {
-      "distance": 8421.580974038005,
       "source": "Moldava nad Bodvou",
       "target": "Tur\u0148a nad Bodvou"
     },
     {
-      "distance": 5105.739850874195,
       "source": "Moldava nad Bodvou",
       "target": "\u010ce\u010dejovce"
     },
     {
-      "distance": 7751.1724381418835,
       "source": "\u0160vedl\u00e1r",
       "target": "N\u00e1lepkovo"
     },
     {
-      "distance": 6773.651338409454,
       "source": "\u0160vedl\u00e1r",
       "target": "Mn\u00ed\u0161ek nad Hnilcom"
     },
     {
-      "distance": 3775.6919205427134,
       "source": "Pstru\u0161a",
       "target": "Sto\u017eok"
     },
     {
-      "distance": 2211.799640374653,
       "source": "Pstru\u0161a",
       "target": "V\u00edg\u013ea\u0161"
     },
     {
-      "distance": 8848.714013940455,
       "source": "Slovensk\u00e1 \u013dup\u010da",
       "target": "Bansk\u00e1 Bystrica"
     },
     {
-      "distance": 6720.348394861522,
       "source": "Slovensk\u00e1 \u013dup\u010da",
       "target": "Medzibrod"
     },
     {
-      "distance": 9966.676815742445,
       "source": "Dobr\u00e1 Niva",
       "target": "Zvolen osobn\u00e1 stanica"
     },
     {
-      "distance": 6449.160115073978,
       "source": "Dobr\u00e1 Niva",
       "target": "S\u00e1sa-Plie\u0161ovce"
     },
     {
-      "distance": 1821.0049010655732,
-      "source": "Vpred",
-      "target": "\u010cerme\u013e"
-    },
-    {
-      "distance": 1728.7333542455262,
-      "source": "Vpred",
-      "target": "Alpinka"
-    },
-    {
-      "distance": 4157.96915131604,
       "source": "Polt\u00e1r",
       "target": "Brezni\u010dka"
     },
     {
-      "distance": 9556.21353396181,
       "source": "Polt\u00e1r",
       "target": "Zlatno"
     },
     {
-      "distance": 4037.947000242659,
       "source": "Bansk\u00e1 Bel\u00e1",
       "target": "Bansk\u00e1 \u0160tiavnica"
     },
     {
-      "distance": 6307.9494601643955,
       "source": "Bansk\u00e1 Bel\u00e1",
       "target": "Kozeln\u00edk"
     },
     {
-      "distance": 11721.106086092139,
       "source": "Ipe\u013esk\u00fd Sokolec",
       "target": "Tup\u00e1"
     },
     {
-      "distance": 13719.760121362158,
       "source": "Ipe\u013esk\u00fd Sokolec",
       "target": "\u010cata"
     },
     {
-      "distance": 17218.699351714997,
       "source": "\u010cata",
       "target": "\u0160t\u00farovo tranzitn\u00e1 skupina"
     },
     {
-      "distance": 7880.224558835471,
       "source": "Zohor",
       "target": "Jablonov\u00e9"
     },
     {
-      "distance": 5811.376043474699,
       "source": "Zohor",
       "target": "Vysok\u00e1 pri Morave"
     },
     {
-      "distance": 5226.776394764701,
       "source": "Dlh\u00e9 nad Cirochou",
       "target": "Kamenica nad Cirochou"
     },
     {
-      "distance": 9218.488103578615,
       "source": "Dlh\u00e9 nad Cirochou",
       "target": "Snina"
     },
     {
-      "distance": 9136.551146374142,
       "source": "Hontianske Nemce",
       "target": "Hontianske Tes\u00e1re"
     },
     {
-      "distance": 9272.516556781047,
       "source": "Hontianske Nemce",
       "target": "Krupina"
     },
     {
-      "distance": 8193.030841595986,
       "source": "Str\u00e1\u017eske",
       "target": "Petrovce nad Laborcom"
     },
     {
-      "distance": 8909.739890042356,
       "source": "Str\u00e1\u017eske",
       "target": "Humenn\u00e9"
     },
     {
-      "distance": 5480.274212263102,
       "source": "Str\u00e1\u017eske",
       "target": "Ni\u017en\u00fd Hrabovec"
     },
     {
-      "distance": 5280.491658878103,
       "source": "Hrini\u0161te",
       "target": "B\u00e1novce nad Ondavou"
     },
     {
-      "distance": 2735.3506602454786,
       "source": "Hrini\u0161te",
       "target": "Trebi\u0161ov \u0160RT"
     },
     {
-      "distance": 7559.698437374701,
       "source": "K\u00faty",
       "target": "Gbely"
     },
     {
-      "distance": 7637.163441787211,
       "source": "K\u00faty",
       "target": "\u0160a\u0161t\u00edn-Str\u00e1\u017ee"
     },
     {
-      "distance": 2156.7311713322856,
       "source": "\u0160t\u00farovo",
       "target": "\u0160t\u00farovo tranzitn\u00e1 skupina"
     },
     {
-      "distance": 11516.138900148819,
       "source": "\u0160t\u00farovo",
       "target": "Ch\u013eaba zast\u00e1vka"
     },
     {
-      "distance": 9167.444365883992,
       "source": "Kysuck\u00e9 Nov\u00e9 Mesto",
       "target": "\u017dilina"
     },
     {
-      "distance": 8926.886212245618,
       "source": "Kysuck\u00e9 Nov\u00e9 Mesto",
       "target": "Kr\u00e1sno nad Kysucou"
     },
     {
-      "distance": 6815.770165386704,
       "source": "\u017dih\u00e1rec",
       "target": "Vl\u010dany"
     },
     {
-      "distance": 3582.19143465213,
       "source": "\u017dih\u00e1rec",
       "target": "Te\u0161ed\u00edkovo"
     },
     {
-      "distance": 5590.130507635039,
       "source": "Rimavsk\u00e9 Zalu\u017eany",
       "target": "Ni\u017en\u00fd Sk\u00e1lnik"
     },
     {
-      "distance": 1145.9693082783524,
       "source": "Rimavsk\u00e9 Zalu\u017eany",
       "target": "Rimavsk\u00e1 Ba\u0148a"
     },
     {
-      "distance": 3645.816194609746,
       "source": "Rimavsk\u00e1 Ba\u0148a",
       "target": "Rimavsk\u00e9 Brezovo"
     },
     {
-      "distance": 6031.266645513349,
       "source": "Pribeta",
       "target": "Dvory nad \u017ditavou"
     },
     {
-      "distance": 7544.013999893241,
       "source": "Pribeta",
       "target": "Strekov"
     },
     {
-      "distance": 7977.066266402578,
       "source": "Kr\u00e1sno nad Kysucou",
       "target": "\u010cadca (Makovsk\u00e9 n\u00e1stupi\u0161te)"
     },
     {
-      "distance": 6423.668429600412,
       "source": "Dvory nad \u017ditavou",
       "target": "Nov\u00e9 Z\u00e1mky"
     },
     {
-      "distance": 4327.594592714821,
       "source": "Ko\u0161ice",
       "target": "\u010cerme\u013e"
     },
     {
-      "distance": 240.27032843399675,
       "source": "\u010cadca",
       "target": "\u010cadca (Makovsk\u00e9 n\u00e1stupi\u0161te)"
     },
     {
-      "distance": 3631.788202102597,
       "source": "\u010cadca",
       "target": "Rakov\u00e1"
     },
     {
-      "distance": 9607.691880092792,
       "source": "\u010cadca",
       "target": "Skalit\u00e9"
     },
     {
-      "distance": 6819.624350326011,
       "source": "So\u013e",
       "target": "\u010cierne nad Top\u013eou"
     },
     {
-      "distance": 7124.14832725313,
       "source": "So\u013e",
       "target": "Vranov nad Top\u013eou"
     },
     {
-      "distance": 7977.737700373712,
       "source": "Drienovsk\u00e1 Nov\u00e1 Ves",
       "target": "Pre\u0161ov"
     },
     {
-      "distance": 4053.483442690765,
       "source": "Drienovsk\u00e1 Nov\u00e1 Ves",
       "target": "Li\u010dartovce"
     },
     {
-      "distance": 11025.033760797802,
       "source": "Gbely",
       "target": "Hol\u00ed\u010d nad Moravou"
     },
     {
-      "distance": 6371.105774429032,
       "source": "Hol\u00ed\u010d nad Moravou",
       "target": "Skalica na Slovensku"
     },
     {
-      "distance": 6123.090766719653,
       "source": "Vlkanov\u00e1",
       "target": "Slia\u010d k\u00fapele"
     },
     {
-      "distance": 12054.803050846635,
       "source": "Tekovsk\u00e9 Lu\u017eany",
       "target": "Kaln\u00e1 nad Hronom"
     },
     {
-      "distance": 8744.016072037619,
       "source": "Tekovsk\u00e9 Lu\u017eany",
       "target": "\u017deliezovce"
     },
     {
-      "distance": 6789.443319626871,
       "source": "Ni\u017en\u00fd Hrabovec",
       "target": "Vranov nad Top\u013eou"
     },
     {
-      "distance": 18136.804496494093,
       "source": "Ni\u017en\u00fd Hrabovec",
       "target": "Se\u010dovce"
     },
     {
-      "distance": 14122.073397310858,
       "source": "Medzilaborce",
       "target": "Radva\u0148 nad Laborcom"
     },
     {
-      "distance": 1458.1869767619887,
       "source": "Michalov\u00e1",
       "target": "Pohronsk\u00e1 Polhora"
     },
     {
-      "distance": 7205.582148687315,
       "source": "Michalov\u00e1",
       "target": "Ga\u0161parovo"
     },
     {
-      "distance": 2366.6332259545343,
       "source": "Kom\u00e1rno",
       "target": "Kom\u00e1rom"
     },
     {
-      "distance": 3974.133214262945,
       "source": "Kom\u00e1rno",
       "target": "Kom\u00e1rno zria\u010fovacia stanica"
     },
     {
-      "distance": 2881.7401379757744,
       "source": "Chot\u00edn",
       "target": "Kom\u00e1rno zria\u010fovacia stanica"
     },
     {
-      "distance": 7604.688870696094,
       "source": "Chot\u00edn",
       "target": "Hurbanovo"
     },
     {
-      "distance": 8195.996335258662,
       "source": "Baj\u010d",
       "target": "Nov\u00e9 Z\u00e1mky"
     },
     {
-      "distance": 5568.791171573974,
       "source": "Baj\u010d",
       "target": "Hurbanovo"
     },
     {
-      "distance": 6408.932370192675,
       "source": "\u017dilina",
       "target": "\u017dilina-Tepli\u010dka"
     },
     {
-      "distance": 6081.395462045919,
       "source": "\u017dilina",
       "target": "Lietavsk\u00e1 L\u00fa\u010dka"
     },
     {
-      "distance": 7679.534283754495,
       "source": "\u017dilina",
       "target": "Doln\u00fd Hri\u010dov"
     },
     {
-      "distance": 759.2712287085345,
       "source": "Valask\u00e1, Obec",
       "target": "Chvatimech \u010cHZ"
     },
     {
-      "distance": 8194.712082484062,
-      "source": "Hronec zlievare\u0148",
-      "target": "\u010cierny Balog"
-    },
-    {
-      "distance": 5252.471283051496,
       "source": "\u010cerme\u013e",
       "target": "Kosto\u013eany nad Horn\u00e1dom"
     },
     {
-      "distance": 7257.915889523219,
       "source": "Ve\u013ek\u00e1 Ida",
       "target": "Haniska pri Ko\u0161iciach"
     },
     {
-      "distance": 7603.910274016592,
-      "source": "Ve\u013ek\u00e1 Ida",
-      "target": "\u010ce\u010dejovce"
-    },
-    {
-      "distance": 8865.399177280548,
       "source": "Vl\u00e1rsk\u00fd pr\u016fsmyk",
       "target": "Nem\u0161ov\u00e1"
     },
     {
-      "distance": 4013.341990480737,
       "source": "Hatalov",
       "target": "B\u00e1novce nad Ondavou"
     },
     {
-      "distance": 4534.269609549301,
       "source": "Hatalov",
       "target": "Budkovce"
     },
     {
-      "distance": 2629.0628167138843,
       "source": "Slan\u010d\u00edk \u0160RT",
       "target": "Slanec"
     },
     {
-      "distance": 3570.624446551543,
       "source": "Slan\u010d\u00edk \u0160RT",
       "target": "Ruskov"
     },
     {
-      "distance": 5047.383800942562,
       "source": "Kuzmice",
       "target": "\u010ce\u013eovce"
     },
     {
-      "distance": 9702.22587504609,
       "source": "Kuzmice",
       "target": "Slanec"
     },
     {
-      "distance": 6280.89059236893,
       "source": "Ni\u017en\u00e1 My\u0161\u013ea",
       "target": "Ruskov"
     },
     {
-      "distance": 2696.4115620695793,
       "source": "Chvatimech \u010cHZ",
       "target": "Podbrezov\u00e1"
     },
     {
-      "distance": 6525.505794777558,
       "source": "Sto\u017eok",
       "target": "Kriv\u00e1\u0148"
     },
     {
-      "distance": 9922.482265674626,
       "source": "Nov\u00e9 Z\u00e1mky",
       "target": "Pal\u00e1rikovo"
     },
     {
-      "distance": 5577.166699388218,
       "source": "Nov\u00e9 Z\u00e1mky",
       "target": "B\u00e1nov"
     },
     {
-      "distance": 4726.196757287381,
       "source": "Pal\u00e1rikovo",
       "target": "Tvrdo\u0161ovce"
     },
     {
-      "distance": 7331.1849196427465,
       "source": "Pal\u00e1rikovo",
       "target": "\u0160urany"
     },
     {
-      "distance": 10656.75537233767,
       "source": "Tvrdo\u0161ovce",
       "target": "Trnovec nad V\u00e1hom"
     },
     {
-      "distance": 5030.240704820301,
       "source": "Trnovec nad V\u00e1hom",
       "target": "\u0160a\u013ea"
     },
     {
-      "distance": 4546.090104560679,
       "source": "Te\u0161ed\u00edkovo",
       "target": "\u0160a\u013ea"
     },
     {
-      "distance": 2307.812844033667,
       "source": "Neded",
       "target": "Vl\u010dany"
     },
     {
-      "distance": 6949.707287401672,
       "source": "Galanta",
       "target": "Sl\u00e1dkovi\u010dovo"
     },
     {
-      "distance": 5403.864959132252,
       "source": "Galanta",
       "target": "G\u00e1\u0148"
     },
     {
-      "distance": 11246.537331695145,
       "source": "Galanta",
       "target": "\u0160a\u013ea"
     },
     {
-      "distance": 10599.043717324257,
       "source": "Sabinov",
       "target": "Ve\u013ek\u00fd \u0160ari\u0161"
     },
     {
-      "distance": 10784.384498925947,
       "source": "Sabinov",
       "target": "Lipany"
     },
     {
-      "distance": 7640.750030271227,
       "source": "Lipany",
       "target": "Pust\u00e9 Pole"
     },
     {
-      "distance": 24141.360289515673,
       "source": "Sl\u00e1dkovi\u010dovo",
       "target": "\u0160enkvice"
     },
     {
-      "distance": 36875.99965596005,
-      "source": "Sl\u00e1dkovi\u010dovo",
-      "target": "Bratislava - Vinohrady"
-    },
-    {
-      "distance": 12901.470782626804,
       "source": "Byt\u010da",
       "target": "Pova\u017esk\u00e1 Bystrica"
     },
     {
-      "distance": 7622.714682127229,
       "source": "Byt\u010da",
       "target": "Doln\u00fd Hri\u010dov"
     },
     {
-      "distance": 11918.135884072186,
       "source": "Plave\u010d",
       "target": "\u017begiest\u00f3w"
     },
     {
-      "distance": 7734.137115164786,
       "source": "Plave\u010d",
       "target": "Pust\u00e9 Pole"
     },
     {
-      "distance": 10008.625684830196,
       "source": "Zlatn\u00e1 na Ostrove",
       "target": "Zemianska Ol\u010da"
     },
     {
-      "distance": 10662.193695593736,
       "source": "Zlatn\u00e1 na Ostrove",
       "target": "Kom\u00e1rom"
     },
     {
-      "distance": 7976.543508649819,
       "source": "Ve\u013ek\u00fd Meder",
       "target": "Zemianska Ol\u010da"
     },
     {
-      "distance": 10373.525736813124,
       "source": "Ve\u013ek\u00fd Meder",
       "target": "Doln\u00fd \u0160t\u00e1l"
     },
     {
-      "distance": 7396.989652196892,
       "source": "Lehnice",
       "target": "Kvetoslavov"
     },
     {
-      "distance": 6105.476005262209,
       "source": "Lehnice",
       "target": "Orechov\u00e1 Pot\u00f4\u0148"
     },
     {
-      "distance": 11122.683369247128,
       "source": "Dunajsk\u00e1 Streda",
       "target": "Doln\u00fd \u0160t\u00e1l"
     },
     {
-      "distance": 6324.1711688614305,
-      "source": "Dunajsk\u00e1 Streda",
-      "target": "Orechov\u00e1 Pot\u00f4\u0148"
-    },
-    {
-      "distance": 7588.680905269516,
       "source": "Pova\u017esk\u00e1 Bystrica",
       "target": "P\u00fachov"
     },
     {
-      "distance": 2268.1554762228197,
       "source": "K\u013ea\u010dany",
       "target": "Ri\u0161\u0148ovce"
     },
     {
-      "distance": 6846.772668684047,
       "source": "K\u013ea\u010dany",
       "target": "Hlohovec"
     },
     {
-      "distance": 5684.085761511872,
       "source": "\u0160trba O\u017d",
       "target": "Vy\u0161n\u00e9 H\u00e1gy"
     },
     {
-      "distance": 106.58126234249434,
       "source": "\u0160trba O\u017d",
       "target": "\u0160trba"
     },
     {
-      "distance": 13315.229867023483,
       "source": "Kvetoslavov",
       "target": "Podunajsk\u00e9 Biskupice"
     },
     {
-      "distance": 3765.19696638145,
       "source": "Podunajsk\u00e9 Biskupice",
       "target": "Bratislava - \u00dastredn\u00e1 n\u00e1kladn\u00e1 stanica"
     },
     {
-      "distance": 1709.9109687646107,
       "source": "Bratislava predmestie",
       "target": "Bratislava-Nov\u00e9 Mesto"
     },
     {
-      "distance": 3279.5076615377993,
       "source": "Bratislava predmestie",
       "target": "Bratislava-Ra\u010da"
     },
     {
-      "distance": 3888.5726243177696,
       "source": "Bratislava-Nov\u00e9 Mesto",
       "target": "Bratislava - \u00dastredn\u00e1 n\u00e1kladn\u00e1 stanica"
     },
     {
-      "distance": 4269.916142973663,
       "source": "Bratislava-Nov\u00e9 Mesto",
       "target": "Bratislava-Ra\u010da"
     },
     {
-      "distance": 6618.928507488522,
       "source": "Bratislava-Nov\u00e9 Mesto",
       "target": "Bratislava-Petr\u017ealka"
     },
     {
-      "distance": 11510.549573118804,
       "source": "Bratislava-Ra\u010da",
       "target": "Pezinok"
     },
     {
-      "distance": 9571.403981474943,
       "source": "Ko\u0161kovce",
       "target": "Udavsk\u00e9"
     },
     {
-      "distance": 9577.140685273724,
       "source": "Ko\u0161kovce",
       "target": "Radva\u0148 nad Laborcom"
     },
     {
-      "distance": 5158.0676176500865,
       "source": "Ple\u0161ivec",
       "target": "Slavec jasky\u0148a"
     },
     {
-      "distance": 5888.94902668423,
       "source": "Bratislava - \u00dastredn\u00e1 n\u00e1kladn\u00e1 stanica",
       "target": "Bratislava-Petr\u017ealka"
     },
     {
-      "distance": 7738.224886048811,
       "source": "Levo\u010da",
       "target": "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     },
     {
-      "distance": 3455.651546294227,
       "source": "Vojany",
       "target": "Drah\u0148ov"
     },
     {
-      "distance": 583.833957314508,
       "source": "Ma\u0165ovce \u0160RT",
       "target": "Ma\u0165ovce"
     },
     {
-      "distance": 9145.286749630026,
       "source": "Bratislava-Petr\u017ealka",
       "target": "Rusovce"
     },
     {
-      "distance": 5930.492485948509,
-      "source": "Petrovce nad Laborcom",
-      "target": "Michalovce"
-    },
-    {
-      "distance": 3927.1192247706613,
       "source": "\u0160ari\u0161sk\u00e9 L\u00faky",
       "target": "Pre\u0161ov"
     },
     {
-      "distance": 5657.208328710598,
       "source": "\u0160ari\u0161sk\u00e9 L\u00faky",
       "target": "Ve\u013ek\u00fd \u0160ari\u0161"
     },
     {
-      "distance": 4958.384539095008,
       "source": "\u0160ari\u0161sk\u00e9 L\u00faky",
       "target": "Kapu\u0161any pri Pre\u0161ove"
     },
     {
-      "distance": 6449.209509896435,
       "source": "\u010ce\u013eovce",
       "target": "Trebi\u0161ov"
     },
     {
-      "distance": 3634.1316334591056,
       "source": "L\u00e1batlan",
       "target": "Nyerges\u00fajfalu"
     },
     {
-      "distance": 5144.182118865781,
-      "source": "Bratislava-Lama\u010d",
-      "target": "Bratislava - Hlavn\u00e1 stanica"
-    },
-    {
-      "distance": 9334.16502848469,
       "source": "Zbojsk\u00e1",
       "target": "Tisovec"
     },
     {
-      "distance": 3717.308221453387,
       "source": "Zbojsk\u00e1",
       "target": "Pohronsk\u00e1 Polhora"
     },
     {
-      "distance": 8804.591767180596,
       "source": "Ni\u017en\u00fd Sk\u00e1lnik",
       "target": "Rimavsk\u00e1 Sobota"
     },
     {
-      "distance": 8181.102590834747,
       "source": "Hajn\u00e1\u010dka",
       "target": "Fi\u013eakovo"
     },
     {
-      "distance": 6527.509507767443,
       "source": "Kosto\u013eany nad Horn\u00e1dom",
       "target": "Kysak"
     },
     {
-      "distance": 12727.26238653961,
       "source": "Tisovec",
       "target": "Hn\u00fa\u0161\u0165a"
     },
     {
-      "distance": 4745.029405950341,
       "source": "Podre\u010dany",
       "target": "Lovinoba\u0148a"
     },
     {
-      "distance": 4497.538721792531,
       "source": "Podre\u010dany",
       "target": "Tom\u00e1\u0161ovce"
     },
     {
-      "distance": 10555.549505953153,
       "source": "Podre\u010dany",
       "target": "Brezni\u010dka"
     },
     {
-      "distance": 3086.4548635197484,
       "source": "M\u00fdtna",
       "target": "Lovinoba\u0148a"
     },
     {
-      "distance": 8210.76416945401,
       "source": "M\u00fdtna",
       "target": "Podkriv\u00e1\u0148"
     },
     {
-      "distance": 4642.193801682188,
       "source": "Slia\u010d k\u00fapele",
       "target": "Zvolen n\u00e1kladn\u00e1 stanica"
     },
     {
-      "distance": 4771.586731090155,
       "source": "Tom\u00e1\u0161ovce",
       "target": "Lu\u010denec"
     },
     {
-      "distance": 2064.375192006554,
       "source": "Podkriv\u00e1\u0148",
       "target": "Kriv\u00e1\u0148"
     },
     {
-      "distance": 13272.056810867634,
       "source": "Pr\u00edbovce-Rakovo",
       "target": "Diviaky"
     },
     {
-      "distance": 6219.990993409418,
       "source": "Kokava nad Rimavicou",
       "target": "Zlatno"
     },
     {
-      "distance": 4598.629905408979,
       "source": "Pr\u0161a",
       "target": "Fi\u013eakovo"
     },
     {
-      "distance": 10134.41305425108,
       "source": "Pr\u0161a",
       "target": "Lu\u010denec"
     },
     {
-      "distance": 6538.024577582568,
       "source": "Medzibrod",
       "target": "Dubov\u00e1"
     },
     {
-      "distance": 7761.674182348686,
       "source": "He\u013epa",
       "target": "Polomka"
     },
     {
-      "distance": 8287.50064450144,
       "source": "Polomka",
       "target": "Ga\u0161parovo"
     },
     {
-      "distance": 9022.959255650914,
       "source": "Dob\u0161insk\u00e1 \u013dadov\u00e1 Jasky\u0148a",
       "target": "Telg\u00e1rt"
     },
     {
-      "distance": 3555.539709806092,
       "source": "Snina",
       "target": "Stak\u010d\u00edn"
     },
     {
-      "distance": 9270.292754980406,
       "source": "Margecany",
       "target": "Mal\u00e1 Lodina"
     },
     {
-      "distance": 6242.056863045515,
       "source": "Margecany",
       "target": "Gelnica"
     },
     {
-      "distance": 7018.043749013124,
       "source": "Kysak",
       "target": "Mal\u00e1 Lodina"
     },
     {
-      "distance": 2818.4221411387107,
       "source": "Kysak",
       "target": "Li\u010dartovce"
     },
     {
-      "distance": 6628.427797035992,
       "source": "Handlov\u00e1",
       "target": "Chrenovec"
     },
     {
-      "distance": 9088.154906472764,
       "source": "Handlov\u00e1",
       "target": "Sklen\u00e9 pri Handlovej"
     },
     {
-      "distance": 5286.01864172311,
       "source": "Kremnick\u00e9 Bane",
       "target": "Kremnica"
     },
     {
-      "distance": 5758.955260037533,
       "source": "Kremnick\u00e9 Bane",
       "target": "Horn\u00e1 \u0160tub\u0148a"
     },
     {
-      "distance": 7024.639862897962,
       "source": "Chrenovec",
       "target": "Prievidza"
     },
     {
-      "distance": 4862.770867891591,
       "source": "\u010cierne nad Top\u013eou",
       "target": "Hanu\u0161ovce nad Top\u013eou"
     },
     {
-      "distance": 6248.691467091889,
       "source": "Kapu\u0161any pri Pre\u0161ove",
       "target": "Lipn\u00edky"
     },
     {
-      "distance": 11724.978891277626,
       "source": "Kapu\u0161any pri Pre\u0161ove",
       "target": "Raslavice"
     },
     {
-      "distance": 8996.39779726223,
       "source": "Lipn\u00edky",
       "target": "Hanu\u0161ovce nad Top\u013eou"
     },
     {
-      "distance": 6217.963055618096,
       "source": "Krompachy",
       "target": "Spi\u0161sk\u00e9 Vlachy"
     },
     {
-      "distance": 8354.968637415614,
       "source": "Krompachy",
       "target": "Gelnica"
     },
     {
-      "distance": 5998.8880776428905,
       "source": "Ga\u0161parovo",
       "target": "Brezno-Halny"
     },
     {
-      "distance": 6154.143366910267,
       "source": "Podbrezov\u00e1",
       "target": "Dubov\u00e1"
     },
     {
-      "distance": 9526.163494231296,
       "source": "Diviaky",
       "target": "Horn\u00e1 \u0160tub\u0148a"
     },
     {
-      "distance": 12718.88496584761,
       "source": "Spi\u0161sk\u00e9 Vlachy",
       "target": "Marku\u0161ovce"
     },
     {
-      "distance": 16556.92783248892,
       "source": "Raslavice",
       "target": "Bardejov"
     },
     {
-      "distance": 6753.3909154060375,
       "source": "Barto\u0161ova Leh\u00f4tka",
       "target": "Kremnica"
     },
     {
-      "distance": 7209.010597790147,
       "source": "Barto\u0161ova Leh\u00f4tka",
       "target": "\u017diar nad Hronom"
     },
     {
-      "distance": 8897.597440808513,
       "source": "Barto\u0161ova Leh\u00f4tka",
       "target": "Hronsk\u00e1 D\u00fabrava"
     },
     {
-      "distance": 7028.954850454682,
       "source": "Marku\u0161ovce",
       "target": "Spi\u0161sk\u00e1 Nov\u00e1 Ves"
     },
     {
-      "distance": 4767.132131965245,
       "source": "Kamenica nad Cirochou",
       "target": "Udavsk\u00e9"
     },
     {
-      "distance": 6844.191868303149,
       "source": "Kozeln\u00edk",
       "target": "Hronsk\u00e1 D\u00fabrava"
     },
     {
-      "distance": 5199.388799098839,
       "source": "Udavsk\u00e9",
       "target": "Humenn\u00e9"
     },
     {
-      "distance": 6520.143349741653,
       "source": "Luben\u00edk",
       "target": "Rev\u00faca"
     },
     {
-      "distance": 11389.43574020314,
       "source": "Hontianske Tes\u00e1re",
       "target": "Tup\u00e1"
     },
     {
-      "distance": 10442.155381093782,
       "source": "V\u00edg\u013ea\u0161",
       "target": "Zvolen n\u00e1kladn\u00e1 stanica"
     },
     {
-      "distance": 12230.834656302748,
       "source": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
       "target": "Vydrn\u00edk"
     },
     {
-      "distance": 10346.170939813848,
       "source": "Krupina",
       "target": "S\u00e1sa-Plie\u0161ovce"
     },
     {
-      "distance": 1762.316828858223,
       "source": "Zvolen n\u00e1kladn\u00e1 stanica",
       "target": "Zvolen osobn\u00e1 stanica"
     },
     {
-      "distance": 3108.364546721694,
       "source": "Horn\u00e1 \u0160tub\u0148a",
       "target": "Sklen\u00e9 pri Handlovej"
     },
     {
-      "distance": 3627.1303056223855,
       "source": "Matejovce pri Poprade",
       "target": "Poprad-Tatry TE\u017d"
     },
     {
-      "distance": 3416.0149239302827,
       "source": "Matejovce pri Poprade",
       "target": "Studen\u00fd Potok"
     },
     {
-      "distance": 3283.420525938349,
       "source": "Liskov\u00e1 zast\u00e1vka",
       "target": "Ru\u017eomberok"
     },
     {
-      "distance": 4788.411511547054,
       "source": "Liskov\u00e1 zast\u00e1vka",
       "target": "Liptovsk\u00e1 Tepl\u00e1"
     },
     {
-      "distance": 11074.553955361902,
       "source": "Brezni\u010dka",
       "target": "Lu\u010denec"
     },
     {
-      "distance": 8615.889097562209,
       "source": "Se\u010dovce",
       "target": "Trebi\u0161ov"
     },
     {
-      "distance": 5028.996757355135,
       "source": "Turzovka",
       "target": "Sta\u0161kov"
     },
     {
-      "distance": 6336.419916299717,
       "source": "Turzovka",
       "target": "Vysok\u00e1 nad Kysucou"
     },
     {
-      "distance": 6811.863435689561,
       "source": "Trebi\u0161ov",
       "target": "\u00dapor"
     },
     {
-      "distance": 2525.294718934689,
       "source": "Trebi\u0161ov",
       "target": "Trebi\u0161ov \u0160RT"
     },
     {
-      "distance": 9222.86894039635,
       "source": "B\u00e1novce nad Ondavou",
       "target": "Michalovce"
     },
     {
-      "distance": 11571.224528586525,
       "source": "Ve\u013ek\u00fd Hore\u0161",
       "target": "Streda nad Bodrogom"
     },
     {
-      "distance": 6857.198938636892,
       "source": "Streda nad Bodrogom",
       "target": "Slovensk\u00e9 Nov\u00e9 Mesto"
     },
     {
-      "distance": 5408.4468347665725,
       "source": "Slanec",
       "target": "Ruskov"
     },
     {
-      "distance": 5287.56676610007,
       "source": "Mn\u00ed\u0161ek nad Hnilcom",
       "target": "Prakovce"
     },
     {
-      "distance": 6211.218258134205,
       "source": "Prakovce",
       "target": "Gelnica"
     },
     {
-      "distance": 7215.219571523076,
       "source": "Tup\u00e1",
       "target": "\u0160ahy"
     },
     {
-      "distance": 5547.0088298433375,
       "source": "Va\u010fovce",
       "target": "\u010cachtice"
     },
     {
-      "distance": 5004.659956985116,
       "source": "Va\u010fovce",
       "target": "Star\u00e1 Tur\u00e1"
     },
     {
-      "distance": 3669.6996735111934,
       "source": "Kapince",
       "target": "Nov\u00e9 Sady"
     },
     {
-      "distance": 5860.467828551548,
       "source": "Kapince",
       "target": "Ve\u013ek\u00e9 Rip\u0148any"
     },
     {
-      "distance": 7351.102516971334,
       "source": "Jablonov\u00e9",
       "target": "Kuchy\u0148a"
     },
     {
-      "distance": 6798.405040229997,
       "source": "Plaveck\u00e9 Podhradie",
       "target": "Roho\u017en\u00edk"
     },
     {
-      "distance": 5217.385972786756,
       "source": "Roho\u017en\u00edk",
       "target": "Kuchy\u0148a"
     },
     {
-      "distance": 7072.329667771441,
       "source": "Z\u00e1horsk\u00e1 Ves",
       "target": "Vysok\u00e1 pri Morave"
     },
     {
-      "distance": 1737.6496925309343,
       "source": "\u010cakajovce",
       "target": "Jel\u0161ovce"
     },
     {
-      "distance": 2882.246170814888,
       "source": "\u010cakajovce",
       "target": "Zbehy"
     },
     {
-      "distance": 2467.2306784789,
       "source": "\u010cakajovce",
       "target": "Lu\u017eianky"
     },
     {
-      "distance": 8660.364833209926,
       "source": "Jel\u0161ovce",
       "target": "\u017dirany"
     },
     {
-      "distance": 3367.8095257392843,
       "source": "Jel\u0161ovce",
       "target": "Lu\u017eianky TIP"
     },
     {
-      "distance": 14282.298932941141,
       "source": "Jel\u0161ovce",
       "target": "Ludanice"
     },
     {
-      "distance": 9328.664225243816,
       "source": "\u0160a\u0161t\u00edn-Str\u00e1\u017ee",
       "target": "\u0160ajd\u00edkove Humence"
     },
     {
-      "distance": 5319.952155576189,
       "source": "\u0160ajd\u00edkove Humence",
       "target": "Senica"
     },
     {
-      "distance": 8666.541809892957,
       "source": "Senica",
       "target": "Jablonica"
     },
     {
-      "distance": 10117.601276252884,
       "source": "Jablonica",
       "target": "Smolenice"
     },
     {
-      "distance": 10245.691659929356,
       "source": "Jablonica",
       "target": "Brezov\u00e1 pod Bradlom"
     },
     {
-      "distance": 6432.053336222265,
       "source": "Boler\u00e1z",
       "target": "Smolenice"
     },
     {
-      "distance": 5518.679621973304,
       "source": "Boler\u00e1z",
       "target": "\u0160elpice"
     },
     {
-      "distance": 4259.129753431886,
       "source": "\u0160elpice",
       "target": "Nem\u010danka"
     },
     {
-      "distance": 3104.4721237377303,
       "source": "Nem\u010danka",
       "target": "Trnava"
     },
     {
-      "distance": 6018.658595242595,
       "source": "Pezinok",
       "target": "\u0160enkvice"
     },
     {
-      "distance": 8939.992758970746,
       "source": "C\u00edfer",
       "target": "Trnava"
     },
     {
-      "distance": 10690.168970178667,
       "source": "C\u00edfer",
       "target": "\u0160enkvice"
     },
     {
-      "distance": 4837.134841830767,
       "source": "Tren\u010dianska Turn\u00e1",
       "target": "Tren\u010d\u00edn"
     },
     {
-      "distance": 4652.320976132025,
       "source": "Tren\u010dianska Turn\u00e1",
       "target": "Tren\u010d\u00edn-Zlatovce"
     },
     {
-      "distance": 12430.744244614361,
       "source": "Tren\u010dianska Turn\u00e1",
       "target": "Tren\u010dianske Bohuslavice"
     },
     {
-      "distance": 9172.310188878737,
       "source": "Sere\u010f",
       "target": "Siladice"
     },
     {
-      "distance": 6310.260144463089,
       "source": "Sere\u010f",
       "target": "G\u00e1\u0148"
     },
     {
-      "distance": 6591.585685881548,
       "source": "Sere\u010f",
       "target": "Kri\u017eovany nad Dudv\u00e1hom"
     },
     {
-      "distance": 8271.905639562374,
       "source": "Tatransk\u00e1 Lomnica",
       "target": "Studen\u00fd Potok"
     },
     {
-      "distance": 7814.786303959185,
       "source": "Leopoldov",
       "target": "Siladice"
     },
     {
-      "distance": 7407.442747212399,
       "source": "Leopoldov",
       "target": "Ve\u013ek\u00e9 Kosto\u013eany"
     },
     {
-      "distance": 3694.0296623998947,
       "source": "Leopoldov",
       "target": "Hlohovec"
     },
     {
-      "distance": 7362.590522142323,
       "source": "Siladice",
       "target": "Kri\u017eovany nad Dudv\u00e1hom"
     },
     {
-      "distance": 14059.317100747889,
       "source": "Pie\u0161\u0165any",
       "target": "\u010cachtice"
     },
     {
-      "distance": 10246.827533921129,
       "source": "Pie\u0161\u0165any",
       "target": "Ve\u013ek\u00e9 Kosto\u013eany"
     },
     {
-      "distance": 6300.036014941026,
       "source": "Tren\u010dianske Bohuslavice",
       "target": "Nov\u00e9 Mesto nad V\u00e1hom"
     },
     {
-      "distance": 2204.4350017859447,
       "source": "Tren\u010d\u00edn",
       "target": "Tren\u010d\u00edn-Zlatovce"
     },
     {
-      "distance": 9655.490269939859,
       "source": "Tren\u010d\u00edn",
       "target": "Mn\u00edchova Lehota"
     },
     {
-      "distance": 6370.885173903117,
       "source": "Tren\u010d\u00edn",
       "target": "Tren\u010dianska Tepl\u00e1"
     },
     {
-      "distance": 5152.507950813231,
       "source": "Dubnica nad V\u00e1hom",
       "target": "Tren\u010dianska Tepl\u00e1"
     },
     {
-      "distance": 6365.425697791023,
       "source": "Dubnica nad V\u00e1hom",
       "target": "Ilava"
     },
     {
-      "distance": 6844.301967863225,
       "source": "Dubnica nad V\u00e1hom",
       "target": "Prusk\u00e9"
     },
     {
-      "distance": 3379.546936690876,
       "source": "Dubnica nad V\u00e1hom",
       "target": "Nem\u0161ov\u00e1"
     },
     {
-      "distance": 5358.680642911579,
       "source": "Ilava",
       "target": "Ladce"
     },
     {
-      "distance": 2135.177635041609,
       "source": "Paprad",
       "target": "Poriadie"
     },
     {
-      "distance": 4236.742939093401,
       "source": "Paprad",
       "target": "Star\u00e1 Tur\u00e1"
     },
     {
-      "distance": 4270.801188690049,
       "source": "Nov\u00e9 Mesto nad V\u00e1hom",
       "target": "\u010cachtice"
     },
     {
-      "distance": 11248.487543366153,
       "source": "L\u00faky pod Makytou",
       "target": "P\u00fachov"
     },
     {
-      "distance": 5708.438672237082,
       "source": "P\u00fachov",
       "target": "Belu\u0161a"
     },
     {
-      "distance": 3787.8639580228014,
       "source": "Ladce",
       "target": "Belu\u0161a"
     },
     {
-      "distance": 5976.404939128433,
       "source": "Ladce",
       "target": "Prusk\u00e9"
     },
     {
-      "distance": 4037.6491055497227,
       "source": "Ladce",
       "target": "Lednick\u00e9 Rovne"
     },
     {
-      "distance": 3423.7898255051114,
       "source": "Nem\u0161ov\u00e1",
       "target": "Tren\u010dianska Tepl\u00e1"
     },
     {
-      "distance": 3332.8966616883017,
       "source": "B\u00e1novce nad Bebravou",
       "target": "Doln\u00e9 Na\u0161tice"
     },
     {
-      "distance": 2283.9561498679586,
       "source": "B\u00e1novce nad Bebravou",
       "target": "Horn\u00e9 Ozorovce"
     },
     {
-      "distance": 2554.4078100949014,
       "source": "Doln\u00e9 Na\u0161tice",
       "target": "Rybany"
     },
     {
-      "distance": 6376.225451133876,
       "source": "Rybany",
       "target": "\u017dabokreky nad Nitrou"
     },
     {
-      "distance": 4096.552788541682,
       "source": "Svinn\u00e1",
       "target": "Ruskovce"
     },
     {
-      "distance": 7179.154271571565,
       "source": "Svinn\u00e1",
       "target": "Mn\u00edchova Lehota"
     },
     {
-      "distance": 2894.7883410298796,
       "source": "Horn\u00e9 Ozorovce",
       "target": "Ruskovce"
     },
     {
-      "distance": 11116.195330456852,
       "source": "Ru\u017eomberok",
       "target": "\u013duboch\u0148a"
     },
     {
-      "distance": 5955.710237907719,
       "source": "Ve\u013ek\u00e9 Rip\u0148any",
       "target": "Rado\u0161ina"
     },
     {
-      "distance": 3892.369171542915,
       "source": "Nov\u00e9 Sady",
       "target": "Zbehy"
     },
     {
-      "distance": 7158.593017488796,
       "source": "Kri\u017eovany nad Dudv\u00e1hom",
       "target": "Trnava"
     },
     {
-      "distance": 4024.83784372399,
       "source": "Ri\u0161\u0148ovce",
       "target": "Alek\u0161ince"
     },
     {
-      "distance": 2426.522725039605,
       "source": "Anda\u010d",
       "target": "Zbehy"
     },
     {
-      "distance": 14151.901820277528,
       "source": "Ve\u013ek\u00fd K\u00fdr",
       "target": "Nitra"
     },
     {
-      "distance": 11052.148818200136,
       "source": "Ve\u013ek\u00fd K\u00fdr",
       "target": "\u0160urany"
     },
     {
-      "distance": 6957.951820410523,
       "source": "Nitra",
       "target": "Lu\u017eianky"
     },
     {
-      "distance": 4430.065987181574,
       "source": "B\u00e1nov",
       "target": "\u0160urany"
     },
     {
-      "distance": 1188.7054881495376,
       "source": "Lu\u017eianky",
       "target": "Lu\u017eianky TIP"
     },
     {
-      "distance": 6338.683640704893,
       "source": "Topo\u013e\u010dany",
       "target": "Bo\u0161any"
     },
     {
-      "distance": 7462.051229856561,
       "source": "Topo\u013e\u010dany",
       "target": "Ludanice"
     },
     {
-      "distance": 2977.7496126030865,
       "source": "Chynorany",
       "target": "Bo\u0161any"
     },
     {
-      "distance": 2065.5120541012284,
       "source": "Chynorany",
       "target": "\u017dabokreky nad Nitrou"
     },
     {
-      "distance": 3791.555192639096,
       "source": "\u017dabokreky nad Nitrou",
       "target": "Ve\u013ek\u00e9 Bielice"
     },
     {
-      "distance": 5533.872323278822,
       "source": "Ve\u013ek\u00e9 Bielice",
       "target": "Ve\u013ek\u00e9 Uherce"
     },
     {
-      "distance": 3409.7201932571475,
       "source": "Ve\u013ek\u00e9 Uherce",
       "target": "Oslany"
     },
     {
-      "distance": 6279.468827230311,
       "source": "Oslany",
       "target": "Zemianske Kosto\u013eany"
     },
     {
-      "distance": 3958.839053199323,
       "source": "Zemianske Kosto\u013eany",
       "target": "Nov\u00e1ky"
     },
     {
-      "distance": 4379.101053536524,
       "source": "Nov\u00e1ky",
       "target": "Ko\u0161"
     },
     {
-      "distance": 1028.9215331213327,
       "source": "Prievidza",
       "target": "Prievidza n\u00e1kladn\u00e1 stanica"
     },
     {
-      "distance": 10063.79876202122,
       "source": "Prievidza",
       "target": "Nitrianske Pravno"
     },
     {
-      "distance": 3261.5138556014326,
       "source": "Prievidza n\u00e1kladn\u00e1 stanica",
       "target": "Ko\u0161"
     },
     {
-      "distance": 7023.157825032576,
       "source": "Ma\u0148a",
       "target": "\u00da\u013eany nad \u017ditavou"
     },
     {
-      "distance": 11218.9135138897,
       "source": "Ma\u0148a",
       "target": "Vr\u00e1ble"
     },
     {
-      "distance": 10760.91073898702,
       "source": "Tes\u00e1rske Mly\u0148any",
       "target": "Vr\u00e1ble"
     },
     {
-      "distance": 4918.276636276733,
       "source": "Tes\u00e1rske Mly\u0148any",
       "target": "Zlat\u00e9 Moravce"
     },
     {
-      "distance": 9667.446827545149,
       "source": "Tes\u00e1rske Mly\u0148any",
       "target": "Jelenec"
     },
     {
-      "distance": 5119.865962309573,
       "source": "\u017dirany",
       "target": "Jelenec"
     },
     {
-      "distance": 1692.7499897663276,
       "source": "Topo\u013e\u010dianky",
       "target": "Zlat\u00e9 Moravce z\u00e1vody"
     },
     {
-      "distance": 2300.4562425651084,
       "source": "Zlat\u00e9 Moravce",
       "target": "Zlat\u00e9 Moravce z\u00e1vody"
     },
     {
-      "distance": 10119.651043474225,
       "source": "Zlat\u00e9 Moravce-Pr\u00edlepy",
       "target": "Koz\u00e1rovce"
     },
     {
-      "distance": 4146.079048461272,
       "source": "Zlat\u00e9 Moravce-Pr\u00edlepy",
       "target": "Zlat\u00e9 Moravce z\u00e1vody"
     },
     {
-      "distance": 9835.373436049906,
       "source": "Jesensk\u00e9",
       "target": "Rimavsk\u00e1 Sobota"
     },
     {
-      "distance": 4704.678258534022,
       "source": "\u0160urany",
       "target": "\u00da\u013eany nad \u017ditavou"
     },
     {
-      "distance": 5883.09816384229,
       "source": "Hul",
       "target": "Podh\u00e1jska"
     },
     {
-      "distance": 2428.1610294868265,
       "source": "Hul",
       "target": "\u00da\u013eany nad \u017ditavou"
     },
     {
-      "distance": 5856.967987925702,
       "source": "Podh\u00e1jska",
       "target": "Be\u0161a"
     },
     {
-      "distance": 7412.219235179978,
       "source": "Be\u0161a",
       "target": "Lok"
     },
     {
-      "distance": 3872.988373225111,
       "source": "Lok",
       "target": "Kaln\u00e1 nad Hronom"
     },
     {
-      "distance": 5696.750113313061,
       "source": "Kaln\u00e1 nad Hronom",
       "target": "Levice"
     },
     {
-      "distance": 8341.867695005674,
       "source": "Levice",
       "target": "Ve\u013ek\u00e9 Kozm\u00e1lovce"
     },
     {
-      "distance": 10988.304703792983,
       "source": "Vydrn\u00edk",
       "target": "Poprad-Tatry"
     },
     {
-      "distance": 3493.8015978221642,
       "source": "Ve\u013ek\u00e9 Kozm\u00e1lovce",
       "target": "Koz\u00e1rovce"
     },
     {
-      "distance": 14098.120645484014,
       "source": "Koz\u00e1rovce",
       "target": "Nov\u00e1 Ba\u0148a"
     },
     {
-      "distance": 3702.6367735548006,
       "source": "Ni\u017en\u00e1",
       "target": "Podbiel"
     },
     {
-      "distance": 3908.7328823068706,
       "source": "Ni\u017en\u00e1",
       "target": "Tvrdo\u0161\u00edn"
     },
     {
-      "distance": 9683.981397824844,
       "source": "Zvolen osobn\u00e1 stanica",
       "target": "Hronsk\u00e1 D\u00fabrava"
     },
     {
-      "distance": 9993.771945315098,
       "source": "Nov\u00e1 Ba\u0148a",
       "target": "\u017darnovica"
     },
     {
-      "distance": 6784.149828036131,
       "source": "\u017darnovica",
       "target": "Hlin\u00edk nad Hronom"
     },
     {
-      "distance": 10947.755954718903,
       "source": "Lietavsk\u00e1 L\u00fa\u010dka",
       "target": "Rajec"
     },
     {
-      "distance": 8536.470833645186,
       "source": "Hlin\u00edk nad Hronom",
       "target": "\u017diar nad Hronom"
     },
     {
-      "distance": 94.53015686228794,
       "source": "Poprad-Tatry",
       "target": "Poprad-Tatry TE\u017d"
     },
     {
-      "distance": 4748.652148933895,
       "source": "Vysok\u00e1 nad Kysucou",
       "target": "Makov"
     },
     {
-      "distance": 4272.53936528421,
       "source": "Sta\u0161kov",
       "target": "Rakov\u00e1"
     },
     {
-      "distance": 7758.882816661566,
       "source": "P\u00e1rnica",
       "target": "Doln\u00fd Kub\u00edn"
     },
     {
-      "distance": 6586.476219894102,
       "source": "P\u00e1rnica",
       "target": "Kra\u013eovany"
     },
     {
-      "distance": 4032.2785730791184,
       "source": "Doln\u00fd Kub\u00edn",
       "target": "Medzibrodie nad Oravou"
     },
     {
-      "distance": 3289.4847742664283,
       "source": "Medzibrodie nad Oravou",
       "target": "Oravsk\u00fd Podz\u00e1mok"
     },
     {
-      "distance": 9604.244468256988,
       "source": "Oravsk\u00fd Podz\u00e1mok",
       "target": "Podbiel"
     },
     {
-      "distance": 4860.166732447529,
       "source": "Tvrdo\u0161\u00edn",
       "target": "Trsten\u00e1"
     },
     {
-      "distance": 1416.1773179461604,
       "source": "Var\u00edn",
       "target": "\u017dilina-Tepli\u010dka"
     },
     {
-      "distance": 11241.714499228843,
       "source": "Var\u00edn",
       "target": "Vr\u00fatky"
     },
     {
-      "distance": 1694.428501505004,
       "source": "Vr\u00fatky n\u00e1kladn\u00e1 stanica",
       "target": "Vr\u00fatky"
     },
     {
-      "distance": 6682.711446738104,
       "source": "Vr\u00fatky n\u00e1kladn\u00e1 stanica",
       "target": "Turany"
     },
     {
-      "distance": 8249.66957855539,
       "source": "Turany",
       "target": "Kra\u013eovany"
     },
     {
-      "distance": 4213.197981953167,
       "source": "Kra\u013eovany",
       "target": "\u013duboch\u0148a"
     },
     {
-      "distance": 7707.710085508961,
       "source": "Liptovsk\u00e1 Tepl\u00e1",
       "target": "V\u00fdh. Paludza"
     },
     {
-      "distance": 6124.748774278476,
       "source": "V\u00fdh. Paludza",
       "target": "Liptovsk\u00fd Mikul\u00e1\u0161"
     },
     {
-      "distance": 3825.3430151589464,
       "source": "Liptovsk\u00fd Mikul\u00e1\u0161",
       "target": "Okoli\u010dn\u00e9"
     },
     {
-      "distance": 6658.268736697082,
       "source": "Okoli\u010dn\u00e9",
       "target": "Liptovsk\u00fd Hr\u00e1dok"
     },
     {
-      "distance": 4955.898197371637,
       "source": "Liptovsk\u00fd Hr\u00e1dok",
       "target": "Kr\u00e1\u013eova Lehota"
     },
     {
-      "distance": 9913.027991104831,
       "source": "Kr\u00e1\u013eova Lehota",
       "target": "V\u00fdchodn\u00e1"
     },
     {
-      "distance": 11441.222642337456,
       "source": "V\u00fdchodn\u00e1",
       "target": "\u0160trba"
     },
     {
-      "distance": 6035.134373276716,
       "source": "Studen\u00fd Potok",
       "target": "Ke\u017emarok"
-    },
-    {
-      "distance": 4187.14493941613,
-      "source": "Bratislava - Hlavn\u00e1 stanica",
-      "target": "Bratislava - Vinohrady"
     }
   ]
 }

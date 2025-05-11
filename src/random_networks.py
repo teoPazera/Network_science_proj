@@ -104,7 +104,7 @@ def generate_random_graphs(country: str, n: int=10, max_swap: int=100) -> None:
     # store the statistics of the generated graph into the database
 
     # load the graph
-    G: nx.Graph = largest_connected_component(graph_from_geojson(f"selected_fixed_graphs/{country}-railroad-network.json"))
+    G: nx.Graph = largest_connected_component(graph_from_geojson(f"graphs/{country}-railroad-network.json"))
 
     # open the connection to the database
     with sqlite3.connect(db_name) as conn:
