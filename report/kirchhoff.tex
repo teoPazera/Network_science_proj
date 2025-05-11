@@ -24,6 +24,10 @@ Kirchhoffov index nie je priamo porovnávateľný medzi grafmi, keďže pracuje 
 
 Môžeme teraz spočítať $\mathit{Kf}_n(G)$ pre obe siete:
 
+\begin{equation*}
+	\mathit{Kf}_n(G) = \sum_{\substack{i, j \in V(G) \\ i < j}} \frac{R_{i,j}}{\binom{n}{2}} = \frac{2}{n(n-1)} \sum_{\substack{i, j \in V(G) \\ i < j}} R_{i,j} = \frac{2}{n-1}\sum_{i=1}^{n-1} \frac{1}{\lambda_i}
+\end{equation*}
+
 \begin{align*}
 		\mathit{Kf}_n(G_{\text{svk}}) &= 92.29 & \mathit{Kf}_n(G_{\text{cze}}) &= 65.99
 \end{align*}
